@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" coreVersion="7.0" field="snubCube">
+  <EditHistory editNumber="417" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" dir="snubVertex" index="0" len="1 1 1" symm="octahedral"/>
+    <SelectManifestation point="1 1 1 0 0 1 0 1 0"/>
+    <ApplyTool name="octahedral.builtin/octahedral around origin" selectInputs="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll/>
+    <EndBlock/>
+    <ApplyTool deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 2 -1 -1 -1 0 0 -1"/>
+    <SelectManifestation point="1 2 2 1 1 1 0 0 1"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 2 1 1 1 0 0 1"/>
+    <SelectManifestation point="1 2 2 -1 -1 -1 0 0 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false" joinMode="ALL_TO_LAST"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 1 1 2 2 1 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="1 2 2 -1 -1 -1 0 0 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="1 2 2 1 1 1 0 0 1"/>
+    <SelectManifestation point="0 0 1 1 2 2 1 1 1"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll/>
+    <EndBlock/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="1 2 2 0 0 -1 1 1 1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 0 0 1 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 2 0 0 -1 1 1 1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 0 0 1 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 2 0 0 -1 1 1 1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 0 0 1 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="1 1 1 1 2 2 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+      <polygonVertex at="1 2 2 0 0 1 -1 -1 -1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 1 1 0 0 -1 -1 -2 -2"/>
+      <polygonVertex at="1 2 2 0 0 1 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation>
+      <polygonVertex at="1 2 2 0 0 -1 1 1 1"/>
+      <polygonVertex at="1 1 1 -1 -2 -2 0 0 1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+    </SelectManifestation>
+    <Delete/>
+    <SelectManifestation>
+      <polygonVertex at="1 2 2 0 0 -1 1 1 1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+      <polygonVertex at="1 1 1 0 0 1 1 2 2"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+      <polygonVertex at="0 0 1 1 2 2 1 1 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="153" green="255" red="153"/>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 1 1 2 2 1 1 1"/>
+    <setItemColor blue="51" green="51" red="255"/>
+    <SelectManifestation endSegment="0 0 1 1 2 2 1 1 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <setItemColor blue="204" green="204" red="255"/>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <setItemColor blue="0" green="204" red="0"/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <setItemColor blue="204" green="255" red="204"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0" startSegment="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <setItemColor blue="255" green="51" red="153"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="51" red="153"/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <setItemColor blue="255" green="204" red="204"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0" startSegment="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <setItemColor blue="204" green="204" red="204"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0" startSegment="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <setItemColor blue="0" green="153" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" panels="SELECT" struts="IGNORE"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+      <polygonVertex at="0 0 1 1 2 2 1 1 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 1 1 2 2 1 1 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 1 1 2 2 1 1 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+      <polygonVertex at="0 0 1 1 2 2 1 1 1"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 1 1 2 2 1 1 1"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <SelectManifestation point="1 2 2 -1 -1 -1 0 0 -1"/>
+    <SelectManifestation point="1 2 2 1 1 1 0 0 1"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 1 1 2 2 1 1 1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 1 1 2 2 1 1 1"/>
+    <EndBlock/>
+    <StrutCreation anchor="1 2 2 1 1 1 0 0 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="2 4 3 1 0 0 -1 -1 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="3 6 4 1 -1 -1 -2 -2 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="1 2 2 -1 -1 -1 0 0 -1" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="2 4 4 -2 -2 -2 0 0 -2" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="3 6 6 -3 -3 -3 0 0 -3" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="4 8 8 -4 -4 -4 0 0 -4" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="5 10 10 -5 -5 -5 0 0 -5" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="6 12 12 -6 -6 -6 0 0 -6" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="7 14 14 -7 -7 -7 0 0 -7" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="8 16 16 -8 -8 -8 0 0 -8" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="4 8 5 1 -2 -2 -3 -3 1" startSegment="3 6 4 1 -1 -1 -2 -2 1"/>
+    <EndBlock/>
+    <StrutCreation anchor="4 8 5 1 -2 -2 -3 -3 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="5 10 6 1 -3 -3 -4 -4 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="6 12 7 1 -4 -4 -5 -5 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="7 14 8 1 -5 -5 -6 -6 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="8 16 9 1 -6 -6 -7 -7 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="9 18 10 1 -7 -7 -8 -8 1" dir="snubTriangle" index="6" len="1 2 1" sense="minus" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="9 17 9 2 -6 -7 -7 -6 2" startSegment="9 18 10 1 -7 -7 -8 -8 1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="9 17 9 2 -6 -7 -7 -6 2" startSegment="9 18 10 1 -7 -7 -8 -8 1"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="9 17 9 2 -6 -7 -7 -6 2"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="9 18 10 1 -7 -7 -8 -8 1" startSegment="8 16 9 1 -6 -6 -7 -7 1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="9 18 10 1 -7 -7 -8 -8 1" startSegment="8 16 9 1 -6 -6 -7 -7 1"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="9 18 10 1 -7 -7 -8 -8 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="10 20 11 1 -8 -8 -9 -9 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="11 22 12 1 -9 -9 -10 -10 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="12 24 13 1 -10 -10 -11 -11 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="13 26 14 1 -11 -11 -12 -12 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="14 28 15 1 -12 -12 -13 -13 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="15 30 16 1 -13 -13 -14 -14 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="9 18 18 -9 -9 -9 0 0 -9" startSegment="8 16 16 -8 -8 -8 0 0 -8"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="9 18 18 -9 -9 -9 0 0 -9" startSegment="8 16 16 -8 -8 -8 0 0 -8"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="9 18 18 -9 -9 -9 0 0 -9" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="10 20 20 -10 -10 -10 0 0 -10" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="11 22 22 -11 -11 -11 0 0 -11" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 1 2 2 1 1 1"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 1 -1 -2 -2 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 1 2 2 1 1 1"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 1 -1 -2 -2 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 1 2 2 1 1 1"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 1 -1 -2 -2 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 1 2 2 1 1 1"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 1 -1 -2 -2 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 1 1 1 0 0 1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="1 2 2 1 1 1 0 0 1" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="2 4 4 2 2 2 0 0 2" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="3 6 6 3 3 3 0 0 3" dir="snubVertex" index="23" len="1 2 2" sense="minus" symm="octahedral"/>
+    <StrutCreation anchor="3 6 6 3 3 3 0 0 3" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="3 6 7 4 4 4 1 2 5" startSegment="3 6 6 3 3 3 0 0 3"/>
+    <SelectManifestation point="3 6 7 4 4 4 1 2 5"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="4 8 8 4 4 4 0 0 4" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="5 10 10 5 5 5 0 0 5" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="6 12 12 6 6 6 0 0 6" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <StrutCreation anchor="1 2 2 -1 -1 -1 0 0 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="2 4 3 -1 0 0 1 1 -1" dir="snubTriangle" index="4" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="2 5 4 0 1 0 2 3 0" dir="snubTriangle" index="4" len="1 2 1" symm="octahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 5 4 0 1 0 2 3 0"/>
+    <SelectManifestation endSegment="2 5 4 0 1 0 2 3 0" startSegment="2 4 3 -1 0 0 1 1 -1"/>
+    <SelectManifestation endSegment="2 6 5 1 2 0 3 5 1" startSegment="2 5 4 0 1 0 2 3 0"/>
+    <SelectManifestation point="2 6 5 1 2 0 3 5 1"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="2 4 3 -1 0 0 1 1 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="3 6 4 -1 1 1 2 2 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="4 8 5 -1 2 2 3 3 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="5 10 6 -1 3 3 4 4 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="6 12 7 -1 4 4 5 5 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="7 14 8 -1 5 5 6 6 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="8 16 9 -1 6 6 7 7 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="9 18 10 -1 7 7 8 8 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="10 20 11 -1 8 8 9 9 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="11 22 12 -1 9 9 10 10 -1" dir="snubTriangle" index="23" len="1 2 1" sense="minus" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation point="12 23 12 -1 10 10 11 12 0"/>
+    <SelectManifestation endSegment="12 23 12 -1 10 10 11 12 0" startSegment="11 22 12 -1 9 9 10 10 -1"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="11 22 12 -1 9 9 10 10 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="12 24 13 -1 10 10 11 11 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <SelectManifestation endSegment="5 10 10 5 5 5 0 0 5" startSegment="4 8 8 4 4 4 0 0 4"/>
+    <StrutCreation anchor="7 14 14 7 7 7 0 0 7" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="8 16 16 8 8 8 0 0 8" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="9 18 18 9 9 9 0 0 9" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="10 20 20 10 10 10 0 0 10" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="13 26 14 -1 11 11 12 12 -1" startSegment="12 24 13 -1 10 10 11 11 -1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="13 26 14 -1 11 11 12 12 -1" startSegment="12 24 13 -1 10 10 11 11 -1"/>
+    <EndBlock/>
+    <StrutCreation anchor="13 26 14 -1 11 11 12 12 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="14 28 15 -1 12 12 13 13 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <StrutCreation anchor="15 30 16 -1 13 13 14 14 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="11 22 22 11 11 11 0 0 11" startSegment="10 20 20 10 10 10 0 0 10"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="11 22 22 11 11 11 0 0 11" startSegment="10 20 20 10 10 10 0 0 10"/>
+    <EndBlock/>
+    <StrutCreation anchor="11 22 22 11 11 11 0 0 11" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <SelectManifestation endSegment="16 32 17 -1 14 14 15 15 -1" startSegment="15 30 16 -1 13 13 14 14 -1"/>
+    <StrutCreation anchor="16 32 17 -1 14 14 15 15 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="12 24 24 12 12 12 0 0 12" startSegment="11 22 22 11 11 11 0 0 11"/>
+    <SelectManifestation endSegment="16 32 17 -1 14 14 15 15 -1" startSegment="15 30 16 -1 13 13 14 14 -1"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <BeginBlock/>
+    <SelectManifestation point="13 20 24 7 11 13 4 6 7"/>
+    <SelectManifestation endSegment="12 24 24 12 12 12 0 0 12" startSegment="11 22 22 11 11 11 0 0 11"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="16 32 17 1 -14 -14 -15 -15 1" startSegment="15 30 16 1 -13 -13 -14 -14 1"/>
+    <SelectManifestation endSegment="12 24 24 -12 -12 -12 0 0 -12" startSegment="11 22 22 -11 -11 -11 0 0 -11"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="12 24 24 -12 -12 -12 0 0 -12"/>
+    <SelectManifestation endSegment="12 24 24 -12 -12 -12 0 0 -12" startSegment="11 22 22 -11 -11 -11 0 0 -11"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="12 24 13 1 -10 -10 -11 -11 1" startSegment="11 22 12 1 -9 -9 -10 -10 1"/>
+    <DeselectAll/>
+    <SelectManifestation point="13 20 24 -7 -11 -13 -4 -6 -7"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="16 32 17 1 -14 -14 -15 -15 1" startSegment="15 30 16 1 -13 -13 -14 -14 1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="16 32 17 1 -14 -14 -15 -15 1" startSegment="15 30 16 1 -13 -13 -14 -14 1"/>
+    <SelectManifestation endSegment="12 24 24 -12 -12 -12 0 0 -12" startSegment="11 22 22 -11 -11 -11 0 0 -11"/>
+    <SelectManifestation endSegment="12 24 24 -12 -12 -12 0 0 -12" startSegment="11 22 22 -11 -11 -11 0 0 -11"/>
+    <SelectManifestation point="13 20 24 -7 -11 -13 -4 -6 -7"/>
+    <SelectManifestation point="13 20 24 -7 -11 -13 -4 -6 -7"/>
+    <SelectManifestation endSegment="16 32 17 1 -14 -14 -15 -15 1" startSegment="15 30 16 1 -13 -13 -14 -14 1"/>
+    <SelectManifestation endSegment="16 32 17 1 -14 -14 -15 -15 1" startSegment="15 30 16 1 -13 -13 -14 -14 1"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="12 24 24 -12 -12 -12 0 0 -12" startSegment="11 22 22 -11 -11 -11 0 0 -11"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="13 20 24 -7 -11 -13 -4 -6 -7"/>
+    <SelectManifestation point="16 32 17 1 -14 -14 -15 -15 1"/>
+    <SelectManifestation point="12 24 24 -12 -12 -12 0 0 -12"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="11 22 22 -11 -11 -11 0 0 -11" startSegment="10 20 20 -10 -10 -10 0 0 -10"/>
+    <StrutCreation anchor="11 22 22 -11 -11 -11 0 0 -11" dir="snubVertex" index="2" len="1 2 2" symm="octahedral"/>
+    <StrutCreation anchor="12 24 24 -12 -12 -12 0 0 -12" dir="snubVertex" index="13" len="1 2 2" sense="minus" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="15 30 16 1 -13 -13 -14 -14 1" startSegment="14 28 15 1 -12 -12 -13 -13 1"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="15 30 16 1 -13 -13 -14 -14 1" startSegment="14 28 15 1 -12 -12 -13 -13 1"/>
+    <EndBlock/>
+    <StrutCreation anchor="15 30 16 1 -13 -13 -14 -14 1" dir="snubTriangle" index="13" len="1 2 1" sense="minus" symm="octahedral"/>
+    <DeselectAll/>
+    <StrutCreation anchor="15 30 16 1 -13 -13 -14 -14 1" dir="snubTriangle" index="2" len="1 2 1" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="16 32 17 0 -14 -13 -14 -15 0" startSegment="15 30 16 1 -13 -13 -14 -14 1"/>
+    <SelectManifestation point="16 32 17 0 -14 -13 -14 -15 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="12 24 24 -12 -12 -12 0 0 -12" startSegment="11 22 22 -11 -11 -11 0 0 -11"/>
+    <SelectManifestation endSegment="16 32 17 1 -14 -14 -15 -15 1" startSegment="15 30 16 1 -13 -13 -14 -14 1"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <BeginBlock/>
+    <SelectManifestation point="13 20 24 -7 -11 -13 -4 -6 -7"/>
+    <SelectManifestation point="13 20 24 -7 -11 -13 -4 -6 -7"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <SelectManifestation endSegment="13 26 26 -12 -12 -13 -1 -1 -13" startSegment="12 24 24 -12 -12 -12 0 0 -12"/>
+    <Delete/>
+    <SelectManifestation point="12 24 24 -12 -12 -12 0 0 -12"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="12 24 24 -12 -12 -12 0 0 -12" startSegment="11 22 22 -11 -11 -11 0 0 -11"/>
+    <DeselectAll/>
+    <SelectManifestation point="12 24 24 12 12 12 0 0 12"/>
+    <SelectManifestation endSegment="12 24 24 12 12 12 0 0 12" startSegment="11 22 22 11 11 11 0 0 11"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="17 34 18 -1 15 15 16 16 -1" startSegment="16 32 17 -1 14 14 15 15 -1"/>
+    <Delete/>
+    <SelectManifestation point="17 34 18 -1 15 15 16 16 -1"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="16 32 17 -1 14 14 15 15 -1"/>
+    <SelectManifestation endSegment="16 32 17 -1 14 14 15 15 -1" startSegment="15 30 16 -1 13 13 14 14 -1"/>
+    <SelectManifestation point="13 20 24 7 11 13 4 6 7"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="15 30 16 -1 13 13 14 14 -1" startSegment="14 28 15 -1 12 12 13 13 -1"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="15 30 16 -1 13 13 14 14 -1" dir="snubTriangle" index="0" len="1 2 1" symm="octahedral"/>
+    <SelectManifestation endSegment="11 22 22 11 11 11 0 0 11" startSegment="10 20 20 10 10 10 0 0 10"/>
+    <StrutCreation anchor="11 22 22 11 11 11 0 0 11" dir="snubVertex" index="0" len="1 2 2" symm="octahedral"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="12 24 24 12 12 12 0 0 12" startSegment="11 22 22 11 11 11 0 0 11"/>
+    <SelectManifestation endSegment="16 32 17 -1 14 14 15 15 -1" startSegment="15 30 16 -1 13 13 14 14 -1"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <BeginBlock/>
+    <SelectManifestation point="13 20 24 7 11 13 4 6 7"/>
+    <SelectManifestation point="13 20 24 7 11 13 4 6 7"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="13 20 24 7 11 13 4 6 7"/>
+    <SelectManifestation point="13 20 24 -7 -11 -13 -4 -6 -7"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <Midpoint/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="13 20 24 -7 -11 -13 -4 -6 -7" startSegment="13 20 24 7 11 13 4 6 7"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="13 20 24 0 0 0 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 1 2 2 1 1 1"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 1 -1 -2 -2 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 1 1 2 2 1 1 1"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 1 -1 -2 -2 -1 -1 -1"/>
+      <polygonVertex at="1 2 2 -1 -1 -1 0 0 -1"/>
+      <polygonVertex at="1 2 2 1 1 1 0 0 1"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="13 20 24 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="13 20 24 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 1 1 2 2 1 1 1"/>
+    <SelectManifestation endSegment="0 0 1 -1 -2 -2 -1 -1 -1" startSegment="0 0 -1 -1 -1 -1 -1 -2 -2"/>
+    <SelectManifestation endSegment="0 0 1 -1 -2 -2 -1 -1 -1" startSegment="0 0 -1 -1 -1 -1 -1 -2 -2"/>
+    <SelectManifestation point="0 0 1 -1 -2 -2 -1 -1 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="1 2 2 1 1 1 0 0 1"/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="1 2 2 1 1 1 0 0 1"/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="1 2 2 1 1 1 0 0 1"/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="1 2 2 1 1 1 0 0 1"/>
+    <SelectManifestation endSegment="1 2 2 -1 -1 -1 0 0 -1" startSegment="1 2 2 1 1 1 0 0 1"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="0"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="272.8383483886719" far="545.6756591796875" near="0.6820971369743347" parallel="true" stereoAngle="0.0" width="122.7774658203125">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.5772576332092285" y="0.7326058745384216" z="0.36063575744628906"/>
+      <LookDirection x="0.05596187710762024" y="-0.40511879324913025" z="0.9125490188598633"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="57,122,31" name="snubTriangleMid"/>
+    <Direction color="153,158,0" name="snubTriangle"/>
+    <Direction color="33,99,166" name="snubSquareMid"/>
+    <Direction color="51,153,255" name="snubSquare"/>
+    <Direction color="204,204,0" name="snubVertex"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="229,221,185" name="snubDiagonal"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="255,255,255" name="73" prototype="0 0 0 0 -4 2 -2 -2 2"/>
+    <Direction color="216,216,208" name="snubFaceNormal"/>
+  </SymmetrySystem>
+  <OtherSymmetries/>
+  <Tools/>
+</vzome:vZome>

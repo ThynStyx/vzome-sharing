@@ -1,5 +1,5 @@
 ---
 # Customize your main page however you like.
 ---
-
-These are some vZome designs I have shared.
+6D scaled hypercube ((Built in zometool but used now obsolete struts)
+This is a vZome design Jackpike (John Hall) has shared.

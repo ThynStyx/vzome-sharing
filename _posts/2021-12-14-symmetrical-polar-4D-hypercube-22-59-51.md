@@ -2,6 +2,7 @@
 title: symmetrical polar 4D hypercube
 image: https://ThynStyx.github.io/vzome-sharing/2021/12/14/22-59-51-symmetrical-polar-4D-hypercube/symmetrical-polar-4D-hypercube.png
 layout: vzome
+description: Polar 4D hypercube 
 ---
 
 {% comment %}

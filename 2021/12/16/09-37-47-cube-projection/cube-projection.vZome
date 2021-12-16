@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="67" field="golden" version="7.0">
+  <EditHistory editNumber="82" lastStickyEdit="-1">
+    <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 1"/>
+    <SelectManifestation point="1 2 1 2 1 2"/>
+    <ApplyTool name="tetrahedral.builtin/tetrahedral around origin" selectInputs="true"/>
+    <ApplyTool name="point reflection.builtin/reflection through origin" selectInputs="true"/>
+    <ConvexHull3d mode="noPanels"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 1 2 1 2" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 1 2 1 2" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="8" len="2 4"/>
+    <StrutCreation anchor="0 0 0 0 0 0" dir="green" index="53" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 4 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-2 -4 0 0 -2 -4" startSegment="0 0 0 0 0 0"/>
+    <SelectManifestation point="-2 -4 0 0 -2 -4"/>
+    <SelectManifestation point="2 4 0 0 2 4"/>
+    <SelectManifestation endSegment="2 4 0 0 2 4" startSegment="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 1 2 1 2"/>
+    <SelectManifestation point="1 2 1 2 1 2"/>
+    <SelectManifestation point="1 2 -1 -2 1 2"/>
+    <SelectManifestation point="-1 -2 -1 -2 1 2"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectAll/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-1 -2 1 2 1 2"/>
+      <polygonVertex at="1 2 1 2 1 2"/>
+      <polygonVertex at="1 2 -1 -2 1 2"/>
+      <polygonVertex at="-1 -2 -1 -2 1 2"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 -1 -2 -1 -2" startSegment="-1 -2 1 2 -1 -2"/>
+    <SelectManifestation endSegment="1 2 -1 -2 -1 -2" startSegment="-1 -2 -1 -2 -1 -2"/>
+    <SelectManifestation endSegment="1 2 -1 -2 -1 -2" startSegment="1 2 1 2 -1 -2"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 2 1 2 -1 -2" startSegment="-1 -2 1 2 -1 -2"/>
+    <SelectManifestation endSegment="1 2 -1 -2 -1 -2" startSegment="1 2 1 2 -1 -2"/>
+    <SelectManifestation endSegment="1 2 -1 -2 -1 -2" startSegment="-1 -2 -1 -2 -1 -2"/>
+    <SelectManifestation endSegment="-1 -2 -1 -2 -1 -2" startSegment="-1 -2 1 2 -1 -2"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 -1 -2 1 2" startSegment="-1 -2 1 2 1 2"/>
+    <SelectManifestation endSegment="1 2 1 2 1 2" startSegment="-1 -2 1 2 1 2"/>
+    <SelectManifestation endSegment="1 2 -1 -2 1 2" startSegment="1 2 1 2 1 2"/>
+    <SelectManifestation endSegment="1 2 -1 -2 1 2" startSegment="-1 -2 -1 -2 1 2"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <SelectManifestation point="1 2 -1 -2 -1 -2"/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 1 2 -1 -2"/>
+    <SelectManifestation point="1 2 1 2 -1 -2"/>
+    <SelectManifestation point="-1 -2 -1 -2 -1 -2"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 1 2 1 2"/>
+    <SelectManifestation point="1 2 -1 -2 1 2"/>
+    <SelectManifestation point="-1 -2 -1 -2 1 2"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 1 2 -1 -2" startSegment="-1 -2 1 2 1 2"/>
+    <SelectManifestation endSegment="-1 -2 -1 -2 -1 -2" startSegment="-1 -2 -1 -2 1 2"/>
+    <SelectManifestation endSegment="1 2 -1 -2 -1 -2" startSegment="1 2 -1 -2 1 2"/>
+    <SelectManifestation endSegment="1 2 1 2 1 2" startSegment="1 2 1 2 -1 -2"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <SelectManifestation point="-1 -2 1 2 1 2"/>
+    <setItemColor blue="0" green="0" red="0"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="182.88900756835938" far="365.7779846191406" near="0.45722249150276184" parallel="true" stereoAngle="0.0" width="82.30003356933594">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.7071068286895752" y="0.0" z="-0.7071068286895752"/>
+      <LookDirection x="-0.5773502588272095" y="0.5773502588272095" z="0.5773502588272095"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="solid connectors">
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="187,144,85" name="sand"/>
+    <Direction color="12,84,55" name="spruce"/>
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="254,124,123" name="coral"/>
+    <Direction color="36,35,38" name="black"/>
+    <Direction color="141,2,41" name="maroon"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="218,225,83" name="sulfur"/>
+    <Direction color="251,94,160" name="rose"/>
+    <Direction color="53,181,179" name="turquoise"/>
+    <Direction color="129,191,30" name="apple"/>
+    <Direction color="144,56,14" name="cinnamon"/>
+    <Direction color="113,64,178" name="purple"/>
+    <Direction color="236,89,1" name="orange"/>
+    <Direction color="52,48,136" name="navy"/>
+    <Direction color="105,54,1" name="brown"/>
+    <Direction color="144,127,227" name="lavender"/>
+    <Direction color="116,104,1" name="olive"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="6,96,141" name="blue"/>
+      <Direction color="144,127,227" name="lavender"/>
+      <Direction color="53,181,179" name="turquoise"/>
+      <Direction color="36,35,38" name="black"/>
+      <Direction color="2,130,53" name="green"/>
+      <Direction color="116,104,1" name="olive"/>
+      <Direction color="141,2,41" name="maroon"/>
+      <Direction color="105,54,1" name="brown"/>
+      <Direction color="245,163,1" name="yellow"/>
+      <Direction color="197,3,20" name="red"/>
+      <Direction color="113,64,178" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

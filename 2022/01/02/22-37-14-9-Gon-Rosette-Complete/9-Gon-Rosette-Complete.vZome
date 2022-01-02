@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="67" field="polygon9" version="7.0">
+  <EditHistory editNumber="1391" lastStickyEdit="1388">
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="5" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="2 -2 3 1 -2 2 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 0 0 0 0 0 0" index="2" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 1 3 0 0 0 0" index="8" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 1 8 -2 0 0 0" index="2" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 1 3 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 0 0 0" startSegment="2 -2 3 1 -2 2 0 0 0"/>
+    <SelectManifestation point="2 -2 3 1 -2 2 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool name="antiprism9 axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 2 -3 0 5 -2 0 0 0"/>
+    <SelectManifestation point="-3 -1 -3 0 5 -2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <ApplyTool name="symmetry.builtin/polygonal antiprism around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 3 0 0 5 -2 0 0 0"/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="3 -4 5 3 -4 5 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="4 -1 5 2 -2 3 0 0 0" index="6" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="4 -1 5 2 -2 3 0 0 0"/>
+    <SelectNeighbors/>
+    <EndBlock/>
+    <ApplyTool name="antiprism9 axial symmetry.builtin/symmetry around red through origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 -2 3 4 -1 5 0 0 0"/>
+    <SelectManifestation point="0 0 0 3 1 3 0 0 0"/>
+    <SelectManifestation point="1 -2 2 2 -2 3 0 0 0"/>
+    <SelectManifestation point="3 -4 5 3 -4 5 0 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <ApplyTool name="symmetry.builtin/polygonal antiprism around origin" selectInputs="true"/>
+    <DeselectAll/>
+    <ShowPoint point="0 0 0 0 0 0 0 0 0"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="8" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="7" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="6" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="5" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="3" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="2" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="1" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" index="0" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-2 2 -3 3 6 1 0 0 0" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="2 -2 3 4 -1 5 0 0 0" index="8" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-2 2 -3 3 6 1 0 0 0" index="5" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 5 -3 3 6 1 0 0 0"/>
+    <SelectManifestation endSegment="-1 5 -3 3 6 1 0 0 0" startSegment="-2 2 -3 3 6 1 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-2 2 -3 3 6 1 0 0 0" index="4" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-4 1 -5 1 8 -2 0 0 0" index="6" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-2 2 -3 3 6 1 0 0 0" index="0" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -1 -3 4 4 3 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 4 4 3 0 0 0" startSegment="-2 2 -3 3 6 1 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-4 1 -5 1 8 -2 0 0 0" index="1" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -6 -1 0 0 0 0 0 0" index="7" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -6 -1 0 0 0 0 0 0" index="2" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -6 -1 -1 -3 0 0 0 0" index="8" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -8 2 -1 -8 2 0 0 0" index="3" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 -3 -6 -1 0 0 0" index="0" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 -3 -6 -1 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 -4 -4 -3 0 0 0" index="1" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 8 -2 -4 1 -5 0 0 0" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 6 1 -2 2 -3 0 0 0" index="2" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="1 8 -2 -4 1 -5 0 0 0" index="5" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 11 -2 -4 1 -5 0 0 0"/>
+    <SelectManifestation endSegment="2 11 -2 -4 1 -5 0 0 0" startSegment="1 8 -2 -4 1 -5 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="3 6 1 -2 2 -3 0 0 0" index="1" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="4 -1 5 2 -2 3 0 0 0" index="3" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="3 6 1 -2 2 -3 0 0 0" index="6" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 11 -1 -2 7 -5 0 0 0"/>
+    <SelectManifestation endSegment="3 11 -1 -2 7 -5 0 0 0" startSegment="3 6 1 -2 2 -3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="2 -2 3 4 -1 5 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 3 1 3 0 0 0" index="7" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="2 -2 3 4 -1 5 0 0 0"/>
+      <polygonVertex at="0 0 0 3 1 3 0 0 0"/>
+      <polygonVertex at="1 -2 2 2 -2 3 0 0 0"/>
+      <polygonVertex at="3 -4 5 3 -4 5 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-2 2 -3 3 6 1 0 0 0"/>
+      <polygonVertex at="-3 4 -5 1 8 -2 0 0 0"/>
+      <polygonVertex at="-1 2 -2 1 3 0 0 0 0"/>
+      <polygonVertex at="0 0 0 3 1 3 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-4 1 -5 1 8 -2 0 0 0"/>
+      <polygonVertex at="-3 -1 -3 0 5 -2 0 0 0"/>
+      <polygonVertex at="-2 2 -3 0 5 -2 0 0 0"/>
+      <polygonVertex at="-3 4 -5 1 8 -2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-3 -6 -1 0 0 0 0 0 0"/>
+      <polygonVertex at="-1 -8 2 0 -5 2 0 0 0"/>
+      <polygonVertex at="-1 -3 0 0 0 0 0 0 0"/>
+      <polygonVertex at="-3 -1 -3 0 5 -2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-1 -8 2 -1 -8 2 0 0 0"/>
+      <polygonVertex at="0 -5 2 -1 -8 2 0 0 0"/>
+      <polygonVertex at="0 -5 2 0 -5 2 0 0 0"/>
+      <polygonVertex at="-1 -8 2 0 -5 2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 -3 -6 -1 0 0 0"/>
+      <polygonVertex at="0 5 -2 -3 -1 -3 0 0 0"/>
+      <polygonVertex at="0 0 0 -1 -3 0 0 0 0"/>
+      <polygonVertex at="0 -5 2 -1 -8 2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 8 -2 -4 1 -5 0 0 0"/>
+      <polygonVertex at="1 8 -2 -3 4 -5 0 0 0"/>
+      <polygonVertex at="0 5 -2 -2 2 -3 0 0 0"/>
+      <polygonVertex at="0 5 -2 -3 -1 -3 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="3 6 1 -2 2 -3 0 0 0"/>
+      <polygonVertex at="3 1 3 0 0 0 0 0 0"/>
+      <polygonVertex at="1 3 0 -1 2 -2 0 0 0"/>
+      <polygonVertex at="1 8 -2 -3 4 -5 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="4 -1 5 2 -2 3 0 0 0"/>
+      <polygonVertex at="3 -4 5 3 -4 5 0 0 0"/>
+      <polygonVertex at="2 -2 3 1 -2 2 0 0 0"/>
+      <polygonVertex at="3 1 3 0 0 0 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-3 -1 -3 3 6 1 0 0 0" index="1" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 4 -5 3 11 -1 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -1 -3 3 6 1 0 0 0" index="5" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -3 0 4 4 3 0 0 0" index="0" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 4 -5 3 11 -1 0 0 0"/>
+    <SelectManifestation endSegment="-3 4 -5 3 11 -1 0 0 0" startSegment="-3 -1 -3 3 6 1 0 0 0"/>
+    <SelectManifestation endSegment="-3 4 -5 3 11 -1 1 3 0" startSegment="-3 4 -5 3 11 -1 0 0 0"/>
+    <SelectManifestation point="-3 4 -5 3 11 -1 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 4 4 3 0 0 0" index="4" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 3 6 1 0 0 0" index="8" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 3 1 3 0 0 0" index="3" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="3 6 1 1 3 0 0 0 0" index="7" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="4 4 3 0 0 0 0 0 0" index="2" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="4 4 3 -1 -3 0 0 0 0" index="6" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 6 1 -3 -1 -3 0 0 0" index="1" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 -3 -6 -1 0 0 0" index="5" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 -4 -4 -3 0 0 0" index="0" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 -4 -4 -3 0 0 0" index="4" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -3 0 -3 -6 -1 0 0 0" index="8" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -1 -3 -3 -1 -3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -6 -1 -1 -3 0 0 0 0" index="3" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-3 -1 -3 -3 -1 -3 1 3 0" startSegment="-3 -1 -3 -3 -1 -3 0 0 0"/>
+    <SelectManifestation point="-3 -1 -3 -3 -1 -3 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-3 -6 -1 -1 -3 0 0 0 0" index="7" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-4 -4 -3 0 0 0 0 0 0" index="2" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-4 -4 -3 1 3 0 0 0 0" index="6" len="1 3 0" outbound="false" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -6 -1 3 1 3 0 0 0" index="1" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 0 0 0 4 12 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-2 2 -3 0 5 -2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-2 2 -3 0 5 -2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-2 2 -3 0 5 -2 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-2 2 -3 0 5 -2 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 2 -2 1 3 0 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 0 0 0" startSegment="0 -5 2 0 -5 2 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="-1 2 -2 1 3 0 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 2 -2 1 3 0 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 2 -2 1 3 0 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 -2 2 2 -2 3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <SelectManifestation point="-3 4 -5 1 8 -2 0 0 0"/>
+    <StrutCreation anchor="-3 4 -5 1 8 -2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 4 -5 1 8 -2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 4 -5 1 8 -2 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 -2 2 2 -2 3 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 -2 2 2 -2 3 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 -2 2 2 -2 3 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="2 -2 3 1 -2 2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="2 -2 3 1 -2 2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <SelectManifestation point="2 -2 3 1 -2 2 2 6 0"/>
+    <StrutCreation anchor="2 -2 3 1 -2 2 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="2 -2 3 1 -2 2 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 -1 2 -2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 -1 2 -2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 -1 2 -2 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 -1 2 -2 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 5 -2 -2 2 -3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 5 -2 -2 2 -3 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 5 -2 -2 2 -3 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 5 -2 -2 2 -3 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 -1 -3 0 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 -1 -3 0 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 -1 -3 0 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 -1 -3 0 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 -5 2 0 -5 2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 -5 2 0 -5 2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 -5 2 0 -5 2 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 -5 2 0 -5 2 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -3 0 0 0 0 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -3 0 0 0 0 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -3 0 0 0 0 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -3 0 0 0 0 3 9 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 3 1 3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 3 1 3 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 3 1 3 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 -4 5 3 -4 5 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 -4 5 3 -4 5 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 -4 5 3 -4 5 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 0 0 0 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 0 0 0 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 1 3 0 0 0 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 8 -2 -3 4 -5 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 8 -2 -3 4 -5 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 8 -2 -3 4 -5 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 5 -2 -3 -1 -3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 5 -2 -3 -1 -3 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 5 -2 -3 -1 -3 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 -5 2 -1 -8 2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 -5 2 -1 -8 2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 -5 2 -1 -8 2 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -8 2 0 -5 2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -8 2 0 -5 2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -8 2 0 -5 2 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -1 -3 0 5 -2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -1 -3 0 5 -2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -1 -3 0 5 -2 2 6 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <DeselectAll/>
+    <StrutCreation anchor="-2 2 -3 3 6 1 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-2 2 -3 3 6 1 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 3 6 1 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 3 0 3 6 1 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="2 -2 3 4 -1 5 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="2 -2 3 4 -1 5 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 3 0 3 6 1 2 6 0"/>
+    <SelectManifestation endSegment="1 3 0 3 6 1 2 6 0" startSegment="1 3 0 3 6 1 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 4 4 3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 3 0 3 6 1 1 3 0"/>
+    <SelectManifestation endSegment="1 3 0 3 6 1 1 3 0" startSegment="1 3 0 3 6 1 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="3 1 3 3 1 3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="4 -1 5 2 -2 3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="4 -1 5 2 -2 3 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 6 1 -2 2 -3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 6 1 -2 2 -3 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-4 1 -5 1 8 -2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-4 1 -5 1 8 -2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -6 -1 0 0 0 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -6 -1 0 0 0 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -8 2 -1 -8 2 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -8 2 -1 -8 2 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -6 -1 -1 -3 0 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-4 -4 -3 1 3 0 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -1 -3 3 6 1 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="4 4 3 0 0 0 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="3 6 1 -3 -1 -3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="3 1 3 -3 -6 -1 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="1 3 0 -4 -4 -3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="0 0 0 -3 -6 -1 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 0 0 0" startSegment="0 0 0 -3 -6 -1 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 -3 -6 -1 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-1 -3 0 -3 -6 -1 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="-3 -1 -3 -3 -1 -3 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -1 -3 -3 -1 -3 1 3 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 -3 -1 -3 1 3 0" startSegment="-3 -1 -3 -3 -1 -3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="1 8 -2 -4 1 -5 0 0 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <StrutCreation anchor="1 8 -2 -4 1 -5 1 3 0" dir="red" index="0" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 2 -3 0 5 -2 4 12 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -3 0 0 0 0 4 12 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 5 15 0" startSegment="-1 -3 0 0 0 0 4 12 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 5 15 0" startSegment="-1 -3 0 0 0 0 4 12 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 5 15 0" startSegment="-2 2 -3 0 5 -2 4 12 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="0 0 0 -1 -3 0 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="0 5 -2 -2 2 -3 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="1 3 0 -1 2 -2 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="2 -2 3 1 -2 2 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="1 -2 2 2 -2 3 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="-1 2 -2 1 3 0 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 -2 2 2 -2 3 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation endSegment="1 3 0 -1 2 -2 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation endSegment="0 5 -2 -2 2 -3 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 3 9 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 3 9 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <SelectManifestation endSegment="0 -5 2 0 -5 2 4 12 0" startSegment="-1 -8 2 0 -5 2 3 9 0"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 3 9 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 1 3 0" startSegment="-1 -8 2 0 -5 2 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -1 -3 0 5 -2 3 9 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 0 5 -2 3 9 0" startSegment="-3 -1 -3 0 5 -2 2 6 0"/>
+    <SelectManifestation point="-3 -1 -3 0 5 -2 2 6 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 0 5 -2 2 6 0" startSegment="-3 -1 -3 0 5 -2 1 3 0"/>
+    <SelectManifestation point="-3 -1 -3 0 5 -2 1 3 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 0 5 -2 1 3 0" startSegment="-3 -1 -3 0 5 -2 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="-3 -1 -3 0 5 -2 0 0 0" dir="red" index="0" len="3 9 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 3 9 0" startSegment="-1 -8 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 1 3 0"/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 2 6 0" startSegment="-1 -8 2 0 -5 2 1 3 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 2 6 0"/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 3 9 0" startSegment="-1 -8 2 0 -5 2 2 6 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 1 3 0" startSegment="-1 -8 2 0 -5 2 0 0 0"/>
+    <Delete/>
+    <StrutCreation anchor="-1 -8 2 0 -5 2 0 0 0" dir="red" index="0" len="3 9 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -5 2 0 -5 2 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-1 -3 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 0 0 0" startSegment="-1 -3 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -5 2 0 -5 2 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-1 -3 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -5 2 0 -5 2 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -5 2 0 -5 2 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-1 -3 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 0 0 0" startSegment="-1 -3 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 0 0 0" startSegment="0 -5 2 0 -5 2 0 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 1 3 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 1 3 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 2 6 0" startSegment="0 0 0 0 0 0 1 3 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 2 6 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 3 9 0" startSegment="0 0 0 0 0 0 2 6 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 3 9 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 4 12 0" startSegment="0 0 0 0 0 0 3 9 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 4 12 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 5 15 0" startSegment="0 0 0 0 0 0 4 12 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -8 2 -1 -8 2 1 3 0" startSegment="-1 -8 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 1 3 0"/>
+    <SelectManifestation endSegment="-1 -8 2 -1 -8 2 2 6 0" startSegment="-1 -8 2 -1 -8 2 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 2 6 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -1 -3 0 4 12 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 2 6 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 1 3 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 1 3 0"/>
+    <SelectManifestation endSegment="0 0 0 -3 -6 -1 1 3 0" startSegment="0 0 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 -3 -6 -1 2 6 0" startSegment="0 0 0 -3 -6 -1 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 1 3 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 2 6 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 3 9 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 2 6 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 1 3 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -4 -4 -3 0 0 0"/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 1 3 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 1 3 0"/>
+    <SelectManifestation point="0 0 0 -4 -4 -3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <SelectManifestation endSegment="1 3 0 -4 -4 -3 1 3 0" startSegment="0 0 0 -4 -4 -3 0 0 0"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <SelectManifestation point="0 0 0 -1 -3 0 1 3 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 1 3 0" startSegment="0 0 0 -1 -3 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 -1 -3 0 2 6 0"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 -1 -3 0 3 9 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 2 6 0" startSegment="0 0 0 -1 -3 0 1 3 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 3 9 0" startSegment="0 0 0 -1 -3 0 2 6 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 4 12 0" startSegment="0 0 0 -1 -3 0 3 9 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -1 -3 0 4 12 0"/>
+    <SelectManifestation point="0 0 0 -1 -3 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 0 0 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="0 0 0 -4 -4 -3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 1 3 0"/>
+    <SelectManifestation point="0 0 0 -4 -4 -3 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 1 3 0"/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 0 0 0"/>
+    <SelectManifestation point="0 0 0 -4 -4 -3 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 1 3 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 1 3 0"/>
+    <SelectManifestation point="0 0 0 -4 -4 -3 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -4 -4 -3 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 1 3 0"/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 0 0 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 0 0 0"/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 1 3 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 0 0 0"/>
+    <SelectManifestation point="1 3 0 -4 -4 -3 1 3 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 1 3 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 2 6 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 1 3 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 1 3 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 2 6 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -3 0 -3 -6 -1 0 0 0" startSegment="-1 -8 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation endSegment="-1 -8 2 -1 -8 2 0 0 0" startSegment="0 -5 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 0 0 0" startSegment="0 0 0 -3 -6 -1 0 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -3 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 2 6 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 0 0 0"/>
+    <SelectManifestation point="0 0 0 -3 -6 -1 2 6 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 2 6 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 3 9 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 3 9 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 2 6 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 0 0 0" startSegment="-1 -8 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 0 0 0" startSegment="0 -5 2 0 -5 2 0 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="-1 -8 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 1 3 0"/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 2 6 0" startSegment="0 -5 2 -1 -8 2 1 3 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 2 6 0"/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 3 9 0" startSegment="0 -5 2 -1 -8 2 2 6 0"/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 1 3 0" startSegment="0 -5 2 -1 -8 2 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 -1 -8 2 3 9 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 0 -5 2 3 9 0"/>
+    <SelectManifestation endSegment="0 -5 2 0 -5 2 3 9 0" startSegment="0 -5 2 0 -5 2 2 6 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 2 6 0"/>
+    <SelectManifestation endSegment="0 -5 2 0 -5 2 2 6 0" startSegment="0 -5 2 0 -5 2 1 3 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 1 3 0"/>
+    <SelectManifestation endSegment="0 -5 2 0 -5 2 1 3 0" startSegment="0 -5 2 0 -5 2 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 0 -5 2 0 0 0"/>
+    <SelectManifestation endSegment="0 -5 2 0 -5 2 4 12 0" startSegment="0 -5 2 0 -5 2 3 9 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-1 -8 2 0 -5 2 0 0 0"/>
+      <polygonVertex at="-1 -8 2 -1 -8 2 0 0 0"/>
+      <polygonVertex at="0 -5 2 -1 -8 2 0 0 0"/>
+      <polygonVertex at="0 -5 2 0 -5 2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="-1 -8 2 0 -5 2 0 0 0" startSegment="-1 -3 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="-1 -8 2 0 -5 2 0 0 0" index="0" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -5 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 3 9 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 4 12 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 3 9 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="153" red="153"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation endSegment="-1 -3 0 0 0 0 4 12 0" startSegment="-1 -3 0 0 0 0 3 9 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 3 9 0"/>
+    <SelectManifestation endSegment="-1 -3 0 0 0 0 3 9 0" startSegment="-1 -3 0 0 0 0 2 6 0"/>
+    <SelectManifestation endSegment="-1 -3 0 0 0 0 2 6 0" startSegment="-1 -3 0 0 0 0 1 3 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 2 6 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 1 3 0"/>
+    <SelectManifestation endSegment="-1 -3 0 0 0 0 1 3 0" startSegment="-1 -3 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -3 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 4 12 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -3 0 0 0 0 4 12 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 3 9 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="153" red="153"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 4 12 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 5 15 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 5 15 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 5 15 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="-1 -3 0 0 0 0 4 12 0" dir="58" index="1" len="1 3 0" symm="antiprism9"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 4 12 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="153" red="153"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 3 0 -1 2 -2 3 9 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -5 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 4 12 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="153" red="153"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="-1 -3 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="-1 -8 2 0 -5 2 0 0 0"/>
+    <SelectManifestation point="0 -5 2 0 -5 2 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="153" red="153"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 3 9 0" startSegment="0 0 0 -1 -3 0 4 12 0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 -5 2 0 -5 2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 5 15 0"/>
+      <polygonVertex at="0 -5 2 0 -5 2 4 12 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 -5 2 -1 -8 2 0 0 0"/>
+      <polygonVertex at="0 -5 2 -1 -8 2 3 9 0"/>
+      <polygonVertex at="0 -5 2 0 -5 2 4 12 0"/>
+      <polygonVertex at="0 -5 2 0 -5 2 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 3 9 0" startSegment="0 0 0 -1 -3 0 4 12 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 5 -2 -3 -1 -3 3 9 0"/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 3 9 0" startSegment="0 5 -2 -3 -1 -3 2 6 0"/>
+    <SelectManifestation point="0 5 -2 -3 -1 -3 2 6 0"/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 2 6 0" startSegment="0 5 -2 -3 -1 -3 1 3 0"/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 2 6 0" startSegment="0 5 -2 -3 -1 -3 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 2 6 0" startSegment="0 5 -2 -3 -1 -3 1 3 0"/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 0 0 0" startSegment="0 0 0 -1 -3 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 5 -2 -3 -1 -3 1 3 0"/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 1 3 0" startSegment="0 5 -2 -3 -1 -3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 -3 -6 -1 0 0 0" startSegment="0 5 -2 -3 -1 -3 0 0 0"/>
+    <SelectManifestation point="0 5 -2 -3 -1 -3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 8 -2 -4 1 -5 0 0 0" startSegment="1 3 0 -4 -4 -3 0 0 0"/>
+    <SelectManifestation endSegment="1 3 0 -4 -4 -3 0 0 0" startSegment="3 1 3 -3 -6 -1 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 0 0 0" startSegment="1 8 -2 -4 1 -5 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 0 0 0" startSegment="0 0 0 -1 -3 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 0 0 0" startSegment="1 8 -2 -4 1 -5 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 0 0 0" startSegment="0 5 -2 -2 2 -3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 0 0 0" startSegment="1 8 -2 -4 1 -5 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 8 -2 -4 1 -5 2 6 0" startSegment="1 8 -2 -4 1 -5 1 3 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 0 0 0" startSegment="1 8 -2 -4 1 -5 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 8 -2 -4 1 -5 2 6 0" startSegment="1 8 -2 -4 1 -5 1 3 0"/>
+    <SelectManifestation point="1 8 -2 -4 1 -5 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="1 8 -2 -4 1 -5 1 3 0" startSegment="1 8 -2 -4 1 -5 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 5 -2 -3 -1 -3 0 0 0" startSegment="0 5 -2 -2 2 -3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="1 8 -2 -4 1 -5 2 6 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -1 -3 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 0 0 0" startSegment="0 0 0 -1 -3 0 4 12 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 5 -2 -2 2 -3 4 12 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 5 -2 -2 2 -3 4 12 0" startSegment="0 5 -2 -2 2 -3 3 9 0"/>
+    <SelectManifestation point="0 5 -2 -2 2 -3 3 9 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="0 5 -2 -2 2 -3 3 9 0" startSegment="0 5 -2 -2 2 -3 2 6 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 5 -2 -2 2 -3 2 6 0"/>
+    <SelectManifestation endSegment="0 5 -2 -2 2 -3 2 6 0" startSegment="0 5 -2 -2 2 -3 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 5 -2 -2 2 -3 1 3 0"/>
+    <SelectManifestation endSegment="0 5 -2 -2 2 -3 1 3 0" startSegment="0 5 -2 -2 2 -3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 5 -2 -2 2 -3 0 0 0"/>
+    <SelectManifestation endSegment="0 5 -2 -2 2 -3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 5 -2 -2 2 -3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="0 5 -2 -2 2 -3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 8 -2 -3 4 -5 0 0 0" startSegment="0 5 -2 -2 2 -3 0 0 0"/>
+    <SelectManifestation point="0 5 -2 -2 2 -3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 8 -2 -4 1 -5 0 0 0" startSegment="1 8 -2 -3 4 -5 0 0 0"/>
+    <SelectManifestation point="1 8 -2 -4 1 -5 0 0 0"/>
+    <SelectManifestation endSegment="3 6 1 -3 -1 -3 0 0 0" startSegment="1 8 -2 -4 1 -5 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 -3 -6 -1 0 0 0" startSegment="3 6 1 -3 -1 -3 0 0 0"/>
+    <SelectManifestation point="3 1 3 -3 -6 -1 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="3 6 1 -3 -1 -3 1 3 0" startSegment="3 6 1 -3 -1 -3 0 0 0"/>
+    <SelectManifestation point="3 6 1 -3 -1 -3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="1 8 -2 -3 4 -5 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 8 -2 -3 4 -5 1 3 0" startSegment="1 8 -2 -3 4 -5 0 0 0"/>
+    <SelectManifestation point="3 6 1 -3 -1 -3 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 8 -2 -3 4 -5 2 6 0" startSegment="1 8 -2 -3 4 -5 1 3 0"/>
+    <SelectManifestation point="1 8 -2 -3 4 -5 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 8 -2 -3 4 -5 3 9 0" startSegment="1 8 -2 -3 4 -5 2 6 0"/>
+    <SelectManifestation endSegment="1 8 -2 -3 4 -5 3 9 0" startSegment="1 8 -2 -3 4 -5 2 6 0"/>
+    <SelectManifestation point="1 8 -2 -3 4 -5 2 6 0"/>
+    <SelectManifestation endSegment="1 8 -2 -3 4 -5 3 9 0" startSegment="1 8 -2 -3 4 -5 2 6 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 8 -2 -3 4 -5 3 9 0"/>
+    <SelectManifestation endSegment="0 0 0 -1 -3 0 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation point="0 0 0 -1 -3 0 4 12 0"/>
+    <SelectManifestation endSegment="0 -5 2 -1 -8 2 3 9 0" startSegment="0 0 0 -1 -3 0 4 12 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="1 3 0 -1 2 -2 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 -2 2 2 -2 3 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation endSegment="-1 2 -2 1 3 0 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 5 15 0" startSegment="-2 2 -3 0 5 -2 4 12 0"/>
+    <SelectManifestation point="-2 2 -3 0 5 -2 4 12 0"/>
+    <SelectManifestation endSegment="-2 2 -3 0 5 -2 4 12 0" startSegment="-2 2 -3 0 5 -2 3 9 0"/>
+    <SelectManifestation endSegment="-2 2 -3 0 5 -2 3 9 0" startSegment="-2 2 -3 0 5 -2 2 6 0"/>
+    <SelectManifestation endSegment="-2 2 -3 0 5 -2 3 9 0" startSegment="-2 2 -3 0 5 -2 2 6 0"/>
+    <SelectManifestation point="-2 2 -3 0 5 -2 2 6 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 2 -3 0 5 -2 3 9 0" startSegment="-2 2 -3 0 5 -2 2 6 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 2 -3 0 5 -2 3 9 0"/>
+    <SelectManifestation endSegment="-2 2 -3 0 5 -2 2 6 0" startSegment="-2 2 -3 0 5 -2 1 3 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 0 5 -2 0 0 0" startSegment="-1 -3 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-2 2 -3 0 5 -2 1 3 0" startSegment="-2 2 -3 0 5 -2 0 0 0"/>
+    <SelectManifestation point="-2 2 -3 0 5 -2 1 3 0"/>
+    <SelectManifestation point="-2 2 -3 0 5 -2 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 0 5 -2 0 0 0" startSegment="-2 2 -3 0 5 -2 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-3 4 -5 1 8 -2 1 3 0" startSegment="-3 4 -5 1 8 -2 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-3 4 -5 1 8 -2 2 6 0" startSegment="-3 4 -5 1 8 -2 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 4 -5 1 8 -2 1 3 0"/>
+    <SelectManifestation endSegment="-3 4 -5 1 8 -2 1 3 0" startSegment="-3 4 -5 1 8 -2 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-3 4 -5 1 8 -2 3 9 0" startSegment="-3 4 -5 1 8 -2 2 6 0"/>
+    <SelectManifestation point="-3 4 -5 1 8 -2 2 6 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 4 -5 1 8 -2 3 9 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 0 5 -2 0 0 0" startSegment="-3 -6 -1 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-3 -1 -3 0 5 -2 3 9 0" startSegment="-3 -1 -3 0 5 -2 0 0 0"/>
+    <SelectManifestation endSegment="-3 -6 -1 0 0 0 0 0 0" startSegment="-1 -8 2 0 -5 2 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -6 -1 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-3 -6 -1 0 0 0 1 3 0" startSegment="-3 -6 -1 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -1 -3 0 5 -2 3 9 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-3 -6 -1 -1 -3 0 0 0 0" startSegment="-3 -6 -1 0 0 0 0 0 0"/>
+    <SelectManifestation point="-3 -1 -3 0 5 -2 3 9 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-4 -4 -3 0 0 0 0 0 0" startSegment="-3 -6 -1 -1 -3 0 0 0 0"/>
+    <SelectManifestation point="-3 -6 -1 -1 -3 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-3 -6 -1 -1 -3 0 1 3 0" startSegment="-3 -6 -1 -1 -3 0 0 0 0"/>
+    <SelectManifestation point="-3 -6 -1 -1 -3 0 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -8 2 -1 -8 2 0 0 0" startSegment="-3 -6 -1 -1 -3 0 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 -3 -1 -3 0 0 0" startSegment="-3 -6 -1 -1 -3 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -1 -3 -3 -1 -3 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 -3 -1 -3 0 0 0" startSegment="-1 -3 0 -3 -6 -1 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-4 -4 -3 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-4 -4 -3 1 3 0 0 0 0" startSegment="-4 -4 -3 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-4 -4 -3 1 3 0 0 0 0" startSegment="-3 -6 -1 0 0 0 0 0 0"/>
+    <SelectManifestation point="-3 -6 -1 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="-3 -6 -1 0 0 0 1 3 0" startSegment="-3 -6 -1 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -6 -1 0 0 0 1 3 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -6 -1 0 0 0 2 6 0"/>
+    <SelectManifestation endSegment="-3 -6 -1 0 0 0 2 6 0" startSegment="-3 -6 -1 0 0 0 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -1 -3 0 5 -2 0 0 0"/>
+    <SelectManifestation point="-3 -6 -1 0 0 0 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-4 1 -5 1 8 -2 0 0 0" startSegment="-3 -1 -3 0 5 -2 0 0 0"/>
+    <SelectManifestation endSegment="-4 -4 -3 1 3 0 0 0 0" startSegment="-4 1 -5 1 8 -2 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-4 -4 -3 1 3 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-4 -4 -3 1 3 0 1 3 0" startSegment="-4 -4 -3 1 3 0 0 0 0"/>
+    <SelectManifestation point="-4 -4 -3 1 3 0 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-4 -4 -3 1 3 0 0 0 0" startSegment="-4 1 -5 1 8 -2 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-4 1 -5 1 8 -2 0 0 0" startSegment="-3 -1 -3 0 5 -2 0 0 0"/>
+    <SelectManifestation point="-4 1 -5 1 8 -2 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-4 1 -5 1 8 -2 1 3 0" startSegment="-4 1 -5 1 8 -2 0 0 0"/>
+    <SelectManifestation point="-4 1 -5 1 8 -2 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-4 1 -5 1 8 -2 2 6 0" startSegment="-4 1 -5 1 8 -2 1 3 0"/>
+    <SelectManifestation point="-4 1 -5 1 8 -2 2 6 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-3 4 -5 1 8 -2 0 0 0" startSegment="-4 1 -5 1 8 -2 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 3 6 1 0 0 0" startSegment="-4 1 -5 1 8 -2 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-3 -6 -1 3 1 3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-3 4 -5 1 8 -2 0 0 0" startSegment="-4 1 -5 1 8 -2 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 3 6 1 0 0 0" startSegment="-4 1 -5 1 8 -2 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 3 6 1 0 0 0" startSegment="-3 -6 -1 3 1 3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-3 4 -5 1 8 -2 0 0 0" startSegment="-4 1 -5 1 8 -2 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 3 6 1 0 0 0" startSegment="-4 1 -5 1 8 -2 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 3 6 1 0 0 0" startSegment="-3 -6 -1 3 1 3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-3 -6 -1 3 1 3 0 0 0" startSegment="-4 -4 -3 1 3 0 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-3 -1 -3 3 6 1 0 0 0"/>
+    <SelectManifestation endSegment="-1 -3 0 4 4 3 0 0 0" startSegment="-3 -1 -3 3 6 1 0 0 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 3 6 1 1 3 0" startSegment="-3 -1 -3 3 6 1 0 0 0"/>
+    <SelectManifestation point="-3 -1 -3 3 6 1 1 3 0"/>
+    <SelectManifestation endSegment="-3 -1 -3 3 6 1 0 0 0" startSegment="-2 2 -3 3 6 1 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -3 0 4 4 3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 4 4 3 0 0 0" startSegment="-1 -3 0 4 4 3 0 0 0"/>
+    <SelectManifestation point="-2 2 -3 3 6 1 1 3 0"/>
+    <SelectManifestation endSegment="-2 2 -3 3 6 1 1 3 0" startSegment="-2 2 -3 3 6 1 0 0 0"/>
+    <SelectManifestation endSegment="-2 2 -3 3 6 1 2 6 0" startSegment="-2 2 -3 3 6 1 1 3 0"/>
+    <SelectManifestation endSegment="0 0 0 4 4 3 0 0 0" startSegment="-2 2 -3 3 6 1 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 3 1 3 0 0 0" startSegment="-2 2 -3 3 6 1 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 2 -3 3 6 1 0 0 0" startSegment="-3 4 -5 1 8 -2 0 0 0"/>
+    <SelectManifestation point="-3 4 -5 1 8 -2 0 0 0"/>
+    <SelectManifestation point="-2 2 -3 3 6 1 0 0 0"/>
+    <SelectManifestation endSegment="-3 4 -5 1 8 -2 0 0 0" startSegment="-1 2 -2 1 3 0 0 0 0"/>
+    <SelectManifestation endSegment="-3 4 -5 1 8 -2 0 0 0" startSegment="-2 2 -3 0 5 -2 0 0 0"/>
+    <SelectManifestation endSegment="-2 2 -3 0 5 -2 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 2 -2 1 3 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="-1 2 -2 1 3 0 0 0 0"/>
+    <SelectManifestation endSegment="-1 2 -2 1 3 0 1 3 0" startSegment="-1 2 -2 1 3 0 0 0 0"/>
+    <SelectManifestation point="-1 2 -2 1 3 0 1 3 0"/>
+    <SelectManifestation endSegment="-1 2 -2 1 3 0 2 6 0" startSegment="-1 2 -2 1 3 0 1 3 0"/>
+    <SelectManifestation endSegment="-1 2 -2 1 3 0 3 9 0" startSegment="-1 2 -2 1 3 0 2 6 0"/>
+    <SelectManifestation endSegment="-1 2 -2 1 3 0 3 9 0" startSegment="-1 2 -2 1 3 0 2 6 0"/>
+    <SelectManifestation point="-1 2 -2 1 3 0 2 6 0"/>
+    <SelectManifestation endSegment="-1 2 -2 1 3 0 3 9 0" startSegment="-1 2 -2 1 3 0 2 6 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 2 -2 1 3 0 3 9 0"/>
+    <SelectManifestation endSegment="-1 2 -2 1 3 0 4 12 0" startSegment="-1 2 -2 1 3 0 3 9 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 2 -2 1 3 0 4 12 0"/>
+    <SelectManifestation point="2 -2 3 4 -1 5 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 -2 3 4 -1 5 0 0 0" startSegment="0 0 0 3 1 3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 3 1 3 1 3 0" startSegment="0 0 0 3 1 3 0 0 0"/>
+    <SelectManifestation point="0 0 0 3 1 3 1 3 0"/>
+    <SelectManifestation endSegment="0 0 0 3 1 3 2 6 0" startSegment="0 0 0 3 1 3 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 3 1 3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 3 1 3 0 0 0" startSegment="1 -2 2 2 -2 3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-2 2 -3 3 6 1 2 6 0"/>
+    <SelectManifestation point="0 0 0 4 4 3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 4 4 3 1 3 0" startSegment="0 0 0 4 4 3 0 0 0"/>
+    <SelectManifestation point="0 0 0 4 4 3 1 3 0"/>
+    <SelectManifestation endSegment="1 3 0 3 6 1 0 0 0" startSegment="0 0 0 4 4 3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 4 4 3 0 0 0" startSegment="2 -2 3 4 -1 5 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 3 1 3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 3 1 3 0 0 0" startSegment="-1 2 -2 1 3 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 3 1 3 0 0 0" startSegment="-1 2 -2 1 3 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 3 1 3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 3 1 3 0 0 0" startSegment="1 -2 2 2 -2 3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="3 -4 5 3 -4 5 0 0 0" startSegment="2 -2 3 4 -1 5 0 0 0"/>
+    <SelectManifestation point="-1 2 -2 1 3 0 4 12 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 -2 3 4 -1 5 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 3 1 3 0 0 0" startSegment="2 -2 3 4 -1 5 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 -2 3 4 -1 5 1 3 0" startSegment="2 -2 3 4 -1 5 0 0 0"/>
+    <SelectManifestation point="0 0 0 3 1 3 2 6 0"/>
+    <SelectManifestation endSegment="0 0 0 3 1 3 3 9 0" startSegment="0 0 0 3 1 3 2 6 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 3 1 3 3 9 0"/>
+    <SelectManifestation point="1 3 0 3 6 1 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 3 1 3 0 0 0" startSegment="1 3 0 3 6 1 0 0 0"/>
+    <SelectManifestation endSegment="2 -2 3 4 -1 5 2 6 0" startSegment="2 -2 3 4 -1 5 1 3 0"/>
+    <SelectManifestation point="2 -2 3 4 -1 5 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="2 -2 3 4 -1 5 2 6 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 -5 2 0 -5 2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 5 15 0"/>
+      <polygonVertex at="0 -5 2 0 -5 2 4 12 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 -5 2 0 -5 2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 5 15 0"/>
+      <polygonVertex at="0 -5 2 0 -5 2 4 12 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 5 -2 -2 2 -3 4 12 0" startSegment="0 0 0 0 0 0 5 15 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 3 0 -1 2 -2 4 12 0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 -5 2 0 -5 2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 5 15 0"/>
+      <polygonVertex at="0 -5 2 0 -5 2 4 12 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="1 3 0 -1 2 -2 4 12 0"/>
+    <SelectManifestation endSegment="1 3 0 -1 2 -2 4 12 0" startSegment="1 3 0 -1 2 -2 3 9 0"/>
+    <SelectManifestation point="1 3 0 -1 2 -2 3 9 0"/>
+    <SelectManifestation endSegment="1 3 0 -1 2 -2 3 9 0" startSegment="1 3 0 -1 2 -2 2 6 0"/>
+    <SelectManifestation point="1 3 0 -1 2 -2 2 6 0"/>
+    <SelectManifestation endSegment="1 3 0 -1 2 -2 2 6 0" startSegment="1 3 0 -1 2 -2 1 3 0"/>
+    <SelectManifestation point="1 3 0 -1 2 -2 1 3 0"/>
+    <SelectManifestation endSegment="1 3 0 -1 2 -2 1 3 0" startSegment="1 3 0 -1 2 -2 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="1 3 0 -1 2 -2 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 8 -2 -3 4 -5 0 0 0" startSegment="1 3 0 -1 2 -2 0 0 0"/>
+    <SelectManifestation endSegment="3 6 1 -2 2 -3 2 6 0" startSegment="3 6 1 -2 2 -3 1 3 0"/>
+    <SelectManifestation point="3 6 1 -2 2 -3 2 6 0"/>
+    <SelectManifestation endSegment="1 8 -2 -3 4 -5 0 0 0" startSegment="3 6 1 -2 2 -3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="3 6 1 -2 2 -3 1 3 0"/>
+    <SelectManifestation endSegment="3 6 1 -2 2 -3 1 3 0" startSegment="3 6 1 -2 2 -3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="3 6 1 -2 2 -3 0 0 0"/>
+    <SelectManifestation endSegment="3 6 1 -3 -1 -3 0 0 0" startSegment="3 6 1 -2 2 -3 0 0 0"/>
+    <SelectManifestation endSegment="3 6 1 -3 -1 -3 0 0 0" startSegment="4 4 3 -1 -3 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="4 4 3 -1 -3 0 0 0 0"/>
+    <SelectManifestation endSegment="4 4 3 -1 -3 0 0 0 0" startSegment="4 4 3 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4 4 3 0 0 0 0 0 0" startSegment="3 6 1 -2 2 -3 0 0 0"/>
+    <SelectManifestation endSegment="3 6 1 -2 2 -3 0 0 0" startSegment="3 1 3 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4 4 3 0 0 0 1 3 0" startSegment="4 4 3 0 0 0 0 0 0"/>
+    <SelectManifestation point="3 1 3 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 1 3 0" startSegment="3 1 3 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 0 0 0" startSegment="1 3 0 -1 2 -2 0 0 0"/>
+    <SelectManifestation point="1 3 0 -1 2 -2 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 2 6 0" startSegment="3 1 3 0 0 0 1 3 0"/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 -2 2 2 -2 3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 3 9 0" startSegment="3 1 3 0 0 0 2 6 0"/>
+    <SelectManifestation point="3 1 3 0 0 0 2 6 0"/>
+    <SelectManifestation point="3 1 3 0 0 0 3 9 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 -2 3 1 -2 2 2 6 0"/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 2 6 0" startSegment="2 -2 3 1 -2 2 1 3 0"/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 1 3 0" startSegment="2 -2 3 1 -2 2 0 0 0"/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 1 3 0" startSegment="2 -2 3 1 -2 2 0 0 0"/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 3 9 0" startSegment="2 -2 3 1 -2 2 2 6 0"/>
+    <SelectManifestation point="2 -2 3 1 -2 2 3 9 0"/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 4 12 0" startSegment="2 -2 3 1 -2 2 3 9 0"/>
+    <SelectManifestation point="2 -2 3 1 -2 2 4 12 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 -2 3 1 -2 2 1 3 0"/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 1 3 0" startSegment="2 -2 3 1 -2 2 0 0 0"/>
+    <SelectManifestation point="2 -2 3 1 -2 2 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 0 0 0" startSegment="2 -2 3 1 -2 2 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="3 1 3 0 0 0 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 0 0 0" startSegment="2 -2 3 1 -2 2 0 0 0"/>
+    <SelectManifestation point="2 -2 3 1 -2 2 0 0 0"/>
+    <SelectManifestation endSegment="2 -2 3 1 -2 2 1 3 0" startSegment="2 -2 3 1 -2 2 0 0 0"/>
+    <SelectManifestation point="2 -2 3 1 -2 2 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="3 -4 5 3 -4 5 0 0 0" startSegment="2 -2 3 1 -2 2 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4 -1 5 2 -2 3 2 6 0" startSegment="4 -1 5 2 -2 3 1 3 0"/>
+    <SelectManifestation endSegment="4 -1 5 2 -2 3 1 3 0" startSegment="4 -1 5 2 -2 3 0 0 0"/>
+    <SelectManifestation point="4 -1 5 2 -2 3 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="3 -4 5 3 -4 5 3 9 0" startSegment="3 -4 5 3 -4 5 2 6 0"/>
+    <SelectManifestation point="3 -4 5 3 -4 5 3 9 0"/>
+    <SelectManifestation point="3 -4 5 3 -4 5 2 6 0"/>
+    <SelectManifestation endSegment="3 -4 5 3 -4 5 2 6 0" startSegment="3 -4 5 3 -4 5 1 3 0"/>
+    <SelectManifestation endSegment="3 -4 5 3 -4 5 1 3 0" startSegment="3 -4 5 3 -4 5 0 0 0"/>
+    <SelectManifestation endSegment="3 -4 5 3 -4 5 1 3 0" startSegment="3 -4 5 3 -4 5 0 0 0"/>
+    <SelectManifestation point="3 -4 5 3 -4 5 1 3 0"/>
+    <SelectManifestation endSegment="3 -4 5 3 -4 5 1 3 0" startSegment="3 -4 5 3 -4 5 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="4 -1 5 2 -2 3 2 6 0"/>
+    <SelectManifestation endSegment="3 -4 5 3 -4 5 0 0 0" startSegment="1 -2 2 2 -2 3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 -2 2 2 -2 3 0 0 0"/>
+    <SelectManifestation endSegment="1 -2 2 2 -2 3 1 3 0" startSegment="1 -2 2 2 -2 3 0 0 0"/>
+    <SelectManifestation endSegment="1 -2 2 2 -2 3 2 6 0" startSegment="1 -2 2 2 -2 3 1 3 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 -2 2 2 -2 3 1 3 0"/>
+    <SelectManifestation point="1 -2 2 2 -2 3 2 6 0"/>
+    <SelectManifestation endSegment="1 -2 2 2 -2 3 3 9 0" startSegment="1 -2 2 2 -2 3 2 6 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 -2 2 2 -2 3 3 9 0"/>
+    <SelectManifestation endSegment="1 -2 2 2 -2 3 4 12 0" startSegment="1 -2 2 2 -2 3 3 9 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="1 -2 2 2 -2 3 4 12 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="3 1 3 3 1 3 1 3 0"/>
+    <SelectManifestation endSegment="3 1 3 3 1 3 1 3 0" startSegment="3 1 3 3 1 3 0 0 0"/>
+    <SelectManifestation endSegment="4 -1 5 2 -2 3 0 0 0" startSegment="3 -4 5 3 -4 5 0 0 0"/>
+    <SelectManifestation point="3 -4 5 3 -4 5 0 0 0"/>
+    <SelectManifestation endSegment="4 -1 5 2 -2 3 0 0 0" startSegment="3 1 3 3 1 3 0 0 0"/>
+    <SelectManifestation point="4 -1 5 2 -2 3 0 0 0"/>
+    <SelectManifestation endSegment="3 6 1 1 3 0 0 0 0" startSegment="3 1 3 3 1 3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="4 4 3 0 0 0 0 0 0" startSegment="3 6 1 1 3 0 0 0 0"/>
+    <SelectManifestation endSegment="4 4 3 0 0 0 0 0 0" startSegment="4 -1 5 2 -2 3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="4 -1 5 2 -2 3 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 0 0 0" startSegment="4 -1 5 2 -2 3 0 0 0"/>
+    <SelectManifestation point="4 4 3 0 0 0 1 3 0"/>
+    <SelectManifestation endSegment="4 4 3 0 0 0 0 0 0" startSegment="4 -1 5 2 -2 3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="3 1 3 0 0 0 0 0 0" startSegment="4 -1 5 2 -2 3 0 0 0"/>
+    <SelectManifestation endSegment="4 4 3 0 0 0 0 0 0" startSegment="4 -1 5 2 -2 3 0 0 0"/>
+    <SelectManifestation point="4 4 3 0 0 0 1 3 0"/>
+    <SelectManifestation point="4 4 3 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4 -1 5 2 -2 3 0 0 0" startSegment="3 -4 5 3 -4 5 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="4 -1 5 2 -2 3 0 0 0" startSegment="3 1 3 3 1 3 0 0 0"/>
+    <SelectManifestation endSegment="4 -1 5 2 -2 3 0 0 0" startSegment="3 -4 5 3 -4 5 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="3 1 3 3 1 3 1 3 0" startSegment="3 1 3 3 1 3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="4 -1 5 2 -2 3 0 0 0" startSegment="3 1 3 3 1 3 0 0 0"/>
+    <SelectManifestation endSegment="3 1 3 3 1 3 1 3 0" startSegment="3 1 3 3 1 3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="3 1 3 3 1 3 1 3 0"/>
+    <SelectManifestation endSegment="4 -1 5 2 -2 3 0 0 0" startSegment="3 -4 5 3 -4 5 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="3 -4 5 3 -4 5 0 0 0"/>
+    <SelectManifestation point="4 -1 5 2 -2 3 0 0 0"/>
+    <SelectManifestation point="3 6 1 1 3 0 0 0 0"/>
+    <SelectManifestation endSegment="3 6 1 1 3 0 0 0 0" startSegment="3 1 3 3 1 3 0 0 0"/>
+    <SelectManifestation endSegment="4 4 3 0 0 0 0 0 0" startSegment="3 6 1 1 3 0 0 0 0"/>
+    <SelectManifestation point="3 1 3 3 1 3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll/>
+    <BookmarkTool name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 5 15 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 5 15 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <RotationTool corrected="true" full="true" name="tool-1" symmetry="antiprism9"/>
+    <ApplyTool name="tool-0" selectInputs="true"/>
+    <ApplyTool name="tool-1" selectInputs="true"/>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="178,205,230">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="186.58360290527344" far="373.1670837402344" near="0.4664590656757355" parallel="true" stereoAngle="0.0" width="83.96263122558594">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="-0.8036520481109619" y="0.009237755089998245" z="0.5950266718864441"/>
+      <LookDirection x="-0.5742648243904114" y="-0.27429088950157166" z="-0.7713524103164673"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="antiprism9" renderingStyle="octahedral">
+    <Direction color="255,255,255" name="70" prototype="-1 -2 2 -1 1 -1 -1 1 0"/>
+    <Direction color="2,130,53" name="green"/>
+    <Direction color="255,255,255" name="67" prototype="0 1 0 -1 -1 1 1 1 -1"/>
+    <Direction color="255,255,255" name="66" prototype="1 0 0 1 0 -1 1 1 -1"/>
+    <Direction color="197,3,20" name="red"/>
+    <Direction color="255,255,255" name="65" prototype="0 1 -1 1 -1 1 0 0 0"/>
+    <Direction color="255,255,255" name="64" prototype="0 -2 1 0 1 -1 0 2 -1"/>
+    <Direction color="255,255,255" name="63" prototype="1 0 0 1 0 0 -1 0 0"/>
+    <Direction color="255,255,255" name="62" prototype="-6 0 2 -2 -2 2 0 0 0"/>
+    <Direction color="255,255,255" name="61" prototype="-3 0 1 1 -1 0 3 0 -1"/>
+    <Direction color="255,255,255" name="60" prototype="3 1 -2 4 0 -2 -3 -1 2"/>
+    <Direction color="255,255,255" name="69" prototype="-4 -1 2 -4 -1 2 -3 -1 2"/>
+    <Direction color="255,255,255" name="68" prototype="1 0 0 -2 0 1 -3 -1 2"/>
+    <Direction color="6,96,141" name="blue"/>
+    <Direction color="255,255,255" name="81" prototype="1 0 0 1 0 0 0 2 -1"/>
+    <Direction color="255,255,255" name="80" prototype="0 -2 2 -1 2 -1 0 2 -1"/>
+    <Direction color="245,163,1" name="yellow"/>
+    <Direction color="255,255,255" name="78" prototype="-1 2 -1 0 -2 1 0 2 -1"/>
+    <Direction color="255,255,255" name="77" prototype="0 -2 1 0 1 -1 -1 0 0"/>
+    <Direction color="255,255,255" name="76" prototype="0 -2 1 -1 2 -1 -1 0 0"/>
+    <Direction color="255,255,255" name="75" prototype="0 1 -1 1 0 0 -1 0 0"/>
+    <Direction color="255,255,255" name="74" prototype="-1 2 -1 0 -2 2 -1 0 0"/>
+    <Direction color="255,255,255" name="73" prototype="-5 -1 3 -5 -1 3 3 0 -1"/>
+    <Direction color="255,255,255" name="72" prototype="-2 2 0 -1 -2 2 -1 1 0"/>
+    <Direction color="255,255,255" name="71" prototype="2 1 -1 1 -1 0 -1 1 0"/>
+    <Direction color="255,255,255" name="59" prototype="0 -1 1 0 1 0 0 0 0"/>
+    <Direction color="255,255,255" name="58" prototype="-1 1 0 0 1 -1 1 0 0"/>
+    <Direction color="255,255,255" name="79" prototype="1 0 0 0 1 -1 0 2 -1"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+      <Direction color="6,96,141" name="blue"/>
+      <Direction color="2,130,53" name="green"/>
+      <Direction color="245,163,1" name="yellow"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool id="tool-0" label="bookmark 0" selectInputs="true"/>
+    <Tool id="tool-1" label="axial symmetry 1" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

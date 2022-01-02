@@ -2,9 +2,7 @@
 title: Is this a valid Rosette?
 image: https://ThynStyx.github.io/vzome-sharing/2022/01/02/19-02-30-9-directions-ortho-Polar-Zonohedron-halved/9-directions-ortho-Polar-Zonohedron-halved.png
 layout: vzome
-description:
-
-  In vZome additional tools enable other n-gons to be generated and even a 9 direction polar orthogonal zonohedron from 3 cubic systems
+description:  In vZome additional tools enable other n-gons to be generated and even a 9 direction polar orthogonal zonohedron from 3 cubic systems
   as this John Kostick model shows.
   My question is does this constitute a legitimate Rosette?  
   I was thinking of adding some purely vZome models to my Rosette webpage.

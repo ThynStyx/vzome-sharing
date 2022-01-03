@@ -31,3 +31,10 @@ The n-gon field tool also  enables flat "Rosettes" to be created. Are these legi
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/02/19-38-40-9-Gon-Rosette/9-Gon-Rosette.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/02/19-38-40-9-Gon-Rosette/9-Gon-Rosette.png" />
 </vzome-viewer>
+
+Combining the two generates a 3D "Rosette" formed from multiples of four different pieces.
+
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/02/22-37-14-9-Gon-Rosette-Complete/9-Gon-Rosette-Complete.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/02/22-37-14-9-Gon-Rosette-Complete/9-Gon-Rosette-Complete.png" />
+</vzome-viewer>

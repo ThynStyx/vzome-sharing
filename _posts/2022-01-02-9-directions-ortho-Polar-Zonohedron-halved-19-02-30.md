@@ -38,3 +38,4 @@ Combining the two generates a 3D "Rosette" formed from multiples of four differe
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/02/22-37-14-9-Gon-Rosette-Complete/9-Gon-Rosette-Complete.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/02/22-37-14-9-Gon-Rosette-Complete/9-Gon-Rosette-Complete.png" />
 </vzome-viewer>
+

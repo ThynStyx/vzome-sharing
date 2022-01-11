@@ -2,7 +2,7 @@
 title: Rosette Rose and stand
 image: https://ThynStyx.github.io/vzome-sharing/2022/01/11/13-49-37-Rosette-Rose-and-stand/Rosette-Rose-and-stand.png
 layout: vzome
-description:  A Rosette which looks Rose like and its stand wich can be built in Zometool
+description:  A Rosette which looks like a Rose and its stand which can be built in Zometool.
 ---
 
 {% comment %}

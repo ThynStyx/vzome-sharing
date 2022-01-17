@@ -11,7 +11,7 @@ layout: vzome
 [post]: <https://ThynStyx.github.io/vzome-sharing/2022/01/17/4D cube by cubeHypercube-21-59-18.html>
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/17/21-59-18-4D cube by cubeHypercube/>
 {% endcomment %}
-
+Comment  :joy:
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/17/21-59-18-4D cube by cubeHypercube/4D cube by cubeHypercube.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/17/21-59-18-4D cube by cubeHypercube/4D cube by cubeHypercube.png" />

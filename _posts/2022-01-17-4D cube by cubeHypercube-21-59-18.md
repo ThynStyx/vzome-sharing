@@ -3,7 +3,7 @@ title: 4D cube by cubeHypercube
 image: https://ThynStyx.github.io/vzome-sharing/2022/01/17/21-59-18-4D cube by cubeHypercube/4D cube by cubeHypercube.png
 layout: vzome
 description:
-Thats good.  :joy:
+  Thats good 😂
 ---
 
 {% comment %}

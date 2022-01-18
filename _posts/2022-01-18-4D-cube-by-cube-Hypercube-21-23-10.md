@@ -2,6 +2,7 @@
 title: 4D cube by cube Hypercube
 image: https://ThynStyx.github.io/vzome-sharing/2022/01/18/21-23-10-4D-cube-by-cube-Hypercube/4D-cube-by-cube-Hypercube.png
 layout: vzome
+description:  Thats good. 😂
 ---
 
 {% comment %}

@@ -10,6 +10,7 @@ description: A flowerlike model with a trumpet and 5 petals.
  - [data assets and more info][github]
 [post]: <https://ThynStyx.github.io/vzome-sharing/2022/01/22/Daffodil-from-4-triangles-15-43-48.html>
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/22/15-43-48-Daffodil-from-4-triangles/>
+
 {% endcomment %}
 
 {{ page description }}

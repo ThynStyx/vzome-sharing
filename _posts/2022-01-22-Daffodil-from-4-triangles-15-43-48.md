@@ -1,8 +1,10 @@
 ---
+
 title: 5 Petalled Flower with Trumpet derived from the 4 triangles model by J Kostick
 image: https://ThynStyx.github.io/vzome-sharing/2022/01/22/15-43-48-Daffodil-from-4-triangles/Daffodil-from-4-triangles.png
 layout: vzome
-description: A flowerlike model with a trumpet and 5 petals. 
+description: A flowerlike model with a trumpet and 5 petals.
+
 ---
 
 {% comment %}

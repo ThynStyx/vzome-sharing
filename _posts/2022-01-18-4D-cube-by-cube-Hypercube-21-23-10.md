@@ -13,6 +13,10 @@ description:  Thats good. 😂
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/18/21-23-10-4D-cube-by-cube-Hypercube/>
 {% endcomment %}
 {{ page description }}
+
+*This text in italics* 
+**This text bold**
+# Heading 1
   Very good 😂
   Nice 😂
 <vzome-viewer style="width: 100%; height: 65vh;"

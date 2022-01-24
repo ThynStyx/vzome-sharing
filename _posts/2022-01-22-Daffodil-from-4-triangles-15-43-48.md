@@ -16,7 +16,7 @@ description: A flowerlike model with a trumpet and 5 petals.
 
 {% endcomment %}
 
-{{ page description }}
+{{ page.description }}
 
 ### Flower with 5 petals and a trumpet
 

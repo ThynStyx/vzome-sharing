@@ -57,3 +57,8 @@ The "standard"  internal models of the Octahedron and Dodecahedron from Kepler's
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-01-25-Keplers-Kosmos-Cube/Keplers-Kosmos-Cube.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-01-25-Keplers-Kosmos-Cube/Keplers-Kosmos-Cube.png" />
 </vzome-viewer>
+
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-03-07-Keplers-Kosmos-Icosahedron/Keplers-Kosmos-Icosahedron.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-03-07-Keplers-Kosmos-Icosahedron/Keplers-Kosmos-Icosahedron.png" />
+</vzome-viewer>

@@ -44,6 +44,11 @@ The "standard"  internal models of the Octahedron and Dodecahedron from Kepler's
 </vzome-viewer>
 
 <vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-17-41-Keplers-Kosmos-Skeleton/Keplers-Kosmos-Skeleton.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-17-41-Keplers-Kosmos-Skeleton/Keplers-Kosmos-Skeleton.png" />
+</vzome-viewer>
+
+<vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/21-59-33-Keplers-Kosmos-Tetrahedron/Keplers-Kosmos-Tetrahedron.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/21-59-33-Keplers-Kosmos-Tetrahedron/Keplers-Kosmos-Tetrahedron.png" />
 </vzome-viewer>

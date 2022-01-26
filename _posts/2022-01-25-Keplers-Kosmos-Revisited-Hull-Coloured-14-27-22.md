@@ -37,50 +37,44 @@ To view all the solids in order.  Follow the instructions below.
 
 The "standard"  internal models of the Octahedron and Dodecahedron from Kepler's Obsession are found on Bookmarks 13 and 11 respectively but their struts are not shown nor their green connector attachments, 
 
-** The 3D hull **
+**The 3D hull**
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/22-01-41-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/22-01-41-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
 </vzome-viewer>
 
-** The Skeleton of all 5 models **
-
+**The Skeleton of all 5 models**
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-17-41-Keplers-Kosmos-Skeleton/Keplers-Kosmos-Skeleton.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-17-41-Keplers-Kosmos-Skeleton/Keplers-Kosmos-Skeleton.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.png" />
 </vzome-viewer>
 
-** The Tetrahedron **
-
+**The Tetrahedron**
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/21-59-33-Keplers-Kosmos-Tetrahedron/Keplers-Kosmos-Tetrahedron.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/21-59-33-Keplers-Kosmos-Tetrahedron/Keplers-Kosmos-Tetrahedron.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-30-34-Keplers-Kosmos-Tetrahedron-only/Keplers-Kosmos-Tetrahedron-only.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-30-34-Keplers-Kosmos-Tetrahedron-only/Keplers-Kosmos-Tetrahedron-only.png" />
 </vzome-viewer>
 
-** The Cube **
-
+**The Hexahedron (Cube)**
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-01-25-Keplers-Kosmos-Cube/Keplers-Kosmos-Cube.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-01-25-Keplers-Kosmos-Cube/Keplers-Kosmos-Cube.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/11-12-12-Keplers-Kosmos-Cube-only/Keplers-Kosmos-Cube-only.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/11-12-12-Keplers-Kosmos-Cube-only/Keplers-Kosmos-Cube-only.png" />
 </vzome-viewer>
 
-** The Octahedron **
-
+**The Octahedron**
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-04-28-Keplers-Kosmos-Octahedron/Keplers-Kosmos-Octahedron.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-04-28-Keplers-Kosmos-Octahedron/Keplers-Kosmos-Octahedron.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-48-24-Keplers-Kosmos-Octahedron-only/Keplers-Kosmos-Octahedron-only.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-48-24-Keplers-Kosmos-Octahedron-only/Keplers-Kosmos-Octahedron-only.png" />
 </vzome-viewer>
 
-** The Icosahedron **
-
+**The Icosahedron**
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-03-07-Keplers-Kosmos-Icosahedron/Keplers-Kosmos-Icosahedron.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-03-07-Keplers-Kosmos-Icosahedron/Keplers-Kosmos-Icosahedron.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-25-59-Keplers-Kosmos-Icosahedron-only/Keplers-Kosmos-Icosahedron-only.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-25-59-Keplers-Kosmos-Icosahedron-only/Keplers-Kosmos-Icosahedron-only.png" />
 </vzome-viewer>
 
-** The Dodecahedron **
-
+**The Dodecahedron**
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-06-37-Keplers-Kosmos-Dodecahedron/Keplers-Kosmos-Dodecahedron.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/22-06-37-Keplers-Kosmos-Dodecahedron/Keplers-Kosmos-Dodecahedron.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-57-10-Keplers-Kosmos-Dodecahedron-only/Keplers-Kosmos-Dodecahedron-only.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-57-10-Keplers-Kosmos-Dodecahedron-only/Keplers-Kosmos-Dodecahedron-only.png" />
 </vzome-viewer>

@@ -15,7 +15,7 @@ layout: vzome
 {{ page.description}}
 
 ## Plato's Solids
-###by John Hall (Jackpike)
+### by John Hall (Jackpike)
 
 This vZome model shows a 3D hull I have generated that contains all 5 Platonic solids.
 I have bookmarked each solid and below is a list of them.
@@ -28,10 +28,10 @@ To view all the solids in order.  Follow the instructions below.
 5.  Select Bookmark 10 - The Tetrahedron.  Select Delete (backspace) to delete it.
 6.  Select Bookmark 9 - **The Cube.** Click on the background to view.
 7.  Select Bookmark 9 - The Cube.  Select Delete (backspace) to delete it.
-8.  Select Bookmark 8 -**The Icosahedron.**  Click on the background to view.
-9.  Select Bookmark 8 - The Icosahedron.  Select Delete (backspace) to delete it.
-10.  Select Bookmark 14 - **The Octahedron.** Click on the background to view.
-11.  Select Bookmark 14 - The Octahedron.  Select Delete (backspace) to delete it.
+8.  Select Bookmark 14 - **The Octahedron.** Click on the background to view.
+9.  Select Bookmark 14 - The Octahedron.  Select Delete (backspace) to delete it.
+10.  Select Bookmark 8 -**The Icosahedron.**  Click on the background to view.
+11.  Select Bookmark 8 - The Icosahedron.  Select Delete (backspace) to delete it.
 12.  Select Bookmark 7 - **The Dodecahedron.** Click on the background to view.
 13.  Select Bookmark 7 - The Dodecahedron.  Select Delete (backspace) to delete it.
 

@@ -18,7 +18,10 @@ layout: vzome
 ### by John Hall (Jackpike)
 
 This vZome model shows a 3D hull I have generated that contains all 5 Platonic solids.
-I have bookmarked each solid and below is a list of them.
+I have also included vZome files of each Platonic solid aligned to the skeletons of all 5.
+There are actually multiple cubes, octahedra and tetrahedra that are available in the shell.
+Only one of each solid has been selected to keep the skeleton as simple as possible but this will reduce the symmetry available.
+I have bookmarked each solid in the model of the complex hull so that model has all the solids within it and below is a list of them.
 To view all the solids in order.  Follow the instructions below.
 
 1.  Download the vZome model by clicking on the down arrow top right.

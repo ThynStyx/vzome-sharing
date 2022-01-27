@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="67" field="golden" version="7.0">
-  <EditHistory editNumber="2875" lastStickyEdit="2713">
+  <EditHistory editNumber="2877" lastStickyEdit="2713">
     <StrutCreation anchor="0 0 0 0 0 0" dir="red" index="46" len="1 2"/>
     <SelectManifestation point="0 0 2 3 -1 -2"/>
     <ApplyTool name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
@@ -1710,7 +1710,9 @@
     <SelectManifestation point="0 0 7/5 11/5 18/5 29/5"/>
     <SelectManifestation point="11/5 18/5 11/5 18/5 11/5 18/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="18/5 29/5 0 0 -7/5 -11/5"/>
     <SelectManifestation>
@@ -1732,7 +1734,9 @@
     <SelectManifestation point="0 0 -7/5 -11/5 -18/5 -29/5"/>
     <SelectManifestation point="11/5 18/5 -11/5 -18/5 -11/5 -18/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="0 0 7/5 11/5 -18/5 -29/5"/>
     <SelectManifestation point="-11/5 -18/5 11/5 18/5 -11/5 -18/5"/>
@@ -1761,7 +1765,9 @@
     <SelectManifestation point="-11/5 -18/5 11/5 18/5 -11/5 -18/5"/>
     <SelectManifestation point="0 0 7/5 11/5 -18/5 -29/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="11/5 18/5 -11/5 -18/5 -11/5 -18/5"/>
     <SelectManifestation point="0 0 -7/5 -11/5 -18/5 -29/5"/>
@@ -1769,7 +1775,9 @@
     <SelectManifestation point="-7/5 -11/5 -18/5 -29/5 0 0"/>
     <SelectManifestation point="7/5 11/5 -18/5 -29/5 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 -11/5 -18/5"/>
     <SelectManifestation point="-18/5 -29/5 0 0 -7/5 -11/5"/>
@@ -1790,7 +1798,9 @@
     <SelectManifestation point="0 0 -7/5 -11/5 -18/5 -29/5"/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 -11/5 -18/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-7/5 -11/5 -18/5 -29/5 0 0"/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
@@ -1814,7 +1824,9 @@
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
     <SelectManifestation point="-7/5 -11/5 -18/5 -29/5 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
     <SelectManifestation point="0 0 -7/5 -11/5 18/5 29/5"/>
@@ -1850,7 +1862,9 @@
     <SelectManifestation point="-7/5 -11/5 -18/5 -29/5 0 0"/>
     <SelectManifestation point="7/5 11/5 -18/5 -29/5 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-18/5 -29/5 0 0 7/5 11/5"/>
     <SelectManifestation point="-11/5 -18/5 11/5 18/5 11/5 18/5"/>
@@ -1885,7 +1899,9 @@
     <SelectManifestation point="0 0 -7/5 -11/5 18/5 29/5"/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="-11/5 -18/5 11/5 18/5 11/5 18/5"/>
@@ -1916,7 +1932,9 @@
     <SelectManifestation point="11/5 18/5 11/5 18/5 11/5 18/5"/>
     <SelectManifestation point="0 0 7/5 11/5 18/5 29/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="-18/5 -29/5 0 0 7/5 11/5"/>
@@ -1925,7 +1943,9 @@
     <SelectManifestation point="-7/5 -11/5 18/5 29/5 0 0"/>
     <SelectManifestation point="-11/5 -18/5 11/5 18/5 11/5 18/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="7/5 11/5 -18/5 -29/5 0 0"/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
@@ -2193,121 +2213,161 @@
     <SelectManifestation point="-2 -3 0 0 3 5"/>
     <SelectManifestation point="0 0 3 5 2 3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-2 -3 0 0 3 5"/>
     <SelectManifestation point="2 3 0 0 3 5"/>
     <SelectManifestation point="0 0 3 5 2 3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-3 -5 2 3 0 0"/>
     <SelectManifestation point="-3 -5 -2 -3 0 0"/>
     <SelectManifestation point="-2 -3 0 0 3 5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-2 -3 0 0 3 5"/>
     <SelectManifestation point="0 0 -3 -5 2 3"/>
     <SelectManifestation point="-3 -5 -2 -3 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-2 -3 0 0 3 5"/>
     <SelectManifestation point="2 3 0 0 3 5"/>
     <SelectManifestation point="0 0 -3 -5 2 3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="0 0 -3 -5 2 3"/>
     <SelectManifestation point="3 5 -2 -3 0 0"/>
     <SelectManifestation point="2 3 0 0 3 5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="2 3 0 0 3 5"/>
     <SelectManifestation point="3 5 2 3 0 0"/>
     <SelectManifestation point="3 5 -2 -3 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="2 3 0 0 3 5"/>
     <SelectManifestation point="0 0 3 5 2 3"/>
     <SelectManifestation point="3 5 2 3 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="0 0 3 5 2 3"/>
     <SelectManifestation point="0 0 3 5 -2 -3"/>
     <SelectManifestation point="3 5 2 3 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="0 0 3 5 2 3"/>
     <SelectManifestation point="-3 -5 2 3 0 0"/>
     <SelectManifestation point="0 0 3 5 -2 -3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-3 -5 2 3 0 0"/>
     <SelectManifestation point="-2 -3 0 0 -3 -5"/>
     <SelectManifestation point="0 0 3 5 -2 -3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-3 -5 2 3 0 0"/>
     <SelectManifestation point="-3 -5 -2 -3 0 0"/>
     <SelectManifestation point="-2 -3 0 0 -3 -5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-3 -5 -2 -3 0 0"/>
     <SelectManifestation point="0 0 -3 -5 -2 -3"/>
     <SelectManifestation point="-2 -3 0 0 -3 -5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-3 -5 -2 -3 0 0"/>
     <SelectManifestation point="0 0 -3 -5 2 3"/>
     <SelectManifestation point="0 0 -3 -5 -2 -3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="0 0 -3 -5 2 3"/>
     <SelectManifestation point="3 5 -2 -3 0 0"/>
     <SelectManifestation point="0 0 -3 -5 -2 -3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="3 5 2 3 0 0"/>
     <SelectManifestation point="2 3 0 0 -3 -5"/>
     <SelectManifestation point="3 5 -2 -3 0 0"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="3 5 -2 -3 0 0"/>
     <SelectManifestation point="2 3 0 0 -3 -5"/>
     <SelectManifestation point="0 0 -3 -5 -2 -3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="2 3 0 0 -3 -5"/>
     <SelectManifestation point="0 0 -3 -5 -2 -3"/>
     <SelectManifestation point="-2 -3 0 0 -3 -5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="2 3 0 0 -3 -5"/>
     <SelectManifestation point="-2 -3 0 0 -3 -5"/>
     <SelectManifestation point="0 0 3 5 -2 -3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="2 3 0 0 -3 -5"/>
     <SelectManifestation point="3 5 2 3 0 0"/>
     <SelectManifestation point="0 0 3 5 -2 -3"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation>
@@ -2419,42 +2479,54 @@
     <SelectManifestation point="11/5 18/5 11/5 18/5 -11/5 -18/5"/>
     <SelectManifestation point="0 0 -7/5 -11/5 -18/5 -29/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-18/5 -29/5 0 0 -7/5 -11/5"/>
     <SelectManifestation point="-7/5 -11/5 18/5 29/5 0 0"/>
     <SelectManifestation point="0 0 7/5 11/5 18/5 29/5"/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-7/5 -11/5 18/5 29/5 0 0"/>
     <SelectManifestation point="11/5 18/5 11/5 18/5 -11/5 -18/5"/>
     <SelectManifestation point="18/5 29/5 0 0 7/5 11/5"/>
     <SelectManifestation point="0 0 7/5 11/5 18/5 29/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="0 0 7/5 11/5 18/5 29/5"/>
     <SelectManifestation point="18/5 29/5 0 0 7/5 11/5"/>
     <SelectManifestation point="7/5 11/5 -18/5 -29/5 0 0"/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
     <SelectManifestation point="7/5 11/5 -18/5 -29/5 0 0"/>
     <SelectManifestation point="0 0 -7/5 -11/5 -18/5 -29/5"/>
     <SelectManifestation point="-18/5 -29/5 0 0 -7/5 -11/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="0 0 -7/5 -11/5 -18/5 -29/5"/>
     <SelectManifestation point="7/5 11/5 -18/5 -29/5 0 0"/>
     <SelectManifestation point="18/5 29/5 0 0 7/5 11/5"/>
     <SelectManifestation point="11/5 18/5 11/5 18/5 -11/5 -18/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation>
       <polygonVertex at="0 0 7/5 11/5 18/5 29/5"/>
@@ -2532,25 +2604,33 @@
     <SelectManifestation point="-7/5 -11/5 18/5 29/5 0 0"/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="0 0 -7/5 -11/5 -18/5 -29/5"/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
     <SelectManifestation point="18/5 29/5 0 0 7/5 11/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="18/5 29/5 0 0 7/5 11/5"/>
     <SelectManifestation point="-7/5 -11/5 18/5 29/5 0 0"/>
     <SelectManifestation point="0 0 -7/5 -11/5 -18/5 -29/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
     <SelectManifestation point="-7/5 -11/5 18/5 29/5 0 0"/>
     <SelectManifestation point="18/5 29/5 0 0 7/5 11/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation>
       <polygonVertex at="18/5 29/5 0 0 7/5 11/5"/>
@@ -2571,7 +2651,9 @@
     <BookmarkTool name="tool-10"/>
     <Delete/>
     <SelectManifestation point="0 0 0 0 0 0"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation>
       <polygonVertex at="-1 -2 1 2 1 2"/>
@@ -2683,17 +2765,29 @@
     <BookmarkTool name="tool-12"/>
     <Delete/>
     <SelectManifestation endSegment="0 0 -7/5 -11/5 -18/5 -29/5" startSegment="18/5 29/5 0 0 7/5 11/5"/>
-    <Midpoint/>
+    <Midpoint>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Midpoint>
     <SelectManifestation endSegment="-7/5 -11/5 18/5 29/5 0 0" startSegment="0 0 -7/5 -11/5 -18/5 -29/5"/>
-    <Midpoint/>
+    <Midpoint>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Midpoint>
     <SelectManifestation endSegment="18/5 29/5 0 0 7/5 11/5" startSegment="-7/5 -11/5 18/5 29/5 0 0"/>
-    <Midpoint/>
+    <Midpoint>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Midpoint>
     <SelectManifestation endSegment="18/5 29/5 0 0 7/5 11/5" startSegment="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
-    <Midpoint/>
+    <Midpoint>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Midpoint>
     <SelectManifestation endSegment="-11/5 -18/5 -11/5 -18/5 11/5 18/5" startSegment="0 0 -7/5 -11/5 -18/5 -29/5"/>
-    <Midpoint/>
+    <Midpoint>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Midpoint>
     <SelectManifestation endSegment="-7/5 -11/5 18/5 29/5 0 0" startSegment="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
-    <Midpoint/>
+    <Midpoint>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Midpoint>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="7/10 11/10 -11/10 -9/5 9/5 29/10"/>
@@ -2702,7 +2796,9 @@
     <SelectManifestation endSegment="-11/5 -18/5 -11/5 -18/5 11/5 18/5" startSegment="0 0 -7/5 -11/5 -18/5 -29/5"/>
     <SelectManifestation point="-11/10 -9/5 -9/5 -29/10 -7/10 -11/10"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation endSegment="18/5 29/5 0 0 7/5 11/5" startSegment="-11/5 -18/5 -11/5 -18/5 11/5 18/5"/>
@@ -2711,7 +2807,9 @@
     <SelectManifestation point="-9/5 -29/10 7/10 11/10 11/10 9/5"/>
     <SelectManifestation point="11/10 9/5 9/5 29/10 7/10 11/10"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <SelectManifestation point="11/10 9/5 9/5 29/10 7/10 11/10"/>
     <DeselectAll/>
@@ -2723,14 +2821,18 @@
     <SelectManifestation point="9/5 29/10 -7/10 -11/10 -11/10 -9/5"/>
     <SelectManifestation point="7/10 11/10 -11/10 -9/5 9/5 29/10"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="11/10 9/5 9/5 29/10 7/10 11/10"/>
     <SelectManifestation point="-7/10 -11/10 11/10 9/5 -9/5 -29/10"/>
     <SelectManifestation point="9/5 29/10 -7/10 -11/10 -11/10 -9/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="-7/10 -11/10 11/10 9/5 -9/5 -29/10"/>
@@ -2739,21 +2841,27 @@
     <SelectManifestation endSegment="0 0 -7/5 -11/5 -18/5 -29/5" startSegment="18/5 29/5 0 0 7/5 11/5"/>
     <SelectManifestation point="9/5 29/10 -7/10 -11/10 -11/10 -9/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="-7/10 -11/10 11/10 9/5 -9/5 -29/10"/>
     <SelectManifestation point="11/10 9/5 9/5 29/10 7/10 11/10"/>
     <SelectManifestation point="-9/5 -29/10 7/10 11/10 11/10 9/5"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="-7/10 -11/10 11/10 9/5 -9/5 -29/10"/>
     <SelectManifestation point="-9/5 -29/10 7/10 11/10 11/10 9/5"/>
     <SelectManifestation point="-11/10 -9/5 -9/5 -29/10 -7/10 -11/10"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation point="-11/10 -9/5 -9/5 -29/10 -7/10 -11/10"/>
@@ -2770,7 +2878,9 @@
     <SelectManifestation point="-9/5 -29/10 7/10 11/10 11/10 9/5"/>
     <SelectManifestation point="7/10 11/10 -11/10 -9/5 9/5 29/10"/>
     <EndBlock/>
-    <Polygon/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
     <BeginBlock/>
     <DeselectAll/>
     <SelectManifestation>
@@ -3287,9 +3397,13 @@
     <SelectManifestation endSegment="0 0 -7/5 -11/5 -18/5 -29/5" startSegment="0 0 0 0 0 0"/>
     <SelectManifestation endSegment="3 5 2 3 0 0" startSegment="0 0 0 0 0 0"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectManifestation point="0 0 0 0 0 0"/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation endSegment="-11/5 -18/5 11/5 18/5 -11/5 -18/5" startSegment="0 0 7/5 11/5 -18/5 -29/5"/>
     <DeselectAll/>
@@ -4129,7 +4243,9 @@
     <SelectManifestation endSegment="0 0 7/5 11/5 18/5 29/5" startSegment="-2 -3 0 0 3 5"/>
     <SelectManifestation endSegment="0 0 7/5 11/5 18/5 29/5" startSegment="0 0 -7/5 -11/5 18/5 29/5"/>
     <SelectManifestation endSegment="0 0 7/5 11/5 18/5 29/5" startSegment="2 3 0 0 3 5"/>
+    <DeselectAll/>
     <EndBlock/>
+    <ApplyTool name="tool-9" selectInputs="true"/>
     <DeselectAll/>
   </EditHistory>
   <notes/>
@@ -4141,8 +4257,8 @@
   <Viewing>
     <ViewModel distance="122.59416961669922" far="245.18887329101562" near="0.3064855635166168" parallel="true" stereoAngle="0.0" width="55.16748046875">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="0.9341723918914795" y="0.35682210326194763" z="0.0"/>
-      <LookDirection x="-0.35682210326194763" y="0.9341723322868347" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="icosahedral" renderingStyle="tiny connectors">
@@ -4185,19 +4301,19 @@
   <Tools>
     <Tool id="tool-0" label="axial symmetry 0" selectInputs="true"/>
     <Tool id="tool-1" label="bookmark 1" selectInputs="true"/>
-    <Tool id="tool-10" label="bookmark 10" selectInputs="true"/>
-    <Tool id="tool-11" label="bookmark 11" selectInputs="true"/>
+    <Tool id="tool-10" label="Tetrahedron" selectInputs="true"/>
+    <Tool id="tool-11" label="Internal Dodecahedron" selectInputs="true"/>
     <Tool id="tool-12" label="bookmark 12" selectInputs="true"/>
-    <Tool id="tool-13" label="bookmark 13" selectInputs="true"/>
+    <Tool id="tool-13" label="Internal Octahedron" selectInputs="true"/>
     <Tool id="tool-14" label="bookmark 14" selectInputs="true"/>
     <Tool id="tool-15" label="bookmark 15" selectInputs="true"/>
     <Tool id="tool-2" label="bookmark 2" selectInputs="true"/>
     <Tool id="tool-3" label="bookmark 3" selectInputs="true"/>
     <Tool id="tool-4" label="bookmark 4" selectInputs="true"/>
     <Tool id="tool-5" label="bookmark 5" selectInputs="true"/>
-    <Tool id="tool-6" label="bookmark 6" selectInputs="true"/>
-    <Tool id="tool-7" label="bookmark 7" selectInputs="true"/>
-    <Tool id="tool-8" label="bookmark 8" selectInputs="true"/>
-    <Tool id="tool-9" label="bookmark 9" selectInputs="true"/>
+    <Tool id="tool-6" label="Hull nodes" selectInputs="true"/>
+    <Tool id="tool-7" label="Dodecahedron" selectInputs="true"/>
+    <Tool id="tool-8" label="Icosahedron " selectInputs="true"/>
+    <Tool id="tool-9" label="Cube" selectInputs="true"/>
   </Tools>
 </vzome:vZome>

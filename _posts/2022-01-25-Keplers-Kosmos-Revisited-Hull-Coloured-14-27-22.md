@@ -33,7 +33,7 @@ Note that there are no internal nodes within the hull. Intuitively I expected al
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.png" />
 </vzome-viewer>
 
-I have also attached seperate vZome files for each Platonic solid within the hull aligned to the skeletons of all 5.
+I have also attached seperate vZome files for each Platonic solid within the hull aligned to the skeleton of all 5.
 
 
 **The Tetrahedron**
@@ -69,21 +69,22 @@ I have also attached seperate vZome files for each Platonic solid within the hul
 There are actually multiple cubes, octahedra and tetrahedra that are available within the hull. 
 Only one example of each solid has been chosen to keep the skeleton as simple as possible.  However this does compromise the symmetry.
 
-I have bookmarked each solid in the model of the hull so that model has all the solids within it and below is a list of them.
-To view all the solids within the hull.  Follow the instructions below.
+For vZome desktop users I have bookmarked each of Plato's solids within the model of the 3D hull.
+To view them within the hull.  Follow the instructions below.
 
 1.  Download the vZome model by clicking on the down arrow top right.
-2.  Select Bookmark 12 -**The 3D hull**.  
-3.  Select Delete (backspace) to delete it. This will  reveal the skeleton of the model.
-4.  Select Bookmark 10 - **The Tetrahedron.** Click on the background to view.
-5.  Select Bookmark 10 - The Tetrahedron.  Select Delete (backspace) to delete it.
-6.  Select Bookmark 9 - **The Hexahedron (Cube).** Click on the background to view.
-7.  Select Bookmark 9 - The Cube.  Select Delete (backspace) to delete it.
-8.  Select Bookmark 14 - **The Octahedron.** Click on the background to view.
-9.  Select Bookmark 14 - The Octahedron.  Select Delete (backspace) to delete it.
-10.  Select Bookmark 8 -**The Icosahedron.**  Click on the background to view.
-11.  Select Bookmark 8 - The Icosahedron.  Select Delete (backspace) to delete it.
-12.  Select Bookmark 7 - **The Dodecahedron.** Click on the background to view.
-13.  Select Bookmark 7 - The Dodecahedron.  Select Delete (backspace) to delete it.
+2.  Open the model using vZome desktop.
+3.  Select Bookmark 12 -**The 3D hull**.  
+4.  Select Delete (backspace) to delete it. This will  reveal the skeleton of the model.
+5.  Select Bookmark 10 - **The Tetrahedron.** Click on the background to view.
+6.  Select Bookmark 10 - The Tetrahedron.  Select Delete (backspace) to delete it.
+7.  Select Bookmark 9 - **The Hexahedron (Cube).** Click on the background to view.
+8.  Select Bookmark 9 - The Cube.  Select Delete (backspace) to delete it.
+9.  Select Bookmark 14 - **The Octahedron.** Click on the background to view.
+10.  Select Bookmark 14 - The Octahedron.  Select Delete (backspace) to delete it.
+11.  Select Bookmark 8 -**The Icosahedron.**  Click on the background to view.
+12.  Select Bookmark 8 - The Icosahedron.  Select Delete (backspace) to delete it.
+13.  Select Bookmark 7 - **The Dodecahedron.** Click on the background to view.
+14.  Select Bookmark 7 - The Dodecahedron.  Select Delete (backspace) to delete it.
 
 The "standard"  internal models of the Octahedron and Dodecahedron from Kepler's Obsession are found on Bookmarks 13 and 11 respectively but their struts are not shown nor their green connector attachments. 

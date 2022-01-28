@@ -37,39 +37,45 @@ I have also attached seperate vZome files for each Platonic solid within the hul
 
 
 **The Tetrahedron**
+
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-30-34-Keplers-Kosmos-Tetrahedron-only/Keplers-Kosmos-Tetrahedron-only.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-30-34-Keplers-Kosmos-Tetrahedron-only/Keplers-Kosmos-Tetrahedron-only.png" />
 </vzome-viewer>
 
 **The Hexahedron (Cube)**
+
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/11-12-12-Keplers-Kosmos-Cube-only/Keplers-Kosmos-Cube-only.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/11-12-12-Keplers-Kosmos-Cube-only/Keplers-Kosmos-Cube-only.png" />
 </vzome-viewer>
 
 **The Octahedron**
+
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-48-24-Keplers-Kosmos-Octahedron-only/Keplers-Kosmos-Octahedron-only.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-48-24-Keplers-Kosmos-Octahedron-only/Keplers-Kosmos-Octahedron-only.png" />
 </vzome-viewer>
 
 **The Icosahedron**
+
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-25-59-Keplers-Kosmos-Icosahedron-only/Keplers-Kosmos-Icosahedron-only.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-25-59-Keplers-Kosmos-Icosahedron-only/Keplers-Kosmos-Icosahedron-only.png" />
 </vzome-viewer>
 
 **The Dodecahedron**
+
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-57-10-Keplers-Kosmos-Dodecahedron-only/Keplers-Kosmos-Dodecahedron-only.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-57-10-Keplers-Kosmos-Dodecahedron-only/Keplers-Kosmos-Dodecahedron-only.png" />
 </vzome-viewer>
 
-There are actually multiple cubes, octahedra and tetrahedra that are available within the hull. 
+There are actually multiple Cubes, Octahedra and Tetrahedra available within the hull. 
 Only one example of each solid has been chosen to keep the skeleton as simple as possible.  However this does compromise the symmetry.
 
 For vZome desktop users I have bookmarked each of Plato's solids within the model of the 3D hull.
+
 To view them within the hull.  Follow the instructions below.
 
 1.  Download the vZome model by clicking on the down arrow top right.

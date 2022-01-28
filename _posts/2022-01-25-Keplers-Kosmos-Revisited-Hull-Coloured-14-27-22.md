@@ -18,18 +18,27 @@ layout: vzome
 ### by John Hall (Jackpike)
 
 This vZome model shows a 3D hull I have generated that contains all 5 Platonic solids.
+
+**The 3D hull**
+<vzome-viewer style="width: 100%; height: 65vh;"
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/22-01-41-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/22-01-41-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
+</vzome-viewer>
 I have also included vZome files of each Platonic solid aligned to the skeletons of all 5.
+
 There are actually multiple cubes, octahedra and tetrahedra that are available in the shell.
-Only one of each solid has been selected to keep the skeleton as simple as possible but this will reduce the symmetry available.
+
+Only one of each solid has been selected to keep the skeleton as simple as possible but this does reduce the symmetry available.
+
 I have bookmarked each solid in the model of the complex hull so that model has all the solids within it and below is a list of them.
-To view all the solids in order.  Follow the instructions below.
+To view all the solids within the hull.  Follow the instructions below.
 
 1.  Download the vZome model by clicking on the down arrow top right.
-2.  Select Bookmark 12 -**The 3D Convex Hull**.  
+2.  Select Bookmark 12 -**The 3D Convex hull**.  
 3.  Select Delete (backspace) to delete it. This will  reveal the skeleton of the model.
 4.  Select Bookmark 10 - **The Tetrahedron.** Click on the background to view.
 5.  Select Bookmark 10 - The Tetrahedron.  Select Delete (backspace) to delete it.
-6.  Select Bookmark 9 - **The Cube.** Click on the background to view.
+6.  Select Bookmark 9 - **The Hexahedron (Cube).** Click on the background to view.
 7.  Select Bookmark 9 - The Cube.  Select Delete (backspace) to delete it.
 8.  Select Bookmark 14 - **The Octahedron.** Click on the background to view.
 9.  Select Bookmark 14 - The Octahedron.  Select Delete (backspace) to delete it.
@@ -40,13 +49,7 @@ To view all the solids in order.  Follow the instructions below.
 
 The "standard"  internal models of the Octahedron and Dodecahedron from Kepler's Obsession are found on Bookmarks 13 and 11 respectively but their struts are not shown nor their green connector attachments, 
 
-**The 3D hull**
-<vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/22-01-41-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/22-01-41-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
-</vzome-viewer>
-
-**The Skeleton of all 5 models**
+**The combined skeleton of all 5 models**
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.png" />

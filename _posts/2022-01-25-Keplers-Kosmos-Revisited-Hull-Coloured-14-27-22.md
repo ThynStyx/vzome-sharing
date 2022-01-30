@@ -20,13 +20,16 @@ layout: vzome
 This vZome model shows a 3D hull I have generated containing all 5 Platonic solids.
 
 **The 3D hull**
+
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured-2.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/22-01-41-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/01/30/20-33-20-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/30/20-33-20-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
 </vzome-viewer>
+
 Note that there are no internal nodes within the hull. Intuitively I expected all the nodes to be on the same surface but I have determined there are 2 radii.
 
 **The combined skeleton of all 5 models**
+
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.png" />

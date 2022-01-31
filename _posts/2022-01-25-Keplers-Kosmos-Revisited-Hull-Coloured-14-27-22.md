@@ -1,5 +1,5 @@
 ---
-title: Keplers Kosmos Revisited Hull
+title: Plato's Solids
 image: https://ThynStyx.github.io/vzome-sharing/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png
 layout: vzome
 ---
@@ -13,9 +13,6 @@ layout: vzome
 {% endcomment %}
 
 {{ page.description}}
-
-## Plato's Solids
-### by John Hall (Jackpike)
 
 This vZome model shows a 3D hull I have generated containing all 5 Platonic solids.
 

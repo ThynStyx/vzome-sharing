@@ -12,7 +12,7 @@ layout: vzome
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
 
-{{ page.description}}
+{{ page.description }}
 
 This vZome model shows a 3D hull I have generated containing all 5 Platonic solids.
 
@@ -69,6 +69,8 @@ I have also attached seperate vZome files for each Platonic solid within the hul
        src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-57-10-Keplers-Kosmos-Dodecahedron-only/Keplers-Kosmos-Dodecahedron-only.vZome" >
   <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-57-10-Keplers-Kosmos-Dodecahedron-only/Keplers-Kosmos-Dodecahedron-only.png" />
 </vzome-viewer>
+
+
 
 There are actually multiple Cubes, Octahedra and Tetrahedra available within the hull. 
 Only one example of each solid has been chosen to keep the skeleton as simple as possible.  However this does compromise the symmetry.

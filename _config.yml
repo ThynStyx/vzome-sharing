@@ -29,7 +29,7 @@ social_linls:
 github_username: ThynStyx
 
 header_pages:
--about.md
+- about.md
 
 theme: minima
 

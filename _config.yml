@@ -1,6 +1,7 @@
 title: My vZome Designs
-author: John Hall
-
+author: 
+  name: John Hall
+  email: j-hall20@sky.com
 defaults:
   - scope:
       path: ""
@@ -24,6 +25,7 @@ minima:
   date_format: "%b %~d, %Y
  
 #social links
+social_linls:
 github_username: ThynStyx
 
 header_pages:

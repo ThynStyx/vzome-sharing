@@ -8,8 +8,8 @@ layout: vzome
  - [***web page generated from this source***][post]
  - [data assets and more info][github]
 
-[post]: <https://ThynStyx.github.io/vzome-sharing/2022/01/25/Keplers-Kosmos-Revisited-Hull-Coloured-14-27-22.html>
-[github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
+[post]: <https://ThynStyx.github.io/vzome-sharing/2022/02/04/Keplers-Kosmos-Revisited-Hull-Coloured-18-45-11.html>
+[github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/02/04/18-45-11-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
 
 {{ page.description }}
@@ -19,8 +19,8 @@ This vZome model shows a 3D hull I have generated containing all 5 Platonic soli
 **The 3D hull**
 
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/01/30/20-33-20-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/01/30/20-33-20-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/02/04/18-45-11-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/02/04/18-45-11-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
 </vzome-viewer>
 
 Note that there are no internal nodes within the hull. Intuitively I expected all the nodes to be on the same surface but I have determined there are 2 radii.
@@ -81,17 +81,17 @@ To view them within the hull.  Follow the instructions below.
 
 1.  Download the vZome model by clicking on the down arrow top right.
 2.  Open the model using vZome desktop.
-3.  Select Bookmark 12 -**The 3D hull**.  
+3.  Select Bookmark -**Hull Panels**.  
 4.  Select Delete (backspace) to delete it. This will  reveal the skeleton of the model.
-5.  Select Bookmark 10 - **The Tetrahedron.** Click on the background to view.
-6.  Select Bookmark 10 - The Tetrahedron.  Select Delete (backspace) to delete it.
-7.  Select Bookmark 9 - **The Hexahedron (Cube).** Click on the background to view.
-8.  Select Bookmark 9 - The Cube.  Select Delete (backspace) to delete it.
-9.  Select Bookmark 14 - **The Octahedron.** Click on the background to view.
-10.  Select Bookmark 14 - The Octahedron.  Select Delete (backspace) to delete it.
-11.  Select Bookmark 8 -**The Icosahedron.**  Click on the background to view.
-12.  Select Bookmark 8 - The Icosahedron.  Select Delete (backspace) to delete it.
-13.  Select Bookmark 7 - **The Dodecahedron.** Click on the background to view.
-14.  Select Bookmark 7 - The Dodecahedron.  Select Delete (backspace) to delete it.
+5.  Select Bookmark - **Tetrahedron Panels** Click on the background to view.
+6.  To proceed to next solid reselect Bookmark -. Tetrahedron Panels.  Select Delete (backspace) to delete it.
+7.  Select Bookmark - **Cube (Hexahedron) Panels.** Click on the background to view.
+8.  To proceed to next solid reselect Bookmark -. Cube Panels.  Select Delete (backspace) to delete it.
+9.  Select Bookmark - **Octahedron Panels.** Click on the background to view.
+10. To proceed to next solid reselect Bookmark -. Octahedron Panels.  Select Delete (backspace) to delete it.
+11. Select Bookmark -**Icosahedron Panels.**  Click on the background to view.
+12. To proceed to next solid reselect Bookmark -. Icosahedron Panels.  Select Delete (backspace) to delete it.
+13. Select Bookmark - **Dodecahedron Panels.** Click on the background to view.
+14. To proceed to next solid reselect Bookmark -. Dodecahedron Panels.  Select Delete (backspace) to delete it.
 
-The "standard"  internal models of the Octahedron and Dodecahedron from Kepler's Obsession are found on Bookmarks 13 and 11 respectively but their struts are not shown nor their green connector attachments. 
+The "standard"  internal models of the Octahedron and Dodecahedron from Kepler's Obsession are found on their own Inner Bookmarks but their green connector attachments are not shown. 

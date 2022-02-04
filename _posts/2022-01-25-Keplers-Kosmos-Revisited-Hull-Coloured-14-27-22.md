@@ -1,5 +1,5 @@
 ---
-title: Plato's Solids
+title: The Platonic Solids
 image: https://ThynStyx.github.io/vzome-sharing/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png
 layout: vzome
 ---
@@ -8,7 +8,7 @@ layout: vzome
  - [***web page generated from this source***][post]
  - [data assets and more info][github]
 
-[post]: <https://ThynStyx.github.io/vzome-sharing/2022/02/04/Keplers-Kosmos-Revisited-Hull-Coloured-18-45-11.html>
+[post]: <https://ThynStyx.github.io/vzome-sharing/2022/02/04/Keplers-Kosmos-Revisited-Hull-Coloured-21-33-51.html>
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/02/04/18-45-11-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
 
@@ -19,8 +19,8 @@ This vZome model shows a 3D hull I have generated containing all 5 Platonic soli
 **The 3D hull**
 
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/02/04/18-45-11-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/02/04/18-45-11-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/02/04/21-33-51-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/02/04/21-33-51-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
 </vzome-viewer>
 
 Note that there are no internal nodes within the hull. Intuitively I expected all the nodes to be on the same surface but I have determined there are 2 radii.

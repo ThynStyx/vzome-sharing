@@ -1,6 +1,6 @@
 ---
 title: The Platonic Solids
-image: https://ThynStyx.github.io/vzome-sharing/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png
+image: https://ThynStyx.github.io/vzome-sharing/2022/02/05/14-05-27-Platonic-Solids/Platonic-Solids.png
 layout: vzome
 ---
 
@@ -8,8 +8,8 @@ layout: vzome
  - [***web page generated from this source***][post]
  - [data assets and more info][github]
 
-[post]: <https://ThynStyx.github.io/vzome-sharing/2022/02/04/Keplers-Kosmos-Revisited-Hull-Coloured-21-33-51.html>
-[github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/02/04/18-45-11-Keplers-Kosmos-Revisited-Hull-Coloured/>
+[post]: <https://ThynStyx.github.io/vzome-sharing/2022/02/05/Platonic-Solids-14-05-27.html>
+[github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/02/05/14-05-27-Platonic-Solids/>
 {% endcomment %}
 
 {{ page.description }}
@@ -19,9 +19,10 @@ This vZome model shows a 3D hull I have generated containing all 5 Platonic soli
 **The 3D hull**
 
 <vzome-viewer style="width: 100%; height: 65vh;"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/02/04/21-33-51-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.vZome" >
-  <img src="https://ThynStyx.github.io/vzome-sharing/2022/02/04/21-33-51-Keplers-Kosmos-Revisited-Hull-Coloured/Keplers-Kosmos-Revisited-Hull-Coloured.png" />
+       src="https://ThynStyx.github.io/vzome-sharing/2022/02/05/14-05-27-Platonic-Solids/Platonic-Solids.vZome" >
+  <img src="https://ThynStyx.github.io/vzome-sharing/2022/02/05/14-05-27-Platonic-Solids/Platonic-Solids.png" />
 </vzome-viewer>
+
 
 Note that there are no internal nodes within the hull. Intuitively I expected all the nodes to be on the same surface but I have determined there are 2 radii.
 
@@ -81,17 +82,19 @@ To view them within the hull.  Follow the instructions below.
 
 1.  Download the vZome model by clicking on the down arrow top right.
 2.  Open the model using vZome desktop.
-3.  Select Bookmark -**Hull Panels**.  
+3.  Select Bookmark -**Hull faces**.  
 4.  Select Delete (backspace) to delete it. This will  reveal the skeleton of the model.
-5.  Select Bookmark - **Tetrahedron Panels** Click on the background to view.
-6.  To proceed to next solid reselect Bookmark -. Tetrahedron Panels.  Select Delete (backspace) to delete it.
-7.  Select Bookmark - **Cube (Hexahedron) Panels.** Click on the background to view.
-8.  To proceed to next solid reselect Bookmark -. Cube Panels.  Select Delete (backspace) to delete it.
-9.  Select Bookmark - **Octahedron Panels.** Click on the background to view.
-10. To proceed to next solid reselect Bookmark -. Octahedron Panels.  Select Delete (backspace) to delete it.
-11. Select Bookmark -**Icosahedron Panels.**  Click on the background to view.
-12. To proceed to next solid reselect Bookmark -. Icosahedron Panels.  Select Delete (backspace) to delete it.
-13. Select Bookmark - **Dodecahedron Panels.** Click on the background to view.
-14. To proceed to next solid reselect Bookmark -. Dodecahedron Panels.  Select Delete (backspace) to delete it.
+5.  Select Bookmark - **Tetrahedron faces** Click on the background to view.
+6.  To proceed to next solid reselect Bookmark -. Tetrahedron faces.  Select Delete (backspace) to delete it.
+7.  Select Bookmark - **Cube (Hexahedron) faces.** Click on the background to view.
+8.  To proceed to next solid reselect Bookmark -. Cube faces.  Select Delete (backspace) to delete it.
+9.  Select Bookmark - **Octahedron faces.** Click on the background to view.
+10. To proceed to next solid reselect Bookmark -. Octahedron faces.  Select Delete (backspace) to delete it.
+11. Select Bookmark -**Icosahedron faces.**  Click on the background to view.
+12. To proceed to next solid reselect Bookmark -. Icosahedron faces.  Select Delete (backspace) to delete it.
+13. Select Bookmark - **Dodecahedron faces.** Click on the background to view.
+14. To proceed to next solid reselect Bookmark -. Dodecahedron faces.  Select Delete (backspace) to delete it.
 
-The "standard"  internal models of the Octahedron and Dodecahedron from Kepler's Obsession are found on their own Inner Bookmarks but their green connector attachments are not shown. 
+The "standard"  internal models of the Octahedron and Dodecahedron from Kepler's Obsession are found on their own "Inner" bookmarks but their green connector attachments are not shown. 
+
+![Platonic annotation](https://user-images.githubusercontent.com/78449548/152645448-9bfdcaab-a0e8-41dd-8a71-38f0c75fd880.jpg)

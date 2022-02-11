@@ -40,7 +40,6 @@ Only one example of each solid has been chosen to keep the skeleton as simple as
   
  </head>
  <body>
-	<br />
 	<button type="button" onclick='setSource(0)'>Hull Skeleton </button>
 	<button type="button" onclick='setSource(1)'>Tetrahedron Solid</button>
 	<button type="button" onclick='setSource(2)'>Cube Solid </button>
@@ -52,10 +51,10 @@ Only one example of each solid has been chosen to keep the skeleton as simple as
 	Notice that the camera position and zoom level are retained when the model is changed!
 	</p>
 	
-    <!-- Enable the vzome-viewer custom element -->
-    <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
+        <!-- Enable the vzome-viewer custom element -->	 
+        <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
 	<vzome-viewer id="viewer" style="width: 100%; height: 65vh;" src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.vZome" >
-		<img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.png" />
+	<img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.png" />
 	</vzome-viewer>
 
 </body>

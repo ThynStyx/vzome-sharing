@@ -16,11 +16,10 @@ layout: vzome
 There are actually multiple Cubes, Octahedra and Tetrahedra available within the hull. 
 Only one example of each solid has been chosen to keep the skeleton as simple as possible.  However this does compromise the symmetry.
 
-<html lang="en">
  <head>
   <meta charset="utf-8">
   <title>vZome Platonic Solids multi-viewer</title>
-  <meta property="og:title" content="The Platonic Solids" />
+  <meta property="og:title" content="vZome Platonic Solids multi-viewer" />
   <meta property="og:locale" content="en_US" />
   <script>
   const sources = [
@@ -37,7 +36,6 @@ Only one example of each solid has been chosen to keep the skeleton as simple as
 
   function nextButton() {
 	stepSource(1);
-
   }
 
   function stepSource(step) {

@@ -16,7 +16,6 @@ layout: vzome
 There are actually multiple Cubes, Octahedra and Tetrahedra available within the hull. 
 Only one example of each solid has been chosen to keep the skeleton as simple as possible.  However this does compromise the symmetry.
 
-<!DOCTYPE html>
 <html lang="en">
  <head>
   <meta charset="utf-8">
@@ -33,25 +32,6 @@ Only one example of each solid has been chosen to keep the skeleton as simple as
  "https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-57-10-Keplers-Kosmos-Dodecahedron-only/Keplers-Kosmos-Dodecahedron-only.vZome"  
   ];
 
-  function prevButton() {
-	stepSource(-1);
-  }
-  
-  function nextButton() {
-	stepSource(1);
-  
-  }
-  
-  function stepSource(step) {
-	  const src = document.getElementById("viewer").src;
-	  for (let i = 0; i < sources.length; i++) {
-		if(src == sources[i]) {
-			setSource(i + step);
-			break;
-		}	  
-	  }
-  }
-
   function setSource(index) {
 	const viewer = document.getElementById("viewer");
 	viewer.src = sources[(index + sources.length) % sources.length];
@@ -60,14 +40,12 @@ Only one example of each solid has been chosen to keep the skeleton as simple as
   
  </head>
  <body>
-	<button type="button" onclick='prevButton()'><< Previous solid </button>
-	<button type="button" onclick='nextButton()'>Next solid >></button>
 	<br />
 	<button type="button" onclick='setSource(0)'>Hull Skeleton </button>
 	<button type="button" onclick='setSource(1)'>Tetrahedron Solid</button>
 	<button type="button" onclick='setSource(2)'>Cube Solid </button>
-	<button type="button" onclick='setSource(3)'>Icosahedron Solid </button>
-	<button type="button" onclick='setSource(4)'>Octahedron Solid </button>
+	<button type="button" onclick='setSource(3)'>Octahedron Solid </button>
+	<button type="button" onclick='setSource(4)'>Icosahedron Solid </button>
 	<button type="button" onclick='setSource(5)'>Dodecahedron Solid </button>
   
 	<p> 

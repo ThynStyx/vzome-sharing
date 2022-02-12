@@ -24,7 +24,7 @@ This vZome model shows a 3D hull I have generated containing all 5 Platonic soli
 </vzome-viewer>
 
 
-Note that there are no internal nodes within the hull. Intuitively I expected all the nodes to be on the same surface but I have determined there are 2 radii.
+Note that there are no internal nodes within the hull. Intuitively I expected all the nodes to be on the same surface but I have determined there are 3 radii.
 
 **The combined skeleton of all 5 models**
 

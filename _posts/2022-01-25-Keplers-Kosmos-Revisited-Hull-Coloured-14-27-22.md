@@ -1,6 +1,6 @@
 ---
 title: The Platonic Solids
-image: https://ThynStyx.github.io/vzome-sharing/2022/02/05/14-05-27-Platonic-Solids/Platonic-Solids.png
+image: https://thynstyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png
 layout: vzome
 ---
 
@@ -13,8 +13,9 @@ layout: vzome
 {% endcomment %}
 
 {{ page.description }}
-There are actually multiple Cubes, Octahedra and Tetrahedra available within the hull. 
-Only one example of each solid has been chosen to keep the skeleton as simple as possible.  However this does compromise the symmetry.
+There are actually multiple alignments available for positioning Cubes, Octahedra, Icosahedra and Tetrahedra within the hull. 
+Only one example of each solid has been selected to keep the representation as simple as possible.  The alternatives can be found by rotating the "packing pieces"
+within the hull
 
  <head>
   <meta charset="utf-8">
@@ -23,6 +24,13 @@ Only one example of each solid has been chosen to keep the skeleton as simple as
   <meta property="og:locale" content="en_US" />
   <script>
   const sources = [
+ "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome",
+ "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-20-21-Platonics-Tetrahedron/Platonics-Tetrahedron.vZome",
+ "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-22-16-Platonics-Cube/Platonics-Cube.vZome", 	  
+ "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-16-13-Platonics-Octahedron/Platonics-Octahedron.vZome",
+ "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome",
+ "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome"
+	  
  "https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-30-34-Keplers-Kosmos-Tetrahedron-only/Keplers-Kosmos-Tetrahedron-only.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/01/26/11-12-12-Keplers-Kosmos-Cube-only/Keplers-Kosmos-Cube-only.vZome",  
@@ -72,9 +80,9 @@ Only one example of each solid has been chosen to keep the skeleton as simple as
 	
         <!-- Enable the vzome-viewer custom element -->	 
         <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
-	<vzome-viewer id="viewer" style="width: 100%; height: 65vh;" src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.vZome" >
-	<img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.png" />
-	</vzome-viewer>
-
+	<vzome-viewer id="viewer" style="width: 100%; height: 65vh;" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
+	<img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
+	<vzome-viewer style="width: 100%; height: 65vh;"
+        </vzome-viewer>
 </body>
 </html>

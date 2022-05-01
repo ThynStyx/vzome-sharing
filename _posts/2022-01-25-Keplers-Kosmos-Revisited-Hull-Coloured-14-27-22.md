@@ -2,6 +2,7 @@
 title: The Platonic Solids
 image: https://thynstyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png
 layout: vzome
+description: How all the Platonic solids exist within the same 3D convex hull with all their nodes lying on the same spherical surface.
 ---
 
 {% comment %}
@@ -13,15 +14,13 @@ layout: vzome
 {% endcomment %}
 
 {{ page.description }}
-These models show the "set" of 5 Platonic solids and their accompanying "packing pieces" which fit witin the same 3D hull. 
-There are actually multiple alignments available for positioning Cubes, Octahedra, Icosahedra and Tetrahedra within the hull. 
+These models in the 30-gon field show the "set" of 5 Platonic solids and their accompanying "packing pieces" which fit witin the same 3D hull.
+The colouring of the 3D hull is the same for each model and on loading all the models are aligned in the same way and at the same scale.
+There are actually multiple alignments available for positioning Cubes, Octahedra, Icosahedra and Tetrahedra within the hull.
+The Tetrahedron model requires 4 "packing pieces" to permit the Tetrahedron to be fitted/extracted within the hull in a physical model.
+The other models can be built / disassembled using only two pieces.
 Only one example of each solid has been selected to keep this representation as simple as possible.  The alternatives could be found in the physical model by rotating the "packing pieces" within the trackball hull.
 
- <head>
-  <meta charset="utf-8">
-  <title>vZome Platonic Solids multi-viewer</title>
-  <meta property="og:title" content="vZome Platonic Solids multi-viewer" />
-  <meta property="og:locale" content="en_US" />
   <script>
   const sources = [
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome",
@@ -54,9 +53,7 @@ Only one example of each solid has been selected to keep this representation as 
 	viewer.src = sources[(index + sources.length) % sources.length];
   }
   </script>
-  
- </head>
- <body>
+
 	<button type="button" onclick='prevButton()'><< Previous solid </button>
 	<button type="button" onclick='nextButton()'>Next solid >></button>
 	<br /> 
@@ -77,5 +74,3 @@ Only one example of each solid has been selected to keep this representation as 
 	<img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
 	<vzome-viewer style="width: 100%; height: 65vh;"
         </vzome-viewer>
-</body>
-</html>

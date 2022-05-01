@@ -13,9 +13,9 @@ layout: vzome
 {% endcomment %}
 
 {{ page.description }}
+These models show the "set" of 5 Platonic solids and their accompanying "packing pieces" which fit witin the same 3D hull. 
 There are actually multiple alignments available for positioning Cubes, Octahedra, Icosahedra and Tetrahedra within the hull. 
-Only one example of each solid has been selected to keep the representation as simple as possible.  The alternatives can be found by rotating the "packing pieces"
-within the hull
+Only one example of each solid has been selected to keep this representation as simple as possible.  The alternatives could be found in the physical model by rotating the "packing pieces" within the trackball hull.
 
  <head>
   <meta charset="utf-8">
@@ -30,13 +30,6 @@ within the hull
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-16-13-Platonics-Octahedron/Platonics-Octahedron.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome"
-	  
- "https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-59-17-Keplers-Kosmos-Skeleton-only/Keplers-Kosmos-Skeleton-only.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-30-34-Keplers-Kosmos-Tetrahedron-only/Keplers-Kosmos-Tetrahedron-only.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/01/26/11-12-12-Keplers-Kosmos-Cube-only/Keplers-Kosmos-Cube-only.vZome",  
- "https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-48-24-Keplers-Kosmos-Octahedron-only/Keplers-Kosmos-Octahedron-only.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-25-59-Keplers-Kosmos-Icosahedron-only/Keplers-Kosmos-Icosahedron-only.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/01/26/21-57-10-Keplers-Kosmos-Dodecahedron-only/Keplers-Kosmos-Dodecahedron-only.vZome"  
   ];
   function prevButton() {
 	stepSource(-1);

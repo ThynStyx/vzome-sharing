@@ -8,8 +8,8 @@ layout: vzome
  - [***web page generated from this source***][post]
  - [data assets and more info][github]
 
-[post]: <https://ThynStyx.github.io/vzome-sharing/2022/02/05/Platonic-Solids-14-05-27.html>
-[github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/02/05/14-05-27-Platonic-Solids/>
+[post]: <https://thynstyx.github.io/vzome-sharing/2022/01/25/Keplers-Kosmos-Revisited-Hull-Coloured-14-27-22.html>
+[github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
 
 {{ page.description }}

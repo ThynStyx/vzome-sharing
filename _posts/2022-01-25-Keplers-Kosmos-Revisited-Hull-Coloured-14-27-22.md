@@ -3,8 +3,8 @@ title: The Platonic Solids
 image: https://thynstyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png
 layout: vzome
 description: 
-  How all the Platonic solids exist within the same 3D convex hull with all their nodes lying on the same spherical surface.
-  ---
+How all the Platonic solids exist within the same 3D convex hull with all their nodes lying on the same spherical surface.
+---
 
 {% comment %}
  - [***web page generated from this source***][post]
@@ -25,7 +25,7 @@ description:
 
 <p>Only one example of each solid has been selected to keep these representations as simple as possible.  The alternatives could be found in the physical model by rotating the "packing pieces" within the trackball hull.</p>
 
-<p>Notice that the camera position and zoom level is retained when the model is changed.</p) 
+<p>Notice that the camera position and zoom level is retained when the model is changed.</p> 
 
 <script>
   const sources = [

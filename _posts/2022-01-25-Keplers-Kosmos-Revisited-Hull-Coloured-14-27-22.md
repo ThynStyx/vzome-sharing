@@ -10,6 +10,7 @@ description:
  - [***web page generated from this source***][post]
  - [data assets and more info][github]
 
+
 [post]: <https://thynstyx.github.io/vzome-sharing/2022/01/25/Keplers-Kosmos-Revisited-Hull-Coloured-14-27-22.html>
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
@@ -25,14 +26,13 @@ description:
 
 <p>Only one example of each solid has been selected to keep these representations as simple as possible.  The alternatives could be found in the physical model by rotating the "packing pieces" within the trackball hull.</p>
 
-<p>Notice that the camera position and zoom level is retained when the model is changed.</p> 
+<p>Notice that the camera position is retained when the model is changed!</p> 
 
-<script>
   const sources = [
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-20-21-Platonics-Tetrahedron/Platonics-Tetrahedron.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-22-16-Platonics-Cube/Platonics-Cube.vZome", 	  
+ "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-22-16-Platonics-Cube/Platonics-Cube.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-16-13-Platonics-Octahedron/Platonics-Octahedron.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome"
@@ -62,10 +62,6 @@ description:
 </script>
 	
 <div>
-    <button type="button" onclick='prevButton()'><< Previous solid </button>
-    <button type="button" onclick='nextButton()'>Next solid >></button>
-</div>
-<div>
     <button type="button" onclick='setSource(0)'>Hull Skeleton </button>
     <button type="button" onclick='setSource(1)'>Hull complete </button>	
     <button type="button" onclick='setSource(2)'>Tetrahedron Solid</button>
@@ -73,11 +69,10 @@ description:
     <button type="button" onclick='setSource(4)'>Octahedron Solid </button>
     <button type="button" onclick='setSource(5)'>Icosahedron Solid </button>
     <button type="button" onclick='setSource(6)'>Dodecahedron Solid </button>	
-</div>  
-	
-<!-- Enable the vzome-viewer custom element -->	 
-        <script type="module" src="https://www.vzome.com/modules/vzome-viewer.js"></script>
-	<vzome-viewer id="viewer" style="width: 100%; height: 65vh;" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
-	<img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
-	<vzome-viewer style="width: 100%; height: 65vh;"
-        </vzome-viewer>
+</div> 
+		
+<vzome-viewer id="viewer" style="width: 85%; height: 60vh; margin: 5%"
+    src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
+  <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
+  <vzome-viewer style="width: 100%; height: 65vh;"
+</vzome-viewer>

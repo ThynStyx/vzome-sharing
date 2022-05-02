@@ -37,24 +37,7 @@ description:
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome"
  ];
- function prevButton() {
-        stepSource(-1);
-  }
-
-  function nextButton() {
-	stepSource(1);
-  }
-
-  function stepSource(step) {
-	  const src = document.getElementById("viewer").src;
-	  for (let i = 0; i < sources.length; i++) {
-		if(src == sources[i]) {
-			setSource(i + step);
-			break;
-		}	  
-	  }
-  };
-
+ 
   function setSource(index) {
 	const viewer = document.getElementById("viewer");
 	viewer.src = sources[(index + sources.length) % sources.length];

@@ -3,8 +3,8 @@ title: The Platonic Solids
 image: https://thynstyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png
 layout: vzome
 description: 
-How all the Platonic solids exist within the same 3D convex hull with all their nodes lying on the same spherical surface.
----
+  How all the Platonic solids exist within the same 3D convex hull with all their nodes lying on the same spherical surface.
+  ---
 
 {% comment %}
  - [***web page generated from this source***][post]
@@ -27,7 +27,7 @@ How all the Platonic solids exist within the same 3D convex hull with all their 
 
 <p>Notice that the camera position and zoom level is retained when the model is changed.</p) 
 
-  <script>
+<script>
   const sources = [
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome",
@@ -35,10 +35,10 @@ How all the Platonic solids exist within the same 3D convex hull with all their 
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-22-16-Platonics-Cube/Platonics-Cube.vZome", 	  
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-16-13-Platonics-Octahedron/Platonics-Octahedron.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome"	  
-  ];
-  function prevButton() {
-	stepSource(-1);
+ "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome"
+ ];
+ function prevButton() {
+        stepSource(-1);
   }
 
   function nextButton() {
@@ -58,8 +58,8 @@ How all the Platonic solids exist within the same 3D convex hull with all their 
   function setSource(index) {
 	const viewer = document.getElementById("viewer");
 	viewer.src = sources[(index + sources.length) % sources.length];
-  }
-  </script>
+}
+</script>
 	
 <div>
     <button type="button" onclick='prevButton()'><< Previous solid </button>

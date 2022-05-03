@@ -1,5 +1,5 @@
 ---
-title: The Platonic Solids
+title: The Platonic Solids with menu
 image: https://thynstyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png
 layout: vzome
 description: 
@@ -28,6 +28,7 @@ description:
 
 <p>Notice that the camera position is retained when the model is changed!</p> 
 
+<script>
   const sources = [
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome",
@@ -37,25 +38,8 @@ description:
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome"
  ];
- function prevButton() {
-        stepSource(-1);
-  }
-
-  function nextButton() {
-	stepSource(1);
-  }
-
-  function stepSource(step) {
-	  const src = document.getElementById("viewer").src;
-	  for (let i = 0; i < sources.length; i++) {
-		if(src == sources[i]) {
-			setSource(i + step);
-			break;
-		}	  
-	  }
-  };
-
-  function setSource(index) {
+ 
+ function setSource(index) {
 	const viewer = document.getElementById("viewer");
 	viewer.src = sources[(index + sources.length) % sources.length];
 }

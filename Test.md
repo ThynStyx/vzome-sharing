@@ -29,32 +29,24 @@ description:
 <p>Notice that the camera position is retained when the model is changed!</p> 
 
 <script>
-  const sources = [
- "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-20-21-Platonics-Tetrahedron/Platonics-Tetrahedron.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-22-16-Platonics-Cube/Platonics-Cube.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-16-13-Platonics-Octahedron/Platonics-Octahedron.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome",
- "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome"
- ];
- 
- function setSource(index) {
-	const viewer = document.getElementById("viewer");
-	viewer.src = sources[(index + sources.length) % sources.length];
-}
+
+import "./vzome-viewer.js";
+document.querySelector("select").addEventListener("input", (e) => {
+  document.querySelector("vzome-viewer").src = e.target.value;
+})
+	
 </script>
 	
-<div>
-    <button type="button" onclick='setSource(0)'>Hull Skeleton </button>
-    <button type="button" onclick='setSource(1)'>Hull complete </button>	
-    <button type="button" onclick='setSource(2)'>Tetrahedron Solid</button>
-    <button type="button" onclick='setSource(3)'>Cube Solid </button>
-    <button type="button" onclick='setSource(4)'>Octahedron Solid </button>
-    <button type="button" onclick='setSource(5)'>Icosahedron Solid </button>
-    <button type="button" onclick='setSource(6)'>Dodecahedron Solid </button>	
-</div> 
-		
+<select>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome" selected>Skeleton</option>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" selected>Hull</option>  
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-20-21-Platonics-Tetrahedron/Platonics-Tetrahedron.vZome" selected>Tetrahedron</option>       
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-22-16-Platonics-Cube/Platonics-Cube.vZome" selected>Cube</option>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-16-13-Platonics-Octahedron/Platonics-Octahedron.vZome" selected>Octahedron</option>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome" selected>Icosahedron</option>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome" selected>Dodecahedron</option>         <option value="">(none)</option>
+</select>
+
 <vzome-viewer id="viewer" style="width: 85%; height: 60vh; margin: 5%"
     src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
   <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />

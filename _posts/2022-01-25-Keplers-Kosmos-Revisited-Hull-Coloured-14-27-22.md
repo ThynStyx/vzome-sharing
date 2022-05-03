@@ -28,6 +28,7 @@ description:
 
 <p>Notice that the camera position is retained when the model is changed!</p> 
 
+<script>
   const sources = [
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome",
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome",
@@ -38,7 +39,7 @@ description:
  "https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome"
  ];
  
-  function setSource(index) {
+ function setSource(index) {
 	const viewer = document.getElementById("viewer");
 	viewer.src = sources[(index + sources.length) % sources.length];
 }

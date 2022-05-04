@@ -15,7 +15,7 @@ description:
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
 
-These models in the 30-gon field show the "set" of 5 Platonic solids and their accompanying "packing pieces" which fit witin the same 3D hull.
+These models in the 30-gon field show the "set" of 5 Platonic solids and their accompanying "packing pieces" which fit within the same 3D hull.
 
 The colouring of the 3D hull is the same for each model and on loading all the models are aligned in the same way and at the same scale.
 
@@ -25,6 +25,8 @@ The Tetrahedron model requires 4 "packing pieces" to permit the Tetrahedron to b
 (The other models can be built/disassembled using only two pieces.)
 
 Only one example of each solid has been selected to keep these representations as simple as possible.  The alternatives could be found in the physical model by rotating the "packing pieces" within the trackball hull.
+
+With thanks to Scott Vorthmann, John Kostick and David Hall.
 
 <select>
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome" >Skeleton</option>

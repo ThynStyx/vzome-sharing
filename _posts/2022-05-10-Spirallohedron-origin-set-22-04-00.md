@@ -1,9 +1,9 @@
 ---
-title: Spirallohedron origin set
+title: Single Spirallohedron in the Golden field 
 image: https://ThynStyx.github.io/vzome-sharing/2022/05/10/22-04-00-Spirallohedron-origin-set/Spirallohedron-origin-set.png
 layout: vzome
 description:
-  A single Spirallohedron from CK Palmers Array coloured with axis added.  
+  A single Spirallohedron from CK Palmers Array coloured and with axis added.  
 ---
 
 {% comment %}
@@ -14,7 +14,9 @@ description:
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/05/10/22-04-00-Spirallohedron-origin-set/>
 {% endcomment %}
 
-![Blue Spirallohedra in Zometool](single-blue-spirallohedra.jpg)
+ A single Spirallohedron from CK Palmers Array coloured and with axis added.
+ 
+![Blue Spirallohedra in Zometool](https://github.com/ThynStyx/vzome-sharing/blob/main/2022/05/10/22-04-00-Spirallohedron-origin-set/single-blue-spirallohedra.jpg)
 
 <vzome-viewer style="width: 100%; height: 65vh;"
        src="https://ThynStyx.github.io/vzome-sharing/2022/05/10/22-04-00-Spirallohedron-origin-set/Spirallohedron-origin-set.vZome" >

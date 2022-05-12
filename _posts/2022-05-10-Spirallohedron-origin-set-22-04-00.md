@@ -18,7 +18,7 @@ description:
  
 A single Spirallohedron from CK Palmers Array coloured and with axis added.
 
-![Golden field Spirallohedron](https://github.com/ThynStyx/vzome-sharing/blob/main/2022/05/10/22-04-00-Spirallohedron-origin-set/single-spirallohedra.jpg)
+![Golden field Spirallohedron](https://github.com/ThynStyx/vzome-sharing/blob/main/2022/05/10/22-04-00-Spirallohedron-origin-set/Zometool%20Spirallohedron.jpg)
 
 The same Spirallohedron model in vZome with coloured panels
 

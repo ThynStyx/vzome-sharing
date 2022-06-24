@@ -15,7 +15,15 @@ description:
 {% endcomment %}
 
 These models in the 30-gon field show the "set" of 5 Platonic solids and their accompanying "packing pieces" which fit within the same 3D hull.
-
+<select>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome" >Skeleton</option>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" selected>Hull</option>  
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-20-21-Platonics-Tetrahedron/Platonics-Tetrahedron.vZome" >Tetrahedron</option> 
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-22-16-Platonics-Cube/Platonics-Cube.vZome" >Cube</option>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-16-13-Platonics-Octahedron/Platonics-Octahedron.vZome" >Octahedron</option>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome" >Icosahedron</option>
+    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome" >Dodecahedron</option>
+</select>
 <vzome-viewer id="viewer" style="width: 85%; height: 60vh; margin: 5%"
     src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
   <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
@@ -31,16 +39,6 @@ The Tetrahedron model requires 4 "packing pieces" to permit the Tetrahedron to b
 Only one example of each solid has been selected to keep these representations as simple as possible.  The alternatives could be found in the physical model by rotating the "packing pieces" within the trackball hull.
 
 With thanks to Scott Vorthmann, John Kostick and David Hall.
-
-<select>
-    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome" >Skeleton</option>
-    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" selected>Hull</option>  
-    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-20-21-Platonics-Tetrahedron/Platonics-Tetrahedron.vZome" >Tetrahedron</option> 
-    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-22-16-Platonics-Cube/Platonics-Cube.vZome" >Cube</option>
-    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-16-13-Platonics-Octahedron/Platonics-Octahedron.vZome" >Octahedron</option>
-    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-12-48-Platonics-Icosahedron/Platonics-Icosahedron.vZome" >Icosahedron</option>
-    <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome" >Dodecahedron</option>
-</select>
 
 <script>
 document.querySelector("select").addEventListener("input", (e) => {

@@ -1,9 +1,9 @@
 ---
-title: The Platonic Solids
+title: Plato's Solids
 image: https://ThynStyx.github.io/vzome-sharing/2022/06/24/18-06-22-Platonics-hull/Platonics-hull.png
 layout: vzome
 description: 
- How all the Platonic solids exist within the same 3D convex hull with all their nodes lying on the same spherical surface.
+ How all Plato's solids exist within the same 3D convex hull with all their nodes lying on the same spherical surface.
 ---
 {% comment %}
  - [***web page generated from this source***][post]
@@ -12,14 +12,20 @@ description:
 [post]: <https://thynstyx.github.io/vzome-sharing/2022/01/25/Keplers-Kosmos-Revisited-Hull-Coloured-14-27-22.html>
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
+
+Plato's 5 solids in their 3D hull (30-gon field). 
+
+<vzome-viewer id="viewer" style="width: 85%; height: 60vh; margin: 5%"
+    src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
+  <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
+</vzome-viewer>
+
 <script>
 document.querySelector("select").addEventListener("input", (e) => {
   console.log( e.target.value );
   document.querySelector("vzome-viewer").src = e.target.value;
 })	
 </script>
-
-These models in the 30-gon field show the "set" of 5 Platonic solids and their accompanying "packing pieces" which fit within the same 3D hull.
 
 <select>
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome" >Skeleton</option>
@@ -31,10 +37,7 @@ These models in the 30-gon field show the "set" of 5 Platonic solids and their a
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome" >Dodecahedron</option>
 </select>
 
-<vzome-viewer id="viewer" style="width: 85%; height: 60vh; margin: 5%"
-    src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
-  <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
-</vzome-viewer>
+With the appropriate packing pieces as shown each solid can fit into the same 3D hull.
 
 The colouring of the 3D hull is the same for each model and on loading all the models are aligned in the same way and at the same scale.
 

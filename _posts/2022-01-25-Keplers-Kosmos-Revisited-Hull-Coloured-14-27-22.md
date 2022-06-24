@@ -12,21 +12,17 @@ description:
 [post]: <https://thynstyx.github.io/vzome-sharing/2022/01/25/Keplers-Kosmos-Revisited-Hull-Coloured-14-27-22.html>
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
-
 Plato's 5 solids in their 3D hull (30-gon field). 
-
-<vzome-viewer id="viewer" style="width: 85%; height: 60vh; margin: 5%"
-    src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
-  <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
-</vzome-viewer>
-
 <script>
 document.querySelector("select").addEventListener("input", (e) => {
   console.log( e.target.value );
   document.querySelector("vzome-viewer").src = e.target.value;
 })	
 </script>
-
+<vzome-viewer id="viewer" style="width: 85%; height: 60vh; margin: 5%"
+    src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
+  <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
+</vzome-viewer>
 <select>
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome" >Skeleton</option>
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" selected>Hull</option>  
@@ -37,7 +33,7 @@ document.querySelector("select").addEventListener("input", (e) => {
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-09-54-Platonics-Dodecahedron/Platonics-Dodecahedron.vZome" >Dodecahedron</option>
 </select>
 
-With the appropriate packing pieces as shown each solid can fit into the same 3D hull.
+With the appropriate packing pieces as shown, each solid can fit into the same 3D hull.
 
 The colouring of the 3D hull is the same for each model and on loading all the models are aligned in the same way and at the same scale.
 

@@ -12,12 +12,14 @@ description:
 [post]: <https://thynstyx.github.io/vzome-sharing/2022/01/25/Keplers-Kosmos-Revisited-Hull-Coloured-14-27-22.html>
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
+
 <script>
 document.querySelector("select").addEventListener("input", (e) => {
   console.log( e.target.value );
   document.querySelector("vzome-viewer").src = e.target.value;
 })	
 </script>
+
 These models in the 30-gon field show the "set" of 5 Platonic solids and their accompanying "packing pieces" which fit within the same 3D hull.
 <select>
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome" >Skeleton</option>

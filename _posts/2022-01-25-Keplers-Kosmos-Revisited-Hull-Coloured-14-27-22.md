@@ -1,6 +1,6 @@
 ---
 title: The Platonic Solids
-image: https://thynstyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png
+image:https://ThynStyx.github.io/vzome-sharing/2022/06/24/18-06-22-Platonics-hull/Platonics-hull.png
 layout: vzome
 description: 
  How all the Platonic solids exist within the same 3D convex hull with all their nodes lying on the same spherical surface.

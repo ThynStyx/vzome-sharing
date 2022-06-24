@@ -12,7 +12,7 @@ description:
 [post]: <https://thynstyx.github.io/vzome-sharing/2022/01/25/Keplers-Kosmos-Revisited-Hull-Coloured-14-27-22.html>
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
-Plato's 5 solids in their 3D hull (30-gon field). 
+Plato's 5 solids in their 3D hull (30-gon field). Select Solid.
 <script>
 document.querySelector("select").addEventListener("input", (e) => {
   console.log( e.target.value );

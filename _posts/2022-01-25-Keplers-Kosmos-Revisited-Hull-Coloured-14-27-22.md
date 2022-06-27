@@ -8,19 +8,17 @@ description:
 {% comment %}
  - [***web page generated from this source***][post]
  - [data assets and more info][github]
-
 [post]: <https://thynstyx.github.io/vzome-sharing/2022/01/25/Keplers-Kosmos-Revisited-Hull-Coloured-14-27-22.html>
 [github]: <https://github.com/ThynStyx/vzome-sharing/tree/main/2022/01/25/14-27-22-Keplers-Kosmos-Revisited-Hull-Coloured/>
 {% endcomment %}
-
-Plato's 5 solids in their 3D hull (30-gon field).    Selected Solid =
+Plato's 5 solids in their 3D hull (30-gon field).    
+Selected Solid =
 <script>
 document.querySelector("select").addEventListener("input", (e) => {
   console.log( e.target.value );
   document.querySelector("vzome-viewer").src = e.target.value;
 })	
 </script>
-
 <select>
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/22-59-09-Platonics-skeleton/Platonics-skeleton.vZome" >Skeleton</option>
     <option value="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" selected>Hull</option>  

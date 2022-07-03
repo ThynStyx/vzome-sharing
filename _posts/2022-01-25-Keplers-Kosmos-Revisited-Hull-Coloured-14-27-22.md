@@ -4,9 +4,7 @@ image: https://ThynStyx.github.io/vzome-sharing/2022/06/24/18-06-22-Platonics-hu
 layout: vzome
 description: 
  All Plato's solids exist within the same 3D convex hull and have their vertices on the same spherical surface.
----
-
-Plato's 5 solids in their 3D hull (30-gon field).    
+---  
 
 Selected Solid =
 <select>
@@ -24,7 +22,7 @@ Selected Solid =
       src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.vZome" >
     <img id="image" src="https://ThynStyx.github.io/vzome-sharing/2022/04/30/21-37-13-Platonics-hull/Platonics-hull.png" />
   </vzome-viewer>
-  <figcaption style="text-align: center; font-style: italic;">Using the appropriate packing pieces, each of Plato's solid can be fitted into the same 3D hull.</figcaption>
+  <figcaption style="text-align: center; font-style: italic;">Plato's 5 solids in their 3D hull (30-gon field).</figcaption>
 </figure>
 
 <script>
@@ -33,6 +31,7 @@ document.querySelector("select").addEventListener("input", (e) => {
   document.querySelector("vzome-viewer").src = e.target.value;
 })	
 </script>
+Using the appropriate packing pieces, each of Plato's solid can be fitted into the same 3D hull.
 
 The colouring of the 3D hull is the same for each model and on loading all the models are aligned in the same way and at the same scale.
 

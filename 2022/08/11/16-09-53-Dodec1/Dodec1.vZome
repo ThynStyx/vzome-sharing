@@ -1,0 +1,5440 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="80" field="golden" version="7.0">
+  <EditHistory editNumber="19" lastStickyEdit="19">
+    <Branch>
+      <Branch>
+        <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+        <BeginBlock/>
+        <SelectManifestation point="0 0 0 0 0 0"/>
+        <SelectManifestation point="0 0 0 0 0 0"/>
+        <EndBlock/>
+        <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+        <SelectManifestation point="0 0 0 0 0 0"/>
+        <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+        <SelectManifestation point="0 0 0 0 0 0"/>
+        <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -57, -41, 2 ], [ -6, -15, 2 ], [ -2, -3, 1 ] ], [ [ -35, -53, 2 ], [ -6, -15, 2 ], [ -4, -6, 1 ] ], [ [ -35, -53, 2 ], [ -6, -15, 2 ], [ 0, 0, 1 ] ], [ [ -35, -51, 2 ], [ -10, -25, 2 ], [ -2, -3, 1 ] ], [ [ -35, -51, 2 ], [ -2, -5, 2 ], [ -2, -3, 1 ] ], [ [ -27, -55, 2 ], [ 8, -31, 2 ], [ -10, -4, 1 ] ], [ [ -27, -55, 2 ], [ 8, -31, 2 ], [ 6, -2, 1 ] ], [ [ -27, -55, 2 ], [ -20, 1, 2 ], [ -10, -4, 1 ] ], [ [ -27, -55, 2 ], [ -20, 1, 2 ], [ 6, -2, 1 ] ], [ [ -31, -47, 2 ], [ -12, -25, 2 ], [ -5, -8, 1 ] ], [ [ -31, -47, 2 ], [ -12, -25, 2 ], [ 1, 2, 1 ] ], [ [ -31, -47, 2 ], [ 0, -5, 2 ], [ -5, -8, 1 ] ], [ [ -31, -47, 2 ], [ 0, -5, 2 ], [ 1, 2, 1 ] ], [ [ -29, -47, 2 ], [ -6, -15, 2 ], [ -7, -10, 1 ] ], [ [ -29, -47, 2 ], [ -6, -15, 2 ], [ 3, 4, 1 ] ], [ [ -41, -39, 2 ], [ -8, -33, 2 ], [ 5, -11, 1 ] ], [ [ -41, -39, 2 ], [ -8, -33, 2 ], [ -9, 5, 1 ] ], [ [ -41, -39, 2 ], [ -4, 3, 2 ], [ 5, -11, 1 ] ], [ [ -41, -39, 2 ], [ -4, 3, 2 ], [ -9, 5, 1 ] ], [ [ -29, -43, 2 ], [ -16, -31, 2 ], [ -2, -3, 1 ] ], [ [ -29, -43, 2 ], [ 4, 1, 2 ], [ -2, -3, 1 ] ], [ [ -11, -53, 2 ], [ -22, -17, 2 ], [ -3, -12, 1 ] ], [ [ -11, -53, 2 ], [ -22, -17, 2 ], [ -1, 6, 1 ] ], [ [ -11, -53, 2 ], [ 10, -13, 2 ], [ -3, -12, 1 ] ], [ [ -11, -53, 2 ], [ 10, -13, 2 ], [ -1, 6, 1 ] ], [ [ -25, -37, 2 ], [ -38, -19, 2 ], [ -2, -3, 1 ] ], [ [ -25, -37, 2 ], [ -16, -29, 2 ], [ -4, -8, 1 ] ], [ [ -25, -37, 2 ], [ -16, -29, 2 ], [ 0, 2, 1 ] ], [ [ -25, -37, 2 ], [ -10, -21, 2 ], [ -7, -11, 1 ] ], [ [ -25, -37, 2 ], [ -10, -21, 2 ], [ 3, 5, 1 ] ], [ [ -25, -37, 2 ], [ -6, -15, 2 ], [ -18, -5, 1 ] ], [ [ -25, -37, 2 ], [ -6, -15, 2 ], [ 14, -1, 1 ] ], [ [ -25, -37, 2 ], [ -2, -9, 2 ], [ -7, -11, 1 ] ], [ [ -25, -37, 2 ], [ -2, -9, 2 ], [ 3, 5, 1 ] ], [ [ -39, -21, 2 ], [ -22, -17, 2 ], [ -3, -12, 1 ] ], [ [ -39, -21, 2 ], [ -22, -17, 2 ], [ -1, 6, 1 ] ], [ [ -10, -16, 1 ], [ 0, 0, 1 ], [ -4, -6, 1 ] ], [ [ -10, -16, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -21, -31, 2 ], [ -16, -31, 2 ], [ -2, -3, 1 ] ], [ [ -9, -35, 2 ], [ -8, -33, 2 ], [ 5, -11, 1 ] ], [ [ -9, -35, 2 ], [ -8, -33, 2 ], [ -9, 5, 1 ] ], [ [ -19, -27, 2 ], [ -12, -25, 2 ], [ -5, -8, 1 ] ], [ [ -19, -27, 2 ], [ -12, -25, 2 ], [ 1, 2, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ 1, 2, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ -7, -11, 1 ], [ -5, -8, 1 ], [ -2, -3, 1 ] ], [ [ -7, -11, 1 ], [ 5, 8, 1 ], [ -2, -3, 1 ] ], [ [ -5, -8, 1 ], [ -2, -3, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ -5, -8, 1 ], [ 0, 0, 1 ], [ -2, -3, 1 ] ], [ [ -5, -8, 1 ], [ 2, 3, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ -1, -5, 2 ], [ 12, 25, 2 ], [ -5, -8, 1 ] ], [ [ -1, -5, 2 ], [ 12, 25, 2 ], [ 1, 2, 1 ] ], [ [ -11, 3, 2 ], [ 8, 33, 2 ], [ 5, -11, 1 ] ], [ [ -11, 3, 2 ], [ 8, 33, 2 ], [ -9, 5, 1 ] ], [ [ 1, -1, 2 ], [ 16, 31, 2 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 19, -11, 2 ], [ 22, 17, 2 ], [ -3, -12, 1 ] ], [ [ 19, -11, 2 ], [ 22, 17, 2 ], [ -1, 6, 1 ] ], [ [ 5, 5, 2 ], [ 2, 9, 2 ], [ -7, -11, 1 ] ], [ [ 5, 5, 2 ], [ 2, 9, 2 ], [ 3, 5, 1 ] ], [ [ 5, 5, 2 ], [ 6, 15, 2 ], [ -18, -5, 1 ] ], [ [ 5, 5, 2 ], [ 6, 15, 2 ], [ 14, -1, 1 ] ], [ [ 5, 5, 2 ], [ 10, 21, 2 ], [ -7, -11, 1 ] ], [ [ 5, 5, 2 ], [ 10, 21, 2 ], [ 3, 5, 1 ] ], [ [ 5, 5, 2 ], [ 16, 29, 2 ], [ -4, -8, 1 ] ], [ [ 5, 5, 2 ], [ 16, 29, 2 ], [ 0, 2, 1 ] ], [ [ 5, 5, 2 ], [ 38, 19, 2 ], [ -2, -3, 1 ] ], [ [ -9, 21, 2 ], [ -10, 13, 2 ], [ -3, -12, 1 ] ], [ [ -9, 21, 2 ], [ -10, 13, 2 ], [ -1, 6, 1 ] ], [ [ -9, 21, 2 ], [ 22, 17, 2 ], [ -3, -12, 1 ] ], [ [ -9, 21, 2 ], [ 22, 17, 2 ], [ -1, 6, 1 ] ], [ [ 9, 11, 2 ], [ -4, -1, 2 ], [ -2, -3, 1 ] ], [ [ 9, 11, 2 ], [ 16, 31, 2 ], [ -2, -3, 1 ] ], [ [ 21, 7, 2 ], [ 4, -3, 2 ], [ 5, -11, 1 ] ], [ [ 21, 7, 2 ], [ 4, -3, 2 ], [ -9, 5, 1 ] ], [ [ 21, 7, 2 ], [ 8, 33, 2 ], [ 5, -11, 1 ] ], [ [ 21, 7, 2 ], [ 8, 33, 2 ], [ -9, 5, 1 ] ], [ [ 9, 15, 2 ], [ 6, 15, 2 ], [ -7, -10, 1 ] ], [ [ 9, 15, 2 ], [ 6, 15, 2 ], [ 3, 4, 1 ] ], [ [ 11, 15, 2 ], [ 0, 5, 2 ], [ -5, -8, 1 ] ], [ [ 11, 15, 2 ], [ 0, 5, 2 ], [ 1, 2, 1 ] ], [ [ 11, 15, 2 ], [ 12, 25, 2 ], [ -5, -8, 1 ] ], [ [ 11, 15, 2 ], [ 12, 25, 2 ], [ 1, 2, 1 ] ], [ [ 7, 23, 2 ], [ 20, -1, 2 ], [ -10, -4, 1 ] ], [ [ 7, 23, 2 ], [ 20, -1, 2 ], [ 6, -2, 1 ] ], [ [ 7, 23, 2 ], [ -8, 31, 2 ], [ -10, -4, 1 ] ], [ [ 7, 23, 2 ], [ -8, 31, 2 ], [ 6, -2, 1 ] ], [ [ 15, 19, 2 ], [ 2, 5, 2 ], [ -2, -3, 1 ] ], [ [ 15, 19, 2 ], [ 10, 25, 2 ], [ -2, -3, 1 ] ], [ [ 15, 21, 2 ], [ 6, 15, 2 ], [ -4, -6, 1 ] ], [ [ 15, 21, 2 ], [ 6, 15, 2 ], [ 0, 0, 1 ] ], [ [ 37, 9, 2 ], [ 6, 15, 2 ], [ -2, -3, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 51,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 65,
+    "color" : "#000000"
+  }, {
+    "vertex" : 50,
+    "color" : "#000000"
+  }, {
+    "vertex" : 58,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 44,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 37,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 36,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 45,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 52,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 49,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 56,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 54,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 47,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 43,
+    "color" : "#000000"
+  }, {
+    "vertex" : 99,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 92,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 96,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 100,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 102,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 101,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 83,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 87,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 93,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 97,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 16,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 19,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 2,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 5,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 9,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 6,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 10,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 15,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 3,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 55,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 48,
+    "color" : "#000000"
+  }, {
+    "vertex" : 59,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 53,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 86,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 75,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 73,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 80,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 64,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 62,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 67,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 60,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 77,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 76,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 81,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 61,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 68,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 74,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 63,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 89,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 72,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 79,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 91,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 70,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 95,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 98,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 85,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 90,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 82,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 84,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 88,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 71,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 69,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 78,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 14,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 22,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 33,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 8,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 29,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 24,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 12,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 31,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 18,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 23,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 34,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 40,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 11,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 28,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 38,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 17,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 30,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 39,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 35,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 7,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 21,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 25,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 20,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 32,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 41,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 42,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 4,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 13,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 26,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 27,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 46,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 57,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 66,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 53, 50 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 66, 65 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 59, 66 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 66, 57 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 55, 58 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 56 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 48, 45 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 50, 44 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 58, 52 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 46, 37 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 57, 54 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 54, 47 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 49, 52 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 56, 49 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 56, 54 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 58 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 47, 44 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 52, 45 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 57, 50 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 37, 36 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 44, 37 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 36, 45 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 47, 43 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 43, 36 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 49, 43 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 83, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 86, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 92, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 99, 96 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 102, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 97, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 87, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 102, 101 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 102, 100 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 92, 96 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 96 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 86, 83 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 83, 87 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 97 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 97 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 93 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 86, 92 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 92, 83 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 100, 92 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 100, 101 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 93, 87 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 83 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 2, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 16, 19 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 19, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 16, 10 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 1 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 0, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 6 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 16, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 3, 15 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 6, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 19, 15 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 19 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 19, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 5, 9 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 48, 55 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 59, 55 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 53, 46 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 46, 48 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 53, 59 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 73, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 80, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 92, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 75, 86 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 83, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 62, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 60, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 67, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 60, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 80, 92 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 60, 62 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 83 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 83, 64 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 80, 73 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 62 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 60 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 73 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 60, 73 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 73, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 83, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 76, 87 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 68, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 61, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 63, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 68 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 74 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 63 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 61, 63 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 61, 64 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 93, 74 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 81, 93 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 61, 68 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 61 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 97, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 91, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 79, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 89, 72 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 95, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 70, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 72 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 70, 72 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 79, 70 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 79, 91 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 91 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 101, 95 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 70, 91 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 91, 95 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 70 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 94, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 82, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 85, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 98, 95 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 84, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 102, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 91, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 85, 91 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 85, 82 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 94 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 94 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 84 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 82, 84 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 82 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 91, 82 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 100, 90 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 80, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 73, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 88, 71 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 69, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 78, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 94, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 96, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 78, 90 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 78, 69 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 69, 71 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 69, 73 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 69, 90 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 73, 71 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 24, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 29, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 22, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 14, 6 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 31, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 33, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 29 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 22, 29 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 8, 12 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 8, 2 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 33 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 33, 24 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 33, 31 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 22, 10 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 24 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 12 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 29, 31 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 33, 29 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 20, 12 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 32, 11 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 41, 28 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 42, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 12, 18 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 11, 23 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 34 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 40 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 11 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 28 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 19, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 11, 17 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 30 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 29, 35 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 7, 1 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 21, 9 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 25, 19 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 20, 18 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 32, 23 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 41, 34 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 42, 40 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 20, 17 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 32, 30 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 41, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 42, 35 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 11, 20 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 28, 32 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 38, 41 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 29, 42 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 11 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 21, 28 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 25, 38 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 11, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 29, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 19, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 20, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 32, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 41, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 42, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 21, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 25, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 22, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 18, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 23, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 34, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 40, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 13, 5 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 26, 15 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 27, 16 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 19, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 8, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 7, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 21, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 25, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 11, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 17, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 30, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 39, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 35, 27 ],
+    "color" : "#FFFFFF"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 99, 86, 83 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 96, 92, 99 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 100, 96, 99 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 102, 100, 99 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 102, 99, 101 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 99, 93, 97 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 99, 87, 93 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 99, 92, 86 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 101, 99, 97 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 99, 83, 87 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 93, 101, 97 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 83, 93, 87 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 92, 83, 86 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 100, 96, 92 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 93, 101, 100, 92, 83 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 19, 10, 16 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 2, 1, 9, 19, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 1, 9, 5 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 2, 1, 0 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 3, 2, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 3, 1 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 2, 6 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 3, 16, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 6, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 10, 6 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 19, 16 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 15, 19, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 15, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 9, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 15, 19 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 1, 3, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 64, 83, 77 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 83, 86, 75 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 86, 92, 75 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 92, 80 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 80, 73 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 73, 67 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 67, 60 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 60, 62 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 64, 75, 62 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 77, 75, 64 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 60, 64, 62 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 60, 64, 83, 92, 73 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 92, 73, 80 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 73, 60, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 83, 75 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 61, 74, 93, 83, 64 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 74, 93, 81 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 81, 93, 76 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 93, 87, 76 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 83, 77 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 87, 83, 76 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 61, 74, 68 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 76, 74 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 74, 76, 68 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 61, 68 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 63, 61 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 64, 63 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 77, 64 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 64, 61, 63 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 74, 89 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 74, 72, 89 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 72, 70, 89 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 70, 79 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 79, 91 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 91, 95 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 95, 101 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 101, 97 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 93, 89, 97 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 74, 72, 70 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 93, 74, 70, 91 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 70, 91, 79 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 95, 98 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 95, 91, 98 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 91, 85 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 85, 82 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 82, 84 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 84, 90 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 90, 94 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 100, 98, 94 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 102, 98, 100 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 102, 101, 98 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 100, 94 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 96, 100 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 92, 96 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 80, 92 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 73, 80 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 71, 73, 88 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 69, 71, 88 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 78, 69, 88 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 78, 88, 90 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 90, 88, 94 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 90, 69, 78 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 90, 69, 73, 92 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 100, 90, 94 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 69, 71, 73 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 89, 93 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 31, 33 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 33, 24 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 12, 14, 24 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 8, 14, 12 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 8, 2, 14 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 2, 6, 14 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 6, 10, 14 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 10, 22 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 22, 29 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 12, 2, 8 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 33, 12, 2, 10, 29 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 33, 12, 24 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 29, 22 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 29, 33, 31 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 14, 29, 31 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 12, 18 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 11, 23 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 28, 34 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 38, 40 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 12, 20, 18 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 11, 32, 23 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 41, 34 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 42, 40 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 11, 7 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 9, 28, 21 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 19, 38, 25 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 20, 11, 17 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 32, 28, 30 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 41, 38, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 42, 29, 35 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 20, 11, 1, 2, 12 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 32, 28, 9, 1, 11 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 41, 38, 19, 9, 28 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 42, 29, 10, 19, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 8, 12 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 7, 11 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 21, 28 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 25, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 2, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 1, 7 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 9, 21 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 19, 25 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 0, 2, 4 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 5, 1, 13 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 15, 9, 26 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 16, 19, 27 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 1, 0, 4 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 9, 5, 13 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 19, 15, 26 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 16, 27 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 1, 4 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 21, 9, 13 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 25, 19, 26 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 22, 10, 27 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 4, 11 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 21, 13, 28 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 25, 26, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 22, 27, 29 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 11, 4, 17 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 28, 13, 30 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 38, 26, 39 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 29, 27, 35 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 20, 17 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 32, 30 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 41, 39 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 42, 35 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 18, 20 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 23, 32 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 34, 41 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 40, 42 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 50, 44, 47, 54, 57 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 53, 46, 37, 44, 50 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 44, 37, 36, 43, 47 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 57, 54, 56, 65, 66 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 54, 47, 43, 49, 56 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 56, 49, 52, 58 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 52, 49, 43, 36, 45 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 45, 36, 37, 46, 48 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 55, 48, 46, 53, 59 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 58, 52, 45, 48, 55 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 58, 55, 59, 66, 65 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 82, 91, 101, 100, 90 ],
+    "color" : "#00FF00"
+  } ]
+}
+</ImportColoredMeshJson>
+        <BeginBlock/>
+        <DeselectAll/>
+        <SelectManifestation point="-5 -8 0 0 -2 -3"/>
+        <SelectManifestation point="0 0 0 0 0 0"/>
+        <EndBlock/>
+        <TranslationTool name="tool-0"/>
+      </Branch>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -41, -19, 2 ], [ -5, -9, 2 ], [ -19, -31, 2 ] ], [ [ -19, -31, 2 ], [ -5, -9, 2 ], [ -23, -37, 2 ] ], [ [ -19, -31, 2 ], [ -5, -9, 2 ], [ -15, -25, 2 ] ], [ [ -19, -29, 2 ], [ -9, -19, 2 ], [ -19, -31, 2 ] ], [ [ -11, -33, 2 ], [ 9, -25, 2 ], [ -35, -33, 2 ] ], [ [ -11, -33, 2 ], [ 9, -25, 2 ], [ -3, -29, 2 ] ], [ [ -11, -33, 2 ], [ -19, 7, 2 ], [ -35, -33, 2 ] ], [ [ -38, -13, 2 ], [ 19, 30, 2 ], [ -5, -8, 1 ] ], [ [ -16, -25, 2 ], [ 19, 30, 2 ], [ -7, -11, 1 ] ], [ [ -16, -25, 2 ], [ 19, 30, 2 ], [ -3, -5, 1 ] ], [ [ -15, -25, 2 ], [ -11, -19, 2 ], [ -25, -41, 2 ] ], [ [ -15, -25, 2 ], [ -11, -19, 2 ], [ -13, -21, 2 ] ], [ [ -15, -25, 2 ], [ 1, 1, 2 ], [ -25, -41, 2 ] ], [ [ -13, -25, 2 ], [ -5, -9, 2 ], [ -29, -45, 2 ] ], [ [ -16, -23, 2 ], [ 23, 40, 2 ], [ -5, -8, 1 ] ], [ [ -25, -17, 2 ], [ -7, -27, 2 ], [ -5, -47, 2 ] ], [ [ -25, -17, 2 ], [ -7, -27, 2 ], [ -33, -15, 2 ] ], [ [ -8, -27, 2 ], [ 5, 46, 2 ], [ -13, -9, 1 ] ], [ [ -8, -27, 2 ], [ 5, 46, 2 ], [ 3, -7, 1 ] ], [ [ -14, -23, 2 ], [ -3, -6, 2 ], [ -11, -18, 1 ] ], [ [ 3, -33, 2 ], [ 7, -13, 2 ], [ -21, -49, 2 ] ], [ [ -67, -111, 10 ], [ -5, -9, 2 ], [ -103, -169, 10 ] ], [ [ -13, -21, 2 ], [ -15, -25, 2 ], [ -19, -31, 2 ] ], [ [ -37, -61, 6 ], [ -5, -9, 2 ], [ -53, -87, 6 ] ], [ [ 5, -31, 2 ], [ -21, -11, 2 ], [ -21, -49, 2 ] ], [ [ 5, -31, 2 ], [ 11, -7, 2 ], [ -21, -49, 2 ] ], [ [ -6, -10, 1 ], [ -10, -17, 2 ], [ -17, -28, 2 ] ], [ [ -59, -97, 10 ], [ -39, -67, 10 ], [ -81, -133, 10 ] ], [ [ -59, -97, 10 ], [ -11, -23, 10 ], [ -109, -177, 10 ] ], [ [ -12, -19, 2 ], [ 25, 40, 2 ], [ -8, -13, 1 ] ], [ [ -12, -19, 2 ], [ 25, 40, 2 ], [ -2, -3, 1 ] ], [ [ -22, -11, 2 ], [ 21, 48, 2 ], [ 2, -16, 1 ] ], [ [ -22, -11, 2 ], [ 21, 48, 2 ], [ -12, 0, 1 ] ], [ [ -53, -89, 10 ], [ -47, -81, 10 ], [ -19, -31, 2 ] ], [ [ -11, -17, 2 ], [ 21, 33, 2 ], [ -13, -21, 2 ] ], [ [ -52, -81, 10 ], [ 19, 30, 2 ], [ -29, -47, 5 ] ], [ [ -5, -8, 1 ], [ -2, -3, 2 ], [ 9, 14, 2 ] ], [ [ -10, -15, 2 ], [ 29, 46, 2 ], [ -5, -8, 1 ] ], [ [ -9, -15, 2 ], [ -37, -13, 2 ], [ -19, -31, 2 ] ], [ [ -9, -15, 2 ], [ -15, -23, 2 ], [ -23, -41, 2 ] ], [ [ -9, -15, 2 ], [ -9, -15, 2 ], [ -29, -47, 2 ] ], [ [ -9, -15, 2 ], [ -33, -59, 10 ], [ -117, -191, 10 ] ], [ [ -9, -15, 2 ], [ -5, -9, 2 ], [ -51, -35, 2 ] ], [ [ -9, -15, 2 ], [ -11, -21, 6 ], [ -67, -109, 6 ] ], [ [ -9, -15, 2 ], [ -1, -3, 2 ], [ -29, -47, 2 ] ], [ [ -28, -43, 6 ], [ 19, 30, 2 ], [ -13, -21, 3 ] ], [ [ 8, -25, 2 ], [ 35, 32, 2 ], [ -6, -17, 1 ] ], [ [ 8, -25, 2 ], [ 35, 32, 2 ], [ -4, 1, 1 ] ], [ [ -1, -9, 1 ], [ 12, -19, 2 ], [ 21, 10, 2 ] ], [ [ -1, -9, 1 ], [ -16, 13, 2 ], [ 21, 10, 2 ] ], [ [ -44, -67, 10 ], [ 109, 172, 10 ], [ -32, -51, 5 ] ], [ [ -44, -67, 10 ], [ 109, 172, 10 ], [ -18, -29, 5 ] ], [ [ -23, -39, 6 ], [ -25, -43, 6 ], [ -19, -31, 2 ] ], [ [ -4, -6, 1 ], [ 22, 35, 2 ], [ -5, -8, 2 ] ], [ [ -7, -12, 2 ], [ -4, -7, 1 ], [ -24, -39, 2 ] ], [ [ -31, -53, 10 ], [ -39, -67, 10 ], [ -109, -177, 10 ] ], [ [ -3, -5, 1 ], [ -8, -13, 2 ], [ 11, 18, 2 ] ], [ [ -3, -5, 1 ], [ -1, -2, 1 ], [ -8, -13, 1 ] ], [ [ -3, -5, 1 ], [ 4, 7, 2 ], [ 11, 18, 2 ] ], [ [ -23, 1, 2 ], [ -21, -11, 2 ], [ -21, -49, 2 ] ], [ [ -6, -9, 2 ], [ 61, 96, 6 ], [ -20, -32, 3 ] ], [ [ -6, -9, 2 ], [ 103, 164, 10 ], [ -14, -22, 5 ] ], [ [ -6, -9, 2 ], [ 23, 36, 2 ], [ -10, -16, 1 ] ], [ [ -6, -9, 2 ], [ 23, 36, 2 ], [ 0, 0, 1 ] ], [ [ -6, -9, 2 ], [ 29, 44, 2 ], [ -7, -13, 1 ] ], [ [ -6, -9, 2 ], [ 29, 44, 2 ], [ -3, -3, 1 ] ], [ [ -6, -9, 2 ], [ 51, 34, 2 ], [ -5, -8, 1 ] ], [ [ -2, -5, 1 ], [ -2, -3, 2 ], [ 15, 22, 2 ] ], [ [ -5, -9, 2 ], [ -15, -25, 2 ], [ -19, -31, 2 ] ], [ [ -8, -1, 1 ], [ -4, -21, 2 ], [ -9, 24, 2 ] ], [ [ -22, -31, 10 ], [ 117, 186, 10 ], [ -5, -8, 1 ] ], [ [ 7, -13, 2 ], [ -7, -27, 2 ], [ -5, -47, 2 ] ], [ [ -2, -3, 1 ], [ -12, -19, 2 ], [ 5, 8, 2 ] ], [ [ -2, -3, 1 ], [ 7, 11, 1 ], [ -5, -8, 1 ] ], [ [ -12, -17, 6 ], [ 63, 100, 6 ], [ -12, -19, 3 ] ], [ [ -5, -8, 3 ], [ -2, -3, 2 ], [ 19, 30, 6 ] ], [ [ 7, -8, 1 ], [ -18, -5, 2 ], [ 7, 26, 2 ] ], [ [ 7, -8, 1 ], [ 14, -1, 2 ], [ 7, 26, 2 ] ], [ [ -3, -5, 2 ], [ -11, -19, 2 ], [ -25, -41, 2 ] ], [ [ -3, -5, 2 ], [ -7, -11, 2 ], [ 7, 11, 2 ] ], [ [ -16, -23, 10 ], [ 109, 172, 10 ], [ -32, -51, 5 ] ], [ [ -7, -11, 5 ], [ -24, -37, 10 ], [ 39, 62, 10 ] ], [ [ -7, -11, 5 ], [ 4, 7, 10 ], [ 39, 62, 10 ] ], [ [ -3, -4, 2 ], [ 12, 19, 1 ], [ -12, -19, 2 ] ], [ [ -20, 7, 2 ], [ 35, 32, 2 ], [ -6, -17, 1 ] ], [ [ -20, 7, 2 ], [ 35, 32, 2 ], [ -4, 1, 1 ] ], [ [ -2, -3, 2 ], [ 1, 2, 2 ], [ 5, 8, 1 ] ], [ [ -2, -3, 2 ], [ 29, 46, 2 ], [ -5, -8, 1 ] ], [ [ -4, -7, 5 ], [ -32, -51, 10 ], [ 5, 8, 2 ] ], [ [ 10, -7, 2 ], [ 21, 48, 2 ], [ 2, -16, 1 ] ], [ [ 10, -7, 2 ], [ 21, 48, 2 ], [ -12, 0, 1 ] ], [ [ 0, 0, 1 ], [ -34, -7, 2 ], [ 5, 8, 2 ] ], [ [ 0, 0, 1 ], [ -12, -17, 2 ], [ 9, 18, 2 ] ], [ [ 0, 0, 1 ], [ -6, -9, 2 ], [ 15, 24, 2 ] ], [ [ 0, 0, 1 ], [ -2, -3, 2 ], [ 37, 12, 2 ] ], [ [ 0, 0, 1 ], [ -2, -1, 10 ], [ 47, 76, 10 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 2, 3, 2 ], [ 15, 24, 2 ] ], [ [ 0, 0, 1 ], [ 2, 3, 1 ], [ -5, -8, 1 ] ], [ [ 0, 1, 2 ], [ 25, 40, 2 ], [ -8, -13, 1 ] ], [ [ 0, 1, 2 ], [ 25, 40, 2 ], [ -2, -3, 1 ] ], [ [ 2, 3, 3 ], [ -16, -25, 6 ], [ 5, 8, 2 ] ], [ [ 3, 5, 3 ], [ 0, 1, 6 ], [ 21, 34, 6 ] ], [ [ 7, 11, 5 ], [ -24, -37, 10 ], [ 39, 62, 10 ] ], [ [ -7, 8, 1 ], [ -18, -5, 2 ], [ 7, 26, 2 ] ], [ [ -7, 8, 1 ], [ 14, -1, 2 ], [ 7, 26, 2 ] ], [ [ 2, 3, 1 ], [ -12, -19, 2 ], [ 5, 8, 2 ] ], [ [ 11, 18, 5 ], [ -2, -3, 2 ], [ 33, 54, 10 ] ], [ [ 5, 8, 2 ], [ -2, -3, 1 ], [ 8, 13, 2 ] ], [ [ 8, 1, 1 ], [ -4, -21, 2 ], [ -9, 24, 2 ] ], [ [ 2, 5, 1 ], [ -2, -3, 2 ], [ 15, 22, 2 ] ], [ [ 3, 5, 1 ], [ -8, -13, 2 ], [ 11, 18, 2 ] ], [ [ 3, 5, 1 ], [ 4, 7, 2 ], [ 11, 18, 2 ] ], [ [ 1, 9, 1 ], [ 12, -19, 2 ], [ 21, 10, 2 ] ], [ [ 1, 9, 1 ], [ -16, 13, 2 ], [ 21, 10, 2 ] ], [ [ 5, 8, 1 ], [ -2, -3, 2 ], [ 9, 14, 2 ] ], [ [ 5, 8, 1 ], [ 2, 3, 1 ], [ -7, -11, 1 ] ], [ [ 15, 24, 2 ], [ 0, 0, 1 ], [ -26, -41, 2 ] ], [ [ 15, 24, 2 ], [ 6, 8, 5 ], [ -102, -161, 10 ] ], [ [ 15, 24, 2 ], [ 2, 3, 1 ], [ -48, -29, 2 ] ], [ [ 15, 24, 2 ], [ 8, 12, 3 ], [ -58, -91, 6 ] ], [ [ 15, 24, 2 ], [ 4, 6, 1 ], [ -26, -41, 2 ] ], [ [ 49, 78, 6 ], [ 1, 1, 3 ], [ -16, -25, 2 ] ], [ [ 83, 134, 10 ], [ 21, 33, 5 ], [ -16, -25, 2 ] ], [ [ 17, 27, 2 ], [ 1, 1, 2 ], [ -21, -33, 2 ] ], [ [ 51, 82, 6 ], [ 9, 14, 3 ], [ -42, -65, 6 ] ], [ [ 89, 142, 10 ], [ 3, 4, 5 ], [ -94, -147, 10 ] ], [ [ 89, 142, 10 ], [ 3, 4, 5 ], [ -66, -103, 10 ] ], [ [ 89, 142, 10 ], [ 17, 26, 5 ], [ -94, -147, 10 ] ], [ [ 18, 29, 2 ], [ 9, 14, 2 ], [ -9, -14, 1 ] ], [ [ 1, 40, 2 ], [ -6, 2, 1 ], [ -18, -43, 2 ] ], [ [ 1, 40, 2 ], [ 10, 4, 1 ], [ -18, -43, 2 ] ], [ [ 19, 30, 2 ], [ -3, -5, 1 ], [ -16, -25, 2 ] ], [ [ 19, 30, 2 ], [ 7, 11, 1 ], [ -16, -25, 2 ] ], [ [ 97, 156, 10 ], [ 2, 3, 1 ], [ -72, -111, 10 ] ], [ [ 10, 16, 1 ], [ 2, 3, 2 ], [ -13, -20, 2 ] ], [ [ 31, 26, 2 ], [ 1, -6, 1 ], [ -2, -41, 2 ] ], [ [ 31, 26, 2 ], [ 1, -6, 1 ], [ -30, -9, 2 ] ], [ [ 31, 26, 2 ], [ 3, 12, 1 ], [ -2, -41, 2 ] ], [ [ 31, 26, 2 ], [ 3, 12, 1 ], [ -30, -9, 2 ] ], [ [ 19, 34, 2 ], [ 2, 3, 1 ], [ -26, -39, 2 ] ], [ [ 21, 34, 2 ], [ -1, -2, 1 ], [ -22, -35, 2 ] ], [ [ 21, 34, 2 ], [ -1, -2, 1 ], [ -10, -15, 2 ] ], [ [ 21, 34, 2 ], [ 5, 8, 1 ], [ -22, -35, 2 ] ], [ [ 21, 34, 2 ], [ 5, 8, 1 ], [ -10, -15, 2 ] ], [ [ 17, 42, 2 ], [ 9, -5, 1 ], [ -32, -27, 2 ] ], [ [ 17, 42, 2 ], [ 9, -5, 1 ], [ 0, -23, 2 ] ], [ [ 17, 42, 2 ], [ -5, 11, 1 ], [ -32, -27, 2 ] ], [ [ 17, 42, 2 ], [ -5, 11, 1 ], [ 0, -23, 2 ] ], [ [ 25, 38, 2 ], [ 0, -2, 1 ], [ -16, -25, 2 ] ], [ [ 25, 38, 2 ], [ 4, 8, 1 ], [ -16, -25, 2 ] ], [ [ 25, 40, 2 ], [ 2, 3, 1 ], [ -20, -31, 2 ] ], [ [ 25, 40, 2 ], [ 2, 3, 1 ], [ -12, -19, 2 ] ], [ [ 47, 28, 2 ], [ 2, 3, 1 ], [ -16, -25, 2 ] ] ],
+  "balls" : [ {
+    "vertex" : 98,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 116,
+    "color" : "#000000"
+  }, {
+    "vertex" : 73,
+    "color" : "#000000"
+  }, {
+    "vertex" : 10,
+    "color" : "#000000"
+  }, {
+    "vertex" : 15,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 22,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 38,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 68,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 71,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 78,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 59,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 40,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 24,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 42,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 44,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 25,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 12,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 6,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 13,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 4,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 39,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 2,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 5,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 11,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 16,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 3,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 57,
+    "color" : "#000000"
+  }, {
+    "vertex" : 55,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 52,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 41,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 43,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 28,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 21,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 23,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 27,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 33,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 54,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 26,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 19,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 93,
+    "color" : "#000000"
+  }, {
+    "vertex" : 37,
+    "color" : "#000000"
+  }, {
+    "vertex" : 151,
+    "color" : "#000000"
+  }, {
+    "vertex" : 94,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 31,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 97,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 29,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 105,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 46,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 112,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 62,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 114,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 84,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 115,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 99,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 113,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 89,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 111,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 87,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 104,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 66,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 109,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 90,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 106,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 100,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 91,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 85,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 72,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 63,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 69,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 47,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 92,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 65,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 56,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 30,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 76,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 32,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 110,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 64,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 48,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 18,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 36,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 9,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 49,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 7,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 58,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 8,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 77,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 17,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 67,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 14,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 108,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 83,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 107,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 80,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 103,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 70,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 102,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 60,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 95,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 50,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 86,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 34,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 82,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 35,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 75,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 45,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 101,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 74,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 88,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 61,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 81,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 51,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 79,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 53,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 153,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 152,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 148,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 144,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 139,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 133,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 138,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 143,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 147,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 131,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 121,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 119,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 117,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 130,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 140,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 141,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 145,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 150,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 136,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 132,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 137,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 142,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 146,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 149,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 129,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 123,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 128,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 125,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 134,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 135,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 127,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 122,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 120,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 118,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 126,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 124,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 96,
+    "color" : "#000000"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 73, 96 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 96, 116 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 116, 73 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 10, 15 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 22, 15 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 38, 22 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 38, 68 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 71, 68 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 71, 78 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 59, 78 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 40, 59 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 13, 10 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 24, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 24, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 40, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 59, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 78, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 71, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 39, 68 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 22, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 15, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 13, 24 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 40, 24 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 13, 40 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 40, 42 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 13, 42 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 44, 42 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 13, 44 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 44, 25 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 13, 25 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 25 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 12, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 6, 12 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 6, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 6, 1 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 1, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 13, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 4, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 11, 5 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 16, 11 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 16, 22 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 16, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 22, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 3, 10 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 3, 15 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 3, 11 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 68, 52 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 22, 33 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 11, 27 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 2, 23 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 1, 21 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 12, 28 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 44, 43 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 40, 41 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 78, 55 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 25, 20 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 52, 33 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 52, 55 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 41, 43 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 28, 43 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 21, 23 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 27, 23 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 41, 54 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 54, 55 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 26, 33 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 27, 26 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 28, 19 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 19, 21 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 54, 10 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 26, 10 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 19, 10 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 93, 94 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 37, 31 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 97, 94 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 29, 31 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 105, 97 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 46, 29 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 105, 112 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 46, 62 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 114, 112 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 84, 62 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 114, 115 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 84, 99 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 113, 115 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 89, 99 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 111, 113 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 87, 89 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 93 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 65, 37 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 104, 93 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 66, 37 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 93, 110 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 37, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 104, 110 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 66, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 111, 110 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 87, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 113, 110 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 89, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 115, 110 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 99, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 114, 110 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 84, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 110, 112 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 62 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 105, 110 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 46, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 97, 110 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 29, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 94, 110 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 31, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 92, 104 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 65, 66 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 111, 104 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 87, 66 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 111 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 65, 87 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 111, 109 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 87, 90 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 109 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 65, 90 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 106, 109 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 100, 90 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 106 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 65, 100 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 106, 91 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 100, 85 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 91 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 65, 85 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 72, 91 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 63, 85 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 72, 92 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 63, 65 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 69, 72 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 47, 63 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 69, 92 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 47, 65 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 69, 56 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 47, 30 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 56, 92 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 30, 65 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 56, 76 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 30, 32 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 65, 32 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 76, 93 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 32, 37 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 56, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 30, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 56, 48 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 30, 18 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 67, 48 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 36, 48 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 18 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 36, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 36, 49 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 7 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 58, 49 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 77, 58 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 17, 8 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 77, 97 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 17, 29 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 77, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 17, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 97, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 29, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 76, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 32, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 67, 93 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 14, 37 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 67, 94 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 14, 31 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 67, 49 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 14, 7 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 67, 58 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 14, 8 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 112, 102 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 62, 60 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 97, 95 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 29, 50 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 58, 82 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 8, 35 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 36, 75 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 9, 45 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 56, 81 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 30, 51 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 72, 88 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 63, 61 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 106, 101 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 100, 74 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 111, 103 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 87, 70 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 115, 107 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 99, 80 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 103, 108 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 70, 83 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 108, 107 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 83, 80 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 103, 101 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 70, 74 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 102, 107 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 60, 80 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 86, 95 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 34, 50 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 102, 95 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 60, 50 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 82, 86 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 35, 34 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 82, 75 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 35, 45 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 81, 75 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 51, 45 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 88, 101 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 61, 74 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 79, 81 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 53, 51 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 88, 79 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 61, 53 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 79, 93 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 53, 37 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 108, 93 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 83, 37 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 86, 93 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 34, 37 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 151, 153 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 152, 153 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 148, 152 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 148, 144 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 139, 144 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 139, 133 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 138, 133 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 143, 138 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 140, 151 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 147, 151 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 151, 150 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 147, 150 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 143, 150 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 138, 150 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 133, 150 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 139, 150 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 150, 144 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 148, 150 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 152, 150 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 153, 150 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 140, 147 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 143, 147 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 140, 143 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 143, 131 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 140, 131 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 121, 131 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 140, 121 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 121, 119 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 140, 119 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 117, 119 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 117, 140 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 130, 117 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 130, 140 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 130, 141 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 141, 140 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 141, 145 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 140, 145 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 145, 151 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 141, 149 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 141, 136 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 149, 136 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 132, 136 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 132, 149 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 132, 137 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 142, 137 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 146, 142 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 146, 152 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 146, 149 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 152, 149 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 145, 149 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 149, 151 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 149, 153 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 149, 137 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 149, 142 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 144, 125 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 152, 134 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 142, 127 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 132, 122 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 141, 126 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 117, 118 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 121, 120 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 143, 128 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 133, 123 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 128, 129 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 129, 123 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 128, 120 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 125, 123 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 135, 134 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 125, 134 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 127, 135 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 127, 122 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 126, 122 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 118, 120 ],
+    "color" : "#6C00C6"
+  }, {
+    "vertices" : [ 124, 126 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 118, 124 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 124, 151 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 129, 151 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 135, 151 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 116, 57 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 96, 57 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 73, 57 ],
+    "color" : "#008D36"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 116, 57, 96 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 73, 57, 96 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 16, 11 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 11, 5 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 5, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 2, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 0, 1 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 3, 1 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 3, 4 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 15, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 15, 22, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 22, 16 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 13, 10, 4 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 4, 1 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 12, 25, 13 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 25, 44, 13 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 44, 42, 13 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 40, 24 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 24, 10 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 10, 24, 39 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 24, 40, 39 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 59, 78, 39 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 39, 78, 71 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 39, 71, 68 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 39, 68, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 39, 38, 22 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 39, 15 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 40, 59, 39 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 39, 22, 15 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 13, 42, 40 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 12, 13, 6 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 13, 1 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 40, 41, 54, 55, 78, 59 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 44, 43, 41, 40, 42 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 78, 55, 52, 68, 71 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 68, 52, 33, 22, 38 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 22, 16, 11, 27, 26, 33 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 11, 27, 23, 2, 5 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 23, 21, 1, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 25, 44, 43, 28 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 26, 27, 23, 21, 19 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 19, 28, 43, 41, 54 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 54, 55, 52, 33, 26 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 19, 21, 1, 6, 12, 28 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 67, 77, 58 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 17, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 67, 58, 49 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 8, 7 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 67, 49, 36 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 7, 9 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 67, 36, 48 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 9, 18 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 67, 48, 56 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 18, 30 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 76, 67, 56 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 32, 14, 30 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 93, 67, 76 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 37, 14, 32 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 93, 94, 67 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 37, 31, 14 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 94, 97, 67 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 31, 29, 14 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 67, 97, 77 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 29, 17 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 92, 93, 76 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 37, 32 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 92, 76, 56 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 32, 30 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 72, 91, 92 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 63, 85, 65 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 91, 106, 92 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 85, 100, 65 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 106, 109, 92 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 100, 90, 65 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 92, 111, 104 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 87, 66 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 92, 104, 93 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 66, 37 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 93, 104, 110 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 37, 66, 64 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 104, 111, 110 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 66, 87, 64 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 113, 115, 110 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 99, 64 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 110, 115, 114 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 64, 99, 84 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 110, 114, 112 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 64, 84, 62 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 110, 112, 105 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 64, 62, 46 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 110, 105, 97 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 64, 46, 29 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 93, 110, 94 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 37, 64, 31 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 111, 113, 110 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 87, 89, 64 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 110, 97, 94 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 64, 29, 31 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 92, 109, 111 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 90, 87 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 72, 92, 69 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 63, 65, 47 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 69, 92, 56 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 47, 65, 30 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 115, 107, 102, 112, 114 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 99, 80, 60, 62, 84 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 112, 102, 95, 97, 105 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 62, 60, 50, 29, 46 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 97, 77, 58, 82, 86, 95 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 29, 17, 8, 35, 34, 50 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 58, 82, 75, 36, 49 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 8, 35, 45, 9, 7 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 36, 75, 81, 56, 48 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 45, 51, 30, 18 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 79, 81, 56, 69, 72, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 53, 51, 30, 47, 63, 61 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 72, 91, 106, 101, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 63, 85, 100, 74, 61 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 111, 103, 108, 107, 115, 113 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 87, 70, 83, 80, 99, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 106, 101, 103, 111, 109 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 74, 70, 87, 90 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 79, 88, 101, 103, 108 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 37, 53, 61, 74, 70, 83 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 93, 86, 82, 75, 81, 79 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 37, 34, 35, 45, 51, 53 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 93, 108, 107, 102, 95, 86 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 37, 83, 80, 60, 50, 34 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 149, 146, 142 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 149, 142, 137 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 149, 137, 132 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 149, 132, 136 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 149, 136, 141 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 145, 149, 141 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 151, 149, 145 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 151, 153, 149 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 153, 152, 149 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 149, 152, 146 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 140, 151, 145 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 140, 145, 141 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 117, 119, 140 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 119, 121, 140 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 121, 131, 140 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 140, 143, 147 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 140, 147, 151 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 151, 147, 150 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 147, 143, 150 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 138, 133, 150 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 150, 133, 139 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 150, 139, 144 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 150, 144, 148 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 150, 148, 152 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 151, 150, 153 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 143, 138, 150 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 150, 152, 153 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 140, 131, 143 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 117, 140, 130 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 130, 140, 141 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 133, 123, 125, 144, 139 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 144, 125, 134, 152, 148 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 152, 146, 142, 127, 135, 134 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 142, 127, 122, 132, 137 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 132, 122, 126, 141, 136 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 124, 126, 141, 130, 117, 118 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 117, 119, 121, 120, 118 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 143, 128, 129, 123, 133, 138 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 121, 120, 128, 143, 131 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 151, 124, 118, 120, 128, 129 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 151, 135, 127, 122, 126, 124 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 151, 129, 123, 125, 134, 135 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 116, 57, 73 ],
+    "color" : "#0000FF"
+  } ]
+}
+</ImportColoredMeshJson>
+      <DeselectAll/>
+      <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <SelectManifestation point="0 0 2 3 -5 -8"/>
+      <EndBlock/>
+      <TranslationTool name="tool-1"/>
+      <SelectAll/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-1"/>
+      <DeselectAll/>
+      <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 4 6 -10 -16"/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <EndBlock/>
+      <TranslationTool name="tool-2"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectAll/>
+      <EndBlock/>
+      <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+      <DeselectAll/>
+      <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation point="0 0 0 0 0 0"/>
+      <SelectAll/>
+      <DeselectAll/>
+      <EndBlock/>
+      <Snapshot id="0"/>
+    </Branch>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -57, -41, 2 ], [ -6, -15, 2 ], [ -2, -3, 1 ] ], [ [ -35, -53, 2 ], [ -6, -15, 2 ], [ -4, -6, 1 ] ], [ [ -35, -53, 2 ], [ -6, -15, 2 ], [ 0, 0, 1 ] ], [ [ -35, -51, 2 ], [ -10, -25, 2 ], [ -2, -3, 1 ] ], [ [ -35, -51, 2 ], [ -2, -5, 2 ], [ -2, -3, 1 ] ], [ [ -27, -55, 2 ], [ 8, -31, 2 ], [ -10, -4, 1 ] ], [ [ -27, -55, 2 ], [ 8, -31, 2 ], [ 6, -2, 1 ] ], [ [ -27, -55, 2 ], [ -20, 1, 2 ], [ -10, -4, 1 ] ], [ [ -27, -55, 2 ], [ -20, 1, 2 ], [ 6, -2, 1 ] ], [ [ -31, -47, 2 ], [ -12, -25, 2 ], [ -5, -8, 1 ] ], [ [ -31, -47, 2 ], [ -12, -25, 2 ], [ 1, 2, 1 ] ], [ [ -31, -47, 2 ], [ 0, -5, 2 ], [ -5, -8, 1 ] ], [ [ -31, -47, 2 ], [ 0, -5, 2 ], [ 1, 2, 1 ] ], [ [ -29, -47, 2 ], [ -6, -15, 2 ], [ -7, -10, 1 ] ], [ [ -29, -47, 2 ], [ -6, -15, 2 ], [ 3, 4, 1 ] ], [ [ -41, -39, 2 ], [ -8, -33, 2 ], [ 5, -11, 1 ] ], [ [ -41, -39, 2 ], [ -8, -33, 2 ], [ -9, 5, 1 ] ], [ [ -41, -39, 2 ], [ -4, 3, 2 ], [ 5, -11, 1 ] ], [ [ -41, -39, 2 ], [ -4, 3, 2 ], [ -9, 5, 1 ] ], [ [ -29, -43, 2 ], [ -16, -31, 2 ], [ -2, -3, 1 ] ], [ [ -29, -43, 2 ], [ 4, 1, 2 ], [ -2, -3, 1 ] ], [ [ -11, -53, 2 ], [ -22, -17, 2 ], [ -3, -12, 1 ] ], [ [ -11, -53, 2 ], [ -22, -17, 2 ], [ -1, 6, 1 ] ], [ [ -11, -53, 2 ], [ 10, -13, 2 ], [ -3, -12, 1 ] ], [ [ -11, -53, 2 ], [ 10, -13, 2 ], [ -1, 6, 1 ] ], [ [ -25, -37, 2 ], [ -38, -19, 2 ], [ -2, -3, 1 ] ], [ [ -25, -37, 2 ], [ -16, -29, 2 ], [ -4, -8, 1 ] ], [ [ -25, -37, 2 ], [ -16, -29, 2 ], [ 0, 2, 1 ] ], [ [ -25, -37, 2 ], [ -10, -21, 2 ], [ -7, -11, 1 ] ], [ [ -25, -37, 2 ], [ -10, -21, 2 ], [ 3, 5, 1 ] ], [ [ -25, -37, 2 ], [ -6, -15, 2 ], [ -18, -5, 1 ] ], [ [ -25, -37, 2 ], [ -6, -15, 2 ], [ 14, -1, 1 ] ], [ [ -25, -37, 2 ], [ -2, -9, 2 ], [ -7, -11, 1 ] ], [ [ -25, -37, 2 ], [ -2, -9, 2 ], [ 3, 5, 1 ] ], [ [ -39, -21, 2 ], [ -22, -17, 2 ], [ -3, -12, 1 ] ], [ [ -39, -21, 2 ], [ -22, -17, 2 ], [ -1, 6, 1 ] ], [ [ -10, -16, 1 ], [ 0, 0, 1 ], [ -4, -6, 1 ] ], [ [ -10, -16, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -21, -31, 2 ], [ -16, -31, 2 ], [ -2, -3, 1 ] ], [ [ -9, -35, 2 ], [ -8, -33, 2 ], [ 5, -11, 1 ] ], [ [ -9, -35, 2 ], [ -8, -33, 2 ], [ -9, 5, 1 ] ], [ [ -19, -27, 2 ], [ -12, -25, 2 ], [ -5, -8, 1 ] ], [ [ -19, -27, 2 ], [ -12, -25, 2 ], [ 1, 2, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ -3, -5, 1 ], [ 1, 2, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ -8, -13, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ -7, -11, 1 ], [ -5, -8, 1 ], [ -2, -3, 1 ] ], [ [ -7, -11, 1 ], [ 5, 8, 1 ], [ -2, -3, 1 ] ], [ [ -5, -8, 1 ], [ -2, -3, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ -5, -8, 1 ], [ 0, 0, 1 ], [ -2, -3, 1 ] ], [ [ -5, -8, 1 ], [ 2, 3, 1 ], [ -7, -11, 1 ] ], [ [ -5, -8, 1 ], [ 2, 3, 1 ], [ 3, 5, 1 ] ], [ [ -3, -5, 1 ], [ -5, -8, 1 ], [ -2, -3, 1 ] ], [ [ -3, -5, 1 ], [ 5, 8, 1 ], [ -2, -3, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ -5, -8, 1 ] ], [ [ -2, -3, 1 ], [ -3, -5, 1 ], [ 1, 2, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ -5, -8, 1 ] ], [ [ -2, -3, 1 ], [ 3, 5, 1 ], [ 1, 2, 1 ] ], [ [ -1, -5, 2 ], [ 12, 25, 2 ], [ -5, -8, 1 ] ], [ [ -1, -5, 2 ], [ 12, 25, 2 ], [ 1, 2, 1 ] ], [ [ -11, 3, 2 ], [ 8, 33, 2 ], [ 5, -11, 1 ] ], [ [ -11, 3, 2 ], [ 8, 33, 2 ], [ -9, 5, 1 ] ], [ [ 1, -1, 2 ], [ 16, 31, 2 ], [ -2, -3, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ -4, -6, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 19, -11, 2 ], [ 22, 17, 2 ], [ -3, -12, 1 ] ], [ [ 19, -11, 2 ], [ 22, 17, 2 ], [ -1, 6, 1 ] ], [ [ 5, 5, 2 ], [ 2, 9, 2 ], [ -7, -11, 1 ] ], [ [ 5, 5, 2 ], [ 2, 9, 2 ], [ 3, 5, 1 ] ], [ [ 5, 5, 2 ], [ 6, 15, 2 ], [ -18, -5, 1 ] ], [ [ 5, 5, 2 ], [ 6, 15, 2 ], [ 14, -1, 1 ] ], [ [ 5, 5, 2 ], [ 10, 21, 2 ], [ -7, -11, 1 ] ], [ [ 5, 5, 2 ], [ 10, 21, 2 ], [ 3, 5, 1 ] ], [ [ 5, 5, 2 ], [ 16, 29, 2 ], [ -4, -8, 1 ] ], [ [ 5, 5, 2 ], [ 16, 29, 2 ], [ 0, 2, 1 ] ], [ [ 5, 5, 2 ], [ 38, 19, 2 ], [ -2, -3, 1 ] ], [ [ -9, 21, 2 ], [ -10, 13, 2 ], [ -3, -12, 1 ] ], [ [ -9, 21, 2 ], [ -10, 13, 2 ], [ -1, 6, 1 ] ], [ [ -9, 21, 2 ], [ 22, 17, 2 ], [ -3, -12, 1 ] ], [ [ -9, 21, 2 ], [ 22, 17, 2 ], [ -1, 6, 1 ] ], [ [ 9, 11, 2 ], [ -4, -1, 2 ], [ -2, -3, 1 ] ], [ [ 9, 11, 2 ], [ 16, 31, 2 ], [ -2, -3, 1 ] ], [ [ 21, 7, 2 ], [ 4, -3, 2 ], [ 5, -11, 1 ] ], [ [ 21, 7, 2 ], [ 4, -3, 2 ], [ -9, 5, 1 ] ], [ [ 21, 7, 2 ], [ 8, 33, 2 ], [ 5, -11, 1 ] ], [ [ 21, 7, 2 ], [ 8, 33, 2 ], [ -9, 5, 1 ] ], [ [ 9, 15, 2 ], [ 6, 15, 2 ], [ -7, -10, 1 ] ], [ [ 9, 15, 2 ], [ 6, 15, 2 ], [ 3, 4, 1 ] ], [ [ 11, 15, 2 ], [ 0, 5, 2 ], [ -5, -8, 1 ] ], [ [ 11, 15, 2 ], [ 0, 5, 2 ], [ 1, 2, 1 ] ], [ [ 11, 15, 2 ], [ 12, 25, 2 ], [ -5, -8, 1 ] ], [ [ 11, 15, 2 ], [ 12, 25, 2 ], [ 1, 2, 1 ] ], [ [ 7, 23, 2 ], [ 20, -1, 2 ], [ -10, -4, 1 ] ], [ [ 7, 23, 2 ], [ 20, -1, 2 ], [ 6, -2, 1 ] ], [ [ 7, 23, 2 ], [ -8, 31, 2 ], [ -10, -4, 1 ] ], [ [ 7, 23, 2 ], [ -8, 31, 2 ], [ 6, -2, 1 ] ], [ [ 15, 19, 2 ], [ 2, 5, 2 ], [ -2, -3, 1 ] ], [ [ 15, 19, 2 ], [ 10, 25, 2 ], [ -2, -3, 1 ] ], [ [ 15, 21, 2 ], [ 6, 15, 2 ], [ -4, -6, 1 ] ], [ [ 15, 21, 2 ], [ 6, 15, 2 ], [ 0, 0, 1 ] ], [ [ 37, 9, 2 ], [ 6, 15, 2 ], [ -2, -3, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 51,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 65,
+    "color" : "#000000"
+  }, {
+    "vertex" : 50,
+    "color" : "#000000"
+  }, {
+    "vertex" : 58,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 44,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 37,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 36,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 45,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 52,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 49,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 56,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 54,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 47,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 43,
+    "color" : "#000000"
+  }, {
+    "vertex" : 99,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 92,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 96,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 100,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 102,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 101,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 83,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 87,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 93,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 97,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 16,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 19,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 2,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 5,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 9,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 6,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 10,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 15,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 3,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 55,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 48,
+    "color" : "#000000"
+  }, {
+    "vertex" : 59,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 53,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 86,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 75,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 73,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 80,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 64,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 62,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 67,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 60,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 77,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 76,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 81,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 61,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 68,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 74,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 63,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 89,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 72,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 79,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 91,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 70,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 95,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 98,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 85,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 90,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 82,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 84,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 88,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 71,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 69,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 78,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 14,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 22,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 33,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 8,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 29,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 24,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 12,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 31,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 18,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 23,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 34,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 40,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 11,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 28,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 38,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 17,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 30,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 39,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 35,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 7,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 21,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 25,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 20,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 32,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 41,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 42,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 4,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 13,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 26,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 27,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 46,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 57,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 66,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 53, 50 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 66, 65 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 59, 66 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 66, 57 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 55, 58 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 56 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 48, 45 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 50, 44 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 58, 52 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 46, 37 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 57, 54 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 54, 47 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 49, 52 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 56, 49 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 56, 54 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 58 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 47, 44 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 52, 45 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 57, 50 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 37, 36 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 44, 37 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 36, 45 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 47, 43 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 43, 36 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 49, 43 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 83, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 86, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 92, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 99, 96 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 102, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 97, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 87, 99 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 102, 101 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 102, 100 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 92, 96 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 96 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 86, 83 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 83, 87 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 97 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 97 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 93 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 86, 92 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 92, 83 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 100, 92 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 100, 101 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 93, 87 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 83 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 2, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 16, 19 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 19, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 16, 10 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 1 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 0, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 6 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 16, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 3, 15 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 6, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 19, 15 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 19 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 19, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 5, 9 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 48, 55 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 59, 55 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 53, 46 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 46, 48 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 53, 59 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 73, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 80, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 92, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 75, 86 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 83, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 62, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 60, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 67, 75 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 60, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 80, 92 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 60, 62 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 83 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 83, 64 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 80, 73 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 62 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 64 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 60 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 73 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 60, 73 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 73, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 83, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 76, 87 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 68, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 61, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 63, 76 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 68 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 74 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 64, 63 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 61, 63 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 61, 64 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 93, 74 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 81, 93 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 61, 68 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 61 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 97, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 91, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 79, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 89, 72 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 95, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 70, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 93, 89 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 72 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 70, 72 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 79, 70 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 79, 91 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 91 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 101, 95 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 70, 91 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 91, 95 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 74, 70 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 94, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 82, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 85, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 98, 95 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 84, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 102, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 91, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 98 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 85, 91 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 85, 82 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 94 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 94 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 84 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 82, 84 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 82 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 91, 82 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 100, 90 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 92, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 80, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 73, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 88, 71 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 69, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 78, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 90, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 94, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 96, 88 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 78, 90 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 78, 69 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 69, 71 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 69, 73 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 69, 90 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 73, 71 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 24, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 29, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 22, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 14, 6 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 31, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 33, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 14 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 29 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 22, 29 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 8, 12 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 8, 2 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 33 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 33, 24 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 33, 31 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 22, 10 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 24 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 12 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 29, 31 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 33, 29 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 20, 12 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 32, 11 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 41, 28 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 42, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 12, 18 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 11, 23 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 34 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 40 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 11 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 28 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 19, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 11, 17 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 30 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 29, 35 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 7, 1 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 21, 9 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 25, 19 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 20, 18 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 32, 23 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 41, 34 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 42, 40 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 20, 17 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 32, 30 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 41, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 42, 35 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 11, 20 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 28, 32 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 38, 41 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 29, 42 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 11 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 21, 28 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 25, 38 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 11, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 29, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 19, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 20, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 32, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 41, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 42, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 21, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 25, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 22, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 18, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 23, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 34, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 40, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 13, 5 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 26, 15 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 27, 16 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 9, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 19, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 8, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 7, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 21, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 25, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 12, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 11, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 27 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 17, 4 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 30, 13 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 39, 26 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 35, 27 ],
+    "color" : "#FFFFFF"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 99, 86, 83 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 96, 92, 99 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 100, 96, 99 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 102, 100, 99 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 102, 99, 101 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 99, 93, 97 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 99, 87, 93 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 99, 92, 86 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 101, 99, 97 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 99, 83, 87 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 93, 101, 97 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 83, 93, 87 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 92, 83, 86 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 100, 96, 92 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 93, 101, 100, 92, 83 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 19, 10, 16 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 2, 1, 9, 19, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 1, 9, 5 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 2, 1, 0 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 3, 2, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 3, 1 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 2, 6 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 3, 16, 10 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 6, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 10, 6 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 3, 19, 16 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 15, 19, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 15, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 9, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 9, 15, 19 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 1, 3, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 64, 83, 77 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 83, 86, 75 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 86, 92, 75 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 92, 80 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 80, 73 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 73, 67 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 67, 60 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 75, 60, 62 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 64, 75, 62 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 77, 75, 64 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 60, 64, 62 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 60, 64, 83, 92, 73 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 92, 73, 80 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 73, 60, 67 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 77, 83, 75 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 61, 74, 93, 83, 64 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 74, 93, 81 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 81, 93, 76 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 93, 87, 76 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 83, 77 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 87, 83, 76 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 61, 74, 68 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 76, 74 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 74, 76, 68 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 61, 68 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 63, 61 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 64, 63 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 76, 77, 64 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 64, 61, 63 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 74, 89 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 74, 72, 89 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 72, 70, 89 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 70, 79 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 79, 91 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 91, 95 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 95, 101 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 89, 101, 97 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 93, 89, 97 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 74, 72, 70 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 93, 74, 70, 91 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 70, 91, 79 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 101, 95, 98 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 95, 91, 98 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 91, 85 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 85, 82 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 82, 84 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 84, 90 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 98, 90, 94 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 100, 98, 94 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 102, 98, 100 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 102, 101, 98 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 100, 94 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 96, 100 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 92, 96 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 80, 92 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 88, 73, 80 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 71, 73, 88 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 69, 71, 88 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 78, 69, 88 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 78, 88, 90 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 90, 88, 94 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 90, 69, 78 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 100, 90, 69, 73, 92 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 100, 90, 94 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 69, 71, 73 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 81, 89, 93 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 31, 33 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 33, 24 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 12, 14, 24 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 8, 14, 12 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 8, 2, 14 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 2, 6, 14 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 6, 10, 14 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 10, 22 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 14, 22, 29 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 12, 2, 8 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 33, 12, 2, 10, 29 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 33, 12, 24 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 10, 29, 22 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 29, 33, 31 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 14, 29, 31 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 12, 18 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 11, 23 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 28, 34 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 38, 40 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 12, 20, 18 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 11, 32, 23 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 28, 41, 34 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 38, 42, 40 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 11, 7 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 9, 28, 21 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 19, 38, 25 ],
+    "color" : "#7FBACA"
+  }, {
+    "vertices" : [ 20, 11, 17 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 32, 28, 30 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 41, 38, 39 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 42, 29, 35 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 20, 11, 1, 2, 12 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 32, 28, 9, 1, 11 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 41, 38, 19, 9, 28 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 42, 29, 10, 19, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 8, 12 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 7, 11 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 21, 28 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 25, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 2, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 1, 7 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 9, 21 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 19, 25 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 0, 2, 4 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 5, 1, 13 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 15, 9, 26 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 16, 19, 27 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 1, 0, 4 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 9, 5, 13 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 19, 15, 26 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 10, 16, 27 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 1, 4 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 21, 9, 13 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 25, 19, 26 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 22, 10, 27 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 4, 11 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 21, 13, 28 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 25, 26, 38 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 22, 27, 29 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 11, 4, 17 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 28, 13, 30 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 38, 26, 39 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 29, 27, 35 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 20, 17 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 32, 30 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 41, 39 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 42, 35 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 18, 20 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 13, 23, 32 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 26, 34, 41 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 27, 40, 42 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 50, 44, 47, 54, 57 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 53, 46, 37, 44, 50 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 44, 37, 36, 43, 47 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 57, 54, 56, 65, 66 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 54, 47, 43, 49, 56 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 65, 56, 49, 52, 58 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 52, 49, 43, 36, 45 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 45, 36, 37, 46, 48 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 55, 48, 46, 53, 59 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 58, 52, 45, 48, 55 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 58, 55, 59, 66, 65 ],
+    "color" : "#00FF00"
+  }, {
+    "vertices" : [ 82, 91, 101, 100, 90 ],
+    "color" : "#00FF00"
+  } ]
+}
+</ImportColoredMeshJson>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5 -8 0 0 -2 -3"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-3"/>
+    <SelectAll/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <DeselectAll/>
+    <Snapshot id="1"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title="Tetrahedron exploded">
+      <ViewModel distance="449.83441162109375" far="899.6686401367188" near="1.1245862245559692" parallel="true" stereoAngle="0.0" width="202.42555236816406">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="Dodecahedron Exploded">
+      <ViewModel distance="449.83441162109375" far="899.6686401367188" near="1.1245862245559692" parallel="true" stereoAngle="0.0" width="202.42555236816406">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="449.83441162109375" far="899.6686401367188" near="1.1245862245559692" parallel="true" stereoAngle="0.0" width="202.42555236816406">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction color="0,118,149" name="blue"/>
+    <Direction color="0,141,54" name="green"/>
+    <Direction color="255,255,255" name="80" prototype="3 -1 -6 3 0 0"/>
+    <Direction color="154,117,74" name="sand"/>
+    <Direction color="18,73,48" name="spruce"/>
+    <Direction color="175,0,0" name="red"/>
+    <Direction color="255,126,106" name="coral"/>
+    <Direction color="30,30,30" name="black"/>
+    <Direction color="117,0,50" name="maroon"/>
+    <Direction color="230,245,62" name="sulfur"/>
+    <Direction color="240,160,0" name="yellow"/>
+    <Direction color="255,51,143" name="rose"/>
+    <Direction color="18,205,148" name="turquoise"/>
+    <Direction color="116,195,0" name="apple"/>
+    <Direction color="136,37,0" name="cinnamon"/>
+    <Direction color="108,0,198" name="purple"/>
+    <Direction color="220,76,0" name="orange"/>
+    <Direction color="0,0,153" name="navy"/>
+    <Direction color="107,53,26" name="brown"/>
+    <Direction color="175,135,255" name="lavender"/>
+    <Direction color="255,255,255" name="82" prototype="45 -28 0 0 0 1"/>
+    <Direction color="255,255,255" name="81" prototype="-33 21 17 -11 -59 37"/>
+    <Direction color="100,113,0" name="olive"/>
+    <Direction color="255,255,255" name="83" prototype="-465 288 -214 133 199 -123"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,118,149" name="blue"/>
+      <Direction color="175,135,255" name="lavender"/>
+      <Direction color="18,205,148" name="turquoise"/>
+      <Direction color="30,30,30" name="black"/>
+      <Direction color="0,141,54" name="green"/>
+      <Direction color="100,113,0" name="olive"/>
+      <Direction color="117,0,50" name="maroon"/>
+      <Direction color="107,53,26" name="brown"/>
+      <Direction color="240,160,0" name="yellow"/>
+      <Direction color="175,0,0" name="red"/>
+      <Direction color="108,0,198" name="purple"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="true" id="tool-0" label="translation 0" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-1" label="translation 1" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-2" label="translation 2" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-3" label="translation 3" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>

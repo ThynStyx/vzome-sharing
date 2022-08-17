@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="80" field="golden" version="7.0">
-  <EditHistory editNumber="71" lastStickyEdit="42">
+  <EditHistory editNumber="91" lastStickyEdit="42">
     <Branch>
       <Branch>
         <StrutCreation anchor="0 0 0 0 0 0" dir="yellow" index="9" len="1 1"/>
@@ -900,7 +900,9 @@
       <polygonVertex at="0 0 -1 -1 2 3"/>
     </SelectManifestation>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
     <setItemColor blue="0" green="0" red="0"/>
     <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
@@ -955,7 +957,9 @@
       <polygonVertex at="-2 -3 0 0 -1 -1"/>
     </SelectManifestation>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectManifestation>
       <polygonVertex at="-1 -2 -1 -2 -1 -2"/>
       <polygonVertex at="-2 -3 0 0 -1 -1"/>
@@ -963,7 +967,9 @@
       <polygonVertex at="0 0 1 1 -2 -3"/>
       <polygonVertex at="0 0 -1 -1 -2 -3"/>
     </SelectManifestation>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <SelectManifestation>
       <polygonVertex at="1 1 2 3 0 0"/>
       <polygonVertex at="1 2 1 2 -1 -2"/>
@@ -971,7 +977,9 @@
       <polygonVertex at="-1 -2 1 2 -1 -2"/>
       <polygonVertex at="-1 -1 2 3 0 0"/>
     </SelectManifestation>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <Branch>
       <AdjustSelectionByClass balls="IGNORE" panels="IGNORE" struts="SELECT"/>
       <BookmarkTool name="tool-13"/>
@@ -988,7 +996,9 @@
     <SelectManifestation endSegment="2 3 0 0 1 1" startSegment="1 2 1 2 1 2"/>
     <SelectManifestation endSegment="1 2 1 2 1 2" startSegment="1 1 2 3 0 0"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation endSegment="-1 -2 1 2 -1 -2" startSegment="-2 -3 0 0 -1 -1"/>
     <SelectManifestation endSegment="-1 -1 2 3 0 0" startSegment="-1 -2 1 2 -1 -2"/>
@@ -999,12 +1009,36 @@
     <SelectManifestation endSegment="2 3 0 0 -1 -1" startSegment="1 2 1 2 -1 -2"/>
     <SelectManifestation endSegment="1 2 1 2 -1 -2" startSegment="1 1 2 3 0 0"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
     <BeginBlock/>
     <SelectManifestation endSegment="0 0 -1 -1 -2 -3" startSegment="0 0 1 1 -2 -3"/>
     <SelectManifestation endSegment="0 0 -1 -1 2 3" startSegment="0 0 1 1 2 3"/>
     <EndBlock/>
-    <Hide/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectManifestation endSegment="1 2 1 2 -1 -2" startSegment="0 0 1 1 -2 -3"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -2 1 2 -1 -2" startSegment="0 0 1 1 -2 -3"/>
+    <Delete/>
+    <SelectManifestation endSegment="-2 -3 0 0 -1 -1" startSegment="-2 -3 0 0 1 1"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -1 -1 2 3" startSegment="-1 -2 -1 -2 1 2"/>
+    <Delete/>
+    <SelectManifestation endSegment="1 2 -1 -2 1 2" startSegment="0 0 -1 -1 2 3"/>
+    <Delete/>
+    <SelectManifestation endSegment="2 3 0 0 -1 -1" startSegment="2 3 0 0 1 1"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -2 1 2 1 2" startSegment="0 0 1 1 2 3"/>
+    <Delete/>
+    <SelectManifestation endSegment="1 2 -1 -2 -1 -2" startSegment="0 0 -1 -1 -2 -3"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 -1 -1 -2 -3" startSegment="-1 -2 -1 -2 -1 -2"/>
+    <Delete/>
+    <SelectManifestation endSegment="1 2 1 2 1 2" startSegment="0 0 1 1 2 3"/>
+    <Delete/>
   </EditHistory>
   <notes>
     <page snapshot="0" title="Chiral Tetrahedrons&#10;">

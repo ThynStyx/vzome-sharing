@@ -24,3 +24,6 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
     Platonics hull vid
   </figcaption>
 </figure>
+
+[Paper model of 3D hull Video](https://github.com/ThynStyx/vzome-sharing/upload/main/2022/08/26/22-15-37-Platonics-hull-vid)
+

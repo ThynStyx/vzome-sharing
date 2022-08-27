@@ -24,3 +24,5 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
     Platonics hull vid test
   </figcaption>
 </figure>
+
+[Card model of 3D hull](https://github.com/ThynStyx/vzome-sharing/blob/main/2022/08/27/09-01-49-Platonics-hull-vid-test/Model-of-hull-from-net-clip_1.gif)

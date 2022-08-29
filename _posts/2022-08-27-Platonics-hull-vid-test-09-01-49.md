@@ -20,12 +20,12 @@ In this case, an animated gif file is rendered until the play button is clicked 
 <figure style="width: 87%; margin: 5%">
      <video width="548" height="440" name="John Kostick's Great Circle video" 
 		controls loop muted
-		poster="https://raw.githubusercontent.com/ThynStyx/vzome-sharing/main/2022/08/27/09-01-49-Platonics-hull-vid-test/Model-of-hull-from-net-clip_1.gif" >
+		poster="https://raw.githubusercontent.com/ThynStyx/vzome-sharing/main/2022/08/27/09-01-49-Platonics-hull-vid-test/John-K.gif" >
      <source src="https://raw.githubusercontent.com/ThynStyx/vzome-sharing/main/2022/08/27/09-01-49-Platonics-hull-vid-test/Four-Planes-Star.mp4">
      This browser does not support the video tag.
    </video>
   <figcaption style="text-align: center; font-style: italic;">
-    Platonics hull video
+    John K's Four Planes Star
   </figcaption>
 </figure>
 

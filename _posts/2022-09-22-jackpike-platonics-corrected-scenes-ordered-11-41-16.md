@@ -26,7 +26,6 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
   </figcaption>
 </figure>
 
-</script>
 Using the appropriate packing pieces, each of Plato's solids can be fitted into the same 3D hull.
 
 The colouring of the 3D hull is the same for each model and on loading all the models are aligned in the same way and at the same scale.

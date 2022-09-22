@@ -1,7 +1,6 @@
 ---
 title: Platonic Solids in the Golden Field
 image: https://ThynStyx.github.io/vzome-sharing/2022/09/22/11-41-16-jackpike-platonics-corrected-scenes-ordered/jackpike-platonics-corrected-scenes-ordered.png
-published: false
 layout: vzome
 description: 
  All these 5 Plato's solids exist within the same 3D convex hull and have their vertices on the same spherical surface.

@@ -34,5 +34,16 @@ layout: vzome
  </figcaption>
 </figure>
 
+<figure style="width: 87%; margin: 5%">
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://ThynStyx.github.io/vzome-sharing/2022/10/07/23-06-54-Coloured-Tesseract/Coloured-Tesseract.vZome" >
+   <img  style="width: 100%"
+      src="https://ThynStyx.github.io/vzome-sharing/2022/10/07/23-06-54-Coloured-Tesseract/Coloured-Tesseract.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+    Net for the 4D Hypercube (Tesseract)
+ </figcaption>
+</figure>
+
 In both projections all eight UNIT cubes that comprise the Hypercube in 4D space have been coloured to make them easier to identify. 
 The walls of the nearer (larger) Green cube in the perpective projection have been omitted so they do not obscure the more distant White cube.

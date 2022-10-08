@@ -13,14 +13,14 @@ layout: vzome
 {% endcomment %}
 
 <figure style="width: 87%; margin: 5%">
-  <vzome-viewer style="width: 100%; height: 60vh"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/10/02/22-37-26-4D-cube-by-cube-Hypercube/4D-cube-by-cube-Hypercube.vZome" >
-    <img  style="width: 100%"
-       src="https://ThynStyx.github.io/vzome-sharing/2022/10/02/22-37-26-4D-cube-by-cube-Hypercube/4D-cube-by-cube-Hypercube.png" >
-  </vzome-viewer>
-  <figcaption style="text-align: center; font-style: italic;">
-    Exploded Orthognal projection of a 4D Hypercube. (Cube by Cube)
-  </figcaption>
+ <vzome-viewer style="width: 100%; height: 60vh"
+      src="https://ThynStyx.github.io/vzome-sharing/2022/10/08/22-09-41-Exploded-4D-cube-by-cube-Hypercube/Exploded-4D-cube-by-cube-Hypercube.vZome" >
+   <img  style="width: 100%"
+      src="https://ThynStyx.github.io/vzome-sharing/2022/10/08/22-09-41-Exploded-4D-cube-by-cube-Hypercube/Exploded-4D-cube-by-cube-Hypercube.png" >
+ </vzome-viewer>
+ <figcaption style="text-align: center; font-style: italic;">
+   Exploded Orthognal projection of a 4D Hypercube. (Cube by Cube)
+ </figcaption>
 </figure>
 
 <figure style="width: 87%; margin: 5%">

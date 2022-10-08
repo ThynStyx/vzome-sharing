@@ -24,14 +24,14 @@ layout: vzome
 </figure>
 
 <figure style="width: 87%; margin: 5%">
- <vzome-viewer style="width: 100%; height: 60vh"
-      src="https://ThynStyx.github.io/vzome-sharing/2022/10/07/22-22-58-Coloured-hypercube-explode-8/Coloured-hypercube-explode-8.vZome" >
-   <img  style="width: 100%"
-      src="https://ThynStyx.github.io/vzome-sharing/2022/10/07/22-22-58-Coloured-hypercube-explode-8/Coloured-hypercube-explode-8.png" >
- </vzome-viewer>
- <figcaption style="text-align: center; font-style: italic;">
-    Exploded Perspective projection of a 4D Hypercube. (Cube in Cube)
- </figcaption>
+  <vzome-viewer style="width: 100%; height: 60vh"
+       src="https://ThynStyx.github.io/vzome-sharing/2022/10/08/20-40-33-Coloured-hypercube-explode-8/Coloured-hypercube-explode-8.vZome" >
+    <img  style="width: 100%"
+       src="https://ThynStyx.github.io/vzome-sharing/2022/10/08/20-40-33-Coloured-hypercube-explode-8/Coloured-hypercube-explode-8.png" >
+  </vzome-viewer>
+  <figcaption style="text-align: center; font-style: italic;">
+   Exploded Perspective projection of a 4D Hypercube. (Cube in Cube)
+  </figcaption>
 </figure>
 
 <figure style="width: 87%; margin: 5%">

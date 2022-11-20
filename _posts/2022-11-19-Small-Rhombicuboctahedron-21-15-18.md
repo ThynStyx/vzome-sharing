@@ -14,6 +14,9 @@ layout: vzome
 
 A 3D design created in vZome.  Use your mouse or touch to interact.
 
+The Small Rhobicubooctahedron is an Archimedean 
+
+
 <figure style="width: 87%; margin: 5%">
   <vzome-viewer style="width: 100%; height: 60vh"
        src="https://ThynStyx.github.io/vzome-sharing/2022/11/19/21-15-18-Small-Rhombicuboctahedron/Small-Rhombicuboctahedron.vZome" >
@@ -25,4 +28,15 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
   </figcaption>
 </figure>
 
+
+<figure style="width: 87%; margin: 5%">
+  <vzome-viewer style="width: 100%; height: 60vh"
+       src="https://ThynStyx.github.io/vzome-sharing/2022/11/19/23-05-56-Pseudo-Rhombicuboctahedron/Pseudo-Rhombicuboctahedron.vZome" >
+    <img  style="width: 100%"
+       src="https://ThynStyx.github.io/vzome-sharing/2022/11/19/23-05-56-Pseudo-Rhombicuboctahedron/Pseudo-Rhombicuboctahedron.png" >
+  </vzome-viewer>
+  <figcaption style="text-align: center; font-style: italic;">
+    Pseudo Rhombicuboctahedron
+  </figcaption>
+</figure>
 

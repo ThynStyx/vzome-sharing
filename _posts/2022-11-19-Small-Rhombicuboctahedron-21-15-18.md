@@ -24,3 +24,5 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
     Small Rhombicuboctahedron
   </figcaption>
 </figure>
+
+

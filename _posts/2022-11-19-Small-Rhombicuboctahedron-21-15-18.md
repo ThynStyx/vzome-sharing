@@ -26,7 +26,7 @@ layout: vzome
 </figure>
 
 These models have been made in the 16-gon field.
-This small rhobicuboctahedron is an Archimedean solid, it is a convex polyhedron with eight triangular and eighteen square faces. It has 24 vertices with one triangle. three squares meeting at each. 
+This small rhobicuboctahedron is an Archimedean solid, it is a convex polyhedron with eight triangular and eighteen square faces. It has 24 vertices with one triangle and three squares meeting at each. 
 
 <figure style="width: 87%; margin: 5%">
   <vzome-viewer style="width: 100%; height: 60vh"

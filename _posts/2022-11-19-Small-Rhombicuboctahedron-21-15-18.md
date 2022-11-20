@@ -2,7 +2,7 @@
 title: Small Rhombicuboctahedron
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://ThynStyx.github.io/vzome-sharing/2022/11/19/21-15-18-Small-Rhombicuboctahedron/Small-Rhombicuboctahedron.png
-published: false
+published: true
 layout: vzome
 ---
 

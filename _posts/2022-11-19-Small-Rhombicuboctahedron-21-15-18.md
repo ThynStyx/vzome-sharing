@@ -40,4 +40,4 @@ This small rhobicuboctahedron is an Archimedean solid, it is a convex polyhedron
 </figure>
 
 
-The pseudo-rhobicuboctahedron (psi-rho or elongated square gyrobicupola) is not Archimedean although it has the same combination of faces, one layer has been rotated so the end squares do not align making the triangles in two opposite layers offset from each other.
+The Johnson solid known as J37, The pseudo-rhobicuboctahedron (psi-rho or elongated square gyrobicupola) is not Archimedean solid although it has the same combination of faces, one layer has been rotated so the end squares do not align making the triangles in two opposite layers offset from each other.

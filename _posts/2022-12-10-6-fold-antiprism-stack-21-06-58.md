@@ -2,7 +2,7 @@
 title: 6 fold antiprism stack
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://ThynStyx.github.io/vzome-sharing/2022/12/10/21-06-58-6-fold-antiprism-stack/6-fold-antiprism-stack.png
-published: false
+published: true
 layout: vzome
 ---
 

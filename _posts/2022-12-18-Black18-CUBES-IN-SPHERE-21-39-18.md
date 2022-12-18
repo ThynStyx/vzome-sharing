@@ -2,7 +2,7 @@
 title: 18 CUBES IN SPHERE
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://ThynStyx.github.io/vzome-sharing/2022/12/18/21-39-18-Black18-CUBES-IN-SPHERE/Black18-CUBES-IN-SPHERE.png
-published: false
+published: true
 layout: vzome
 ---
 

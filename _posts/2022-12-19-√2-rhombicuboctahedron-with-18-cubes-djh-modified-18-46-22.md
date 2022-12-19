@@ -1,5 +1,5 @@
 ---
-title: √2 rhombicuboctahedron with 18 cubes djh modified
+title: √2 rhombicuboctahedron with 18 cubes
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
 image: https://ThynStyx.github.io/vzome-sharing/2022/12/19/18-46-22-√2-rhombicuboctahedron-with-18-cubes-djh-modified/√2-rhombicuboctahedron-with-18-cubes-djh-modified.png
 published: true
@@ -13,7 +13,7 @@ layout: vzome
 {% endcomment %}
 
 A 3D design created in vZome.  Use your mouse or touch to interact.
-
+Converted to √2 field by David Hall from an original in the Polygon16 field.
 <figure style="width: 87%; margin: 5%">
   <vzome-viewer style="width: 100%; height: 60vh"
        src="https://ThynStyx.github.io/vzome-sharing/2022/12/19/18-46-22-√2-rhombicuboctahedron-with-18-cubes-djh-modified/√2-rhombicuboctahedron-with-18-cubes-djh-modified.vZome" >
@@ -21,6 +21,6 @@ A 3D design created in vZome.  Use your mouse or touch to interact.
        src="https://ThynStyx.github.io/vzome-sharing/2022/12/19/18-46-22-√2-rhombicuboctahedron-with-18-cubes-djh-modified/√2-rhombicuboctahedron-with-18-cubes-djh-modified.png" >
   </vzome-viewer>
   <figcaption style="text-align: center; font-style: italic;">
-    √2 rhombicuboctahedron with 18 cubes djh modified
+    √2 rhombicuboctahedron with 18 cubes
   </figcaption>
 </figure>

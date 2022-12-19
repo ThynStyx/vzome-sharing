@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="10" field="rootTwo" version="7.1">
-  <EditHistory editNumber="745" lastStickyEdit="745">
+  <EditHistory editNumber="748" lastStickyEdit="748">
     <StrutCreation anchor="0 0 0 0 0 0" index="0" len="0 2" symm="octahedral"/>
     <StrutCreation anchor="0 2 0 0 0 0" index="0" len="4 0" symm="octahedral"/>
     <StrutCreation anchor="4 2 0 0 0 0" index="4" len="0 2" symm="octahedral"/>
@@ -2608,13 +2608,21 @@
     </Branch>
     <DeselectAll/>
     <Snapshot id="9"/>
+    <SelectManifestation>
+      <polygonVertex at="0 16 0 -16 32 16"/>
+      <polygonVertex at="0 -16 0 -16 32 16"/>
+      <polygonVertex at="0 -16 -32 -16 0 16"/>
+      <polygonVertex at="0 16 -32 -16 0 16"/>
+    </SelectManifestation>
+    <setItemColor blue="255" green="255" red="255"/>
+    <Snapshot id="10"/>
   </EditHistory>
   <notes>
-    <page snapshot="9" title="3D Hull ">
-      <ViewModel distance="607.212890625" far="1214.4249267578125" near="1.5180320739746094" parallel="true" stereoAngle="0.0" width="273.24603271484375">
+    <page snapshot="10" title="">
+      <ViewModel distance="726.9658813476562" far="1453.93115234375" near="1.8174149990081787" parallel="false" stereoAngle="0.0" width="327.1347351074219">
         <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-8.698971942067146E-5" y="0.9721638560295105" z="-0.23429915308952332"/>
-        <LookDirection x="-0.7841852307319641" y="-0.14545463025569916" z="-0.6032379865646362"/>
+        <UpDirection x="-0.5360167026519775" y="-0.8437668085098267" z="-0.02723557874560356"/>
+        <LookDirection x="-0.4432162344455719" y="0.30872708559036255" z="-0.8415716886520386"/>
       </ViewModel>
       <content xml:space="preserve"/>
     </page>
@@ -2625,6 +2633,14 @@
         <LookDirection x="-0.5773502588272095" y="-0.5773502588272095" z="-0.5773502588272095"/>
       </ViewModel>
       <content xml:space="preserve">Two of the nine mirrored pairs of embedded cubes are shown along with all of the balls and struts.</content>
+    </page>
+    <page snapshot="2" title="Two Cube Pairs">
+      <ViewModel distance="155.8477325439453" far="311.6954650878906" near="0.389619380235672" parallel="false" stereoAngle="0.0" width="70.1314926147461">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="-0.40824830532073975" y="0.8164966106414795" z="-0.40824830532073975"/>
+        <LookDirection x="-0.5773502588272095" y="-0.5773502588272095" z="-0.5773502588272095"/>
+      </ViewModel>
+      <content xml:space="preserve">Two of the nine mirrored pairs of embedded cubes are shown</content>
     </page>
     <page snapshot="1" title="Cube Edges">
       <ViewModel distance="155.8477325439453" far="311.6954650878906" near="0.389619380235672" parallel="false" stereoAngle="0.0" width="70.1314926147461">
@@ -2638,14 +2654,6 @@ Outer vertices are scaled by some factor from
 
 https://en.wikipedia.org/wiki/Rhombicuboctahedron#Cartesian_coordinates
 </content>
-    </page>
-    <page snapshot="2" title="Two Cube Pairs">
-      <ViewModel distance="155.8477325439453" far="311.6954650878906" near="0.389619380235672" parallel="false" stereoAngle="0.0" width="70.1314926147461">
-        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-        <UpDirection x="-0.40824830532073975" y="0.8164966106414795" z="-0.40824830532073975"/>
-        <LookDirection x="-0.5773502588272095" y="-0.5773502588272095" z="-0.5773502588272095"/>
-      </ViewModel>
-      <content xml:space="preserve">Two of the nine mirrored pairs of embedded cubes are shown</content>
     </page>
     <page snapshot="3" title="Hexagonal 2D Shadow ">
       <ViewModel distance="607.212890625" far="1214.4254150390625" near="1.518032431602478" parallel="true" stereoAngle="0.0" width="273.245849609375">
@@ -2678,10 +2686,10 @@ https://en.wikipedia.org/wiki/Rhombicuboctahedron#Cartesian_coordinates
     <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
   </sceneModel>
   <Viewing>
-    <ViewModel distance="141.01686096191406" far="282.0337219238281" near="0.3525421619415283" parallel="false" stereoAngle="0.0" width="63.45759582519531">
+    <ViewModel distance="905.8551025390625" far="1811.709228515625" near="2.2646379470825195" parallel="false" stereoAngle="0.0" width="407.6348571777344">
       <LookAtPoint x="0.0" y="0.0" z="0.0"/>
-      <UpDirection x="-0.10871607065200806" y="0.8838627934455872" z="-0.454934686422348"/>
-      <LookDirection x="-0.09761888533830643" y="-0.4649284780025482" z="-0.8799476623535156"/>
+      <UpDirection x="-0.5360167026519775" y="-0.8437668085098267" z="-0.02723557874560356"/>
+      <LookDirection x="-0.4432162344455719" y="0.30872708559036255" z="-0.8415716886520386"/>
     </ViewModel>
   </Viewing>
   <SymmetrySystem name="octahedral" renderingStyle="small octahedra">

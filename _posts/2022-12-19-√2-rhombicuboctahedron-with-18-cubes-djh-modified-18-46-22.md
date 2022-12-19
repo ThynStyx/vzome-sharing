@@ -24,3 +24,5 @@ Converted to √2 field by David Hall from an original in the Polygon16 field.
     √2 rhombicuboctahedron with 18 cubes
   </figcaption>
 </figure>
+<figure style="width: 87%; margin: 5%">
+  <vzome-viewer scene-titles="_|.." show-scenes="true" style="width: 100%; height: 60vh

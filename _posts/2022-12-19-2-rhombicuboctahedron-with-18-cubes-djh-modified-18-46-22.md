@@ -1,7 +1,7 @@
 ---
 title: √2 rhombicuboctahedron with 18 internal cubes
 description: A vZome 3D design by Jackpike translated into the √2 field by David Hall.
-image: https://ThynStyx.github.io/vzome-sharing/2022/12/19/21-48-38-2-rhombicuboctahedron-with-18-cubes-djh-modified/2-rhombicuboctahedron-with-18-cubes-djh-modified.png
+image: https://ThynStyx.github.io/vzome-sharing/2022/12/19/21-48-38-2-rhombicuboctahedron-with-18-cubes-djh-modified.png
 published: true
 layout: vzome
 

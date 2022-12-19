@@ -1,7 +1,7 @@
 ---
 title: 2 rhombicuboctahedron with 18 cubes djh modified
 description: A 3D design created in vZome.  Use your mouse or touch to interact.
-image: https://ThynStyx.github.io/vzome-sharing/2022/12/19/21-48-38-2-rhombicuboctahedron-with-18-cubes-djh-modified/2-rhombicuboctahedron-with-18-cubes-djh-modified.png
+image: https://ThynStyx.github.io/vzome-sharing/2022/12/19/21-48-38-2-rhombicuboctahedron-with-18-cubes-djh-modified.png
 published: false
 layout: vzome
 ---

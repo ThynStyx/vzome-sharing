@@ -1,0 +1,26 @@
+---
+title: Tetras from 65 Tetrahedron list
+description: A 3D design created in vZome.  Use your mouse or touch to interact. Bookmarked (From Scotts original).
+image: https://ThynStyx.github.io/vzome-sharing/2023/01/10/09-25-13-Tetras-from-65-Tetrahedron-list/Tetras-from-65-Tetrahedron-list.png
+published: true
+layout: vzome
+---
+
+{% comment %}
+ - [***web page generated from this source***](<https://ThynStyx.github.io/vzome-sharing/2023/01/10/Tetras-from-65-Tetrahedron-list-09-25-13.html>)
+ - [data assets and more info](<https://github.com/ThynStyx/vzome-sharing/tree/main/2023/01/10/09-25-13-Tetras-from-65-Tetrahedron-list/>)
+ 
+{% endcomment %}
+
+A 3D design created in vZome.  Use your mouse or touch to interact. Bookmarked (From Scotts original).
+
+<figure style="width: 87%; margin: 5%">
+  <vzome-viewer style="width: 100%; height: 60vh"
+       src="https://ThynStyx.github.io/vzome-sharing/2023/01/10/09-25-13-Tetras-from-65-Tetrahedron-list/Tetras-from-65-Tetrahedron-list.vZome" >
+    <img  style="width: 100%"
+       src="https://ThynStyx.github.io/vzome-sharing/2023/01/10/09-25-13-Tetras-from-65-Tetrahedron-list/Tetras-from-65-Tetrahedron-list.png" >
+  </vzome-viewer>
+  <figcaption style="text-align: center; font-style: italic;">
+    Tetras from 65 Tetrahedron list
+  </figcaption>
+</figure>

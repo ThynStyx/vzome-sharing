@@ -1,0 +1,1891 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="39" field="polygon20" version="7.1">
+  <EditHistory editNumber="1385" lastStickyEdit="1208">
+    <ImportColoredMeshJson scale="1 0 0 0 0 0 0 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -1, -1, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ 1, 1, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ 3, 5, 1 ] ], [ [ 1, 2, 1 ], [ 2, 3, 1 ], [ 1, 1, 1 ] ], [ [ 2, 4, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 2, 4, 1 ], [ 0, 0, 1 ], [ 4, 6, 1 ] ], [ [ 3, 5, 1 ], [ 1, 2, 1 ], [ 2, 3, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 7,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 8,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 5,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 2,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 6,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 4,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 3,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 5, 0 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 7, 2 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 8, 6 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 6, 1 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 6, 3 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#007695"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#007695"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 0, 2, 7, 8 ],
+    "color" : "#AF0000"
+  }, {
+    "vertices" : [ 4, 7, 2 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 6, 5, 8 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 6, 8, 7, 4, 3 ],
+    "color" : "#AF0000"
+  }, {
+    "vertices" : [ 1, 5, 6 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 1, 6, 3 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 1, 3, 4, 2, 0 ],
+    "color" : "#AF0000"
+  }, {
+    "vertices" : [ 1, 0, 5 ],
+    "color" : "#F0A000"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <NewCentroid/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 1 0 -1 0 1 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="-1 0 1 0 -1 0 0 0 1 0 -2 0 2 0 0 0 2 0 -3 0 3 0 0 0"/>
+    </SelectManifestation>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" dir="2" index="12" len="0 2 0 1 0 0 0 0" sense="minus" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5/2 0 3 0 -5/2 0 1 0 -1/2 0 3/2 0 -2 0 -1/2 0 5 0 -7 0 7 0 0 0"/>
+    <SelectManifestation endSegment="-5/2 0 3 0 -5/2 0 1 0 -1/2 0 3/2 0 -2 0 -1/2 0 5 0 -7 0 7 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 2 0 -3 0 3 0 0 0 1 0 -1 0 1 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <PanelCentroids/>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <PanelCentroids/>
+    <BeginBlock/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" dir="4" index="0" len="-5 0 -19/3 0 2 0 14/3 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 2 0 -3 0 3 0 0 0 1 0 -1 0 1 0 0 0"/>
+      <polygonVertex at="-1 0 1 0 -1 0 0 0 1 0 -2 0 2 0 0 0 2 0 -3 0 3 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="3 0 -5 0 5 0 0 0 1 0 -2 0 2 0 0 0 2 0 -3 0 3 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ShowNormals/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" dir="red" index="0" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 1 0 0 0 0" dir="red" index="0" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 2 0 0 0 0" dir="red" index="0" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <SelectManifestation point="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <StrutCreation anchor="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" index="6" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <StrutCreation anchor="2 2 -4 1/2 4 -1 0 -1/2 0 1/2 0 1 0 1/2 0 0 4 0 -6 0 6 0 0 0" index="4" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" index="7" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" index="10" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 3/2 0 1 0 -1 0 -1 0 -1 0 0 0 1 0 1/2 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation endSegment="0 3/2 0 1 0 -1 0 -1 0 -1 0 0 0 1 0 1/2 4 0 -6 0 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 0 -4 0 4 0 0 0 0 1 0 2 0 1 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="2 2 -4 1/2 4 -1 0 -1/2 0 1/2 0 1 0 1/2 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation endSegment="2 2 -4 1/2 4 -1 0 -1/2 0 1/2 0 1 0 1/2 0 0 4 0 -6 0 6 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="2 0 -4 0 4 0 0 0 0 1 0 2 0 1 0 0 4 0 -6 0 6 0 0 0" startSegment="2 2 -4 1/2 4 -1 0 -1/2 0 1/2 0 1 0 1/2 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 2 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 1 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 2 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 3 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 2 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" dir="red" index="0" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 3 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6 0 3 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 2 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 2 0 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 2 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 1 0 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0" index="11" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 -1/2 0 -1 0 -1/2 0 0 0 2 0 1/2 0 -1 0 -1/2 4 2 -6 1 6 0 0 0"/>
+    <SelectManifestation endSegment="0 -1/2 0 -1 0 -1/2 0 0 0 2 0 1/2 0 -1 0 -1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" index="10" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0" index="10" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" dir="red" index="0" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0" index="15" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" index="15" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 -2 0 -1 0 0 0 0 4 0 -6 0 6 0 0 0" dir="red" index="0" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0" index="10" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0"/>
+    <StrutCreation anchor="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0" index="15" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 -2 0 -1 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <StrutCreation anchor="0 -2 0 -1 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0" dir="red" index="20" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 -2 0 -1 0 0 0 0 4 0 -6 0 6 0 0 0" index="10" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 -2 0 -1 0 0 0 0 0 -2 0 -1 0 0 0 0 4 0 -6 0 6 0 0 0" index="5" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="0 -2 0 -1 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="symmetry.builtin/polygonal antiprism around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -3/2 0 1/2 0 3/2 0 1/2 0 -5/2 0 -3/2 0 1/2 0 1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 -3/2 0 1/2 0 3/2 0 1/2 0 -5/2 0 -3/2 0 1/2 0 1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation endSegment="0 -5/2 0 -1 0 2 0 3/2 0 -1/2 0 -1 0 0 0 1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -5/2 0 -1 0 2 0 3/2 0 1/2 0 1 0 0 0 -1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -3/2 0 1/2 0 3/2 0 1/2 0 5/2 0 3/2 0 -1/2 0 -1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 2 0 1 0 0 0 0 0 2 0 1 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 5/2 0 3/2 0 -1/2 0 -1/2 0 -3/2 0 1/2 0 3/2 0 1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 1/2 0 1 0 0 0 -1/2 0 -5/2 0 -1 0 2 0 3/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -1/2 0 -1 0 0 0 1/2 0 -5/2 0 -1 0 2 0 3/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -5/2 0 -3/2 0 1/2 0 1/2 0 -3/2 0 1/2 0 3/2 0 1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 0 0 0 0 2 0 1 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 3/2 0 -1/2 0 -3/2 0 -1/2 0 5/2 0 3/2 0 -1/2 0 -1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 5/2 0 1 0 -2 0 -3/2 0 1/2 0 1 0 0 0 -1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 5/2 0 1 0 -2 0 -3/2 0 -1/2 0 -1 0 0 0 1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 3/2 0 -1/2 0 -3/2 0 -1/2 0 -5/2 0 -3/2 0 1/2 0 1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -5/2 0 -3/2 0 1/2 0 1/2 0 3/2 0 -1/2 0 -3/2 0 -1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -1/2 0 -1 0 0 0 1/2 0 5/2 0 1 0 -2 0 -3/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 1/2 0 1 0 0 0 -1/2 0 5/2 0 1 0 -2 0 -3/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 5/2 0 3/2 0 -1/2 0 -1/2 0 3/2 0 -1/2 0 -3/2 0 -1/2 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 7 0 -11 0 11 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation endSegment="0 2 0 1 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 2 0 1 0 0 0 0 0 -2 0 -1 0 0 0 0 4 2 -6 1 6 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -1 0 2 0 -2 0 0 0 5 0 -8 0 8 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -1 0 2 0 -2 0 0 0 5 0 -8 0 8 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -1 0 2 0 -2 0 0 0 5 0 -8 0 8 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" dir="2" index="4" len="0 2 0 1 0 0 0 0" sense="minus" symm="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="0 -2 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 4 2 -6 1 6 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation point="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 99 1 84 -1 -259 0 136 11/3 -259 -17/3 -220 17/3 678 0 -356" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 7 0 -11 0 11 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <EndBlock/>
+    <MirrorTool name="tool-0"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -1 0 2 0 -2 0 0 0 5 0 -8 0 8 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -1 0 2 0 -2 0 0 0 5 0 -8 0 8 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -1 0 2 0 -2 0 0 0 5 0 -8 0 8 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -1 0 2 0 -2 0 0 0 5 0 -8 0 8 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <MirrorTool name="tool-1"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="false" name="tool-1" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -1 0 2 0 -2 0 0 0 5 0 -8 0 8 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <RotationTool corrected="true" full="true" name="tool-2" symmetry="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <EndBlock/>
+    <RotationTool corrected="true" name="tool-3" symmetry="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0" startSegment="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-3"/>
+    <SelectManifestation>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+      <polygonVertex at="3 0 -5 0 5 0 0 0 1 0 -2 0 2 0 0 0 2 0 -3 0 3 0 0 0"/>
+      <polygonVertex at="2 0 -4 0 4 0 0 0 0 0 0 0 0 0 0 0 4 0 -6 0 6 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 3 0 -5 0 5 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2 0 3 0 -3 0 0 0 1 0 -1 0 1 0 0 0"/>
+    </SelectManifestation>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-4"/>
+    <SelectAll originLast="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-4"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 -11/3 0 17/3 0 -17/3 0 0 0"/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" dir="2" index="20" len="0 2 0 1 0 0 0 0" sense="minus" symm="antiprism20"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0" dir="2" index="0" len="0 2 0 1 0 0 0 0" sense="minus" symm="antiprism20"/>
+    <DeselectAll/>
+    <StrutCreation anchor="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" dir="2" index="20" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 8/3 0 -4 0 4 0 0 0 4/3 0 -4/3 0 4/3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 8/3 0 -4 0 4 0 0 0 4/3 0 -4/3 0 4/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <StrutCreation anchor="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" dir="5" index="35" len="0 536 0 280 0 -407/2 0 -172" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ShowNormals/>
+    <StrutCreation anchor="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" dir="4" index="1" len="-5 0 -19/3 0 2 0 14/3 0" symm="antiprism20"/>
+    <StrutCreation anchor="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" dir="4" index="0" len="-5 0 -19/3 0 2 0 14/3 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation point="4/3 0 -8/3 0 8/3 0 0 0 7/3 0 -8/3 0 2 0 -1 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 7/3 0 -8/3 0 2 0 -1 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" dir="4" index="20" len="-5 0 -19/3 0 2 0 14/3 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -1/3 0 1 0 -1 0 0 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 -1/3 0 1 0 -1 0 0 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -1/2 2 -1 -2 0 0 1/2 2/3 5/2 -1 1 1 -2 0 -3/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -5/2 2 -3/2 -2 1/2 0 1/2 2/3 3/2 -1 -1/2 1 -3/2 0 -1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 1/2 2 1 -2 0 0 -1/2 2/3 5/2 -1 1 1 -2 0 -3/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 5/2 2 3/2 -2 -1/2 0 -1/2 2/3 3/2 -1 -1/2 1 -3/2 0 -1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 2 2 1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -3/2 2 1/2 -2 3/2 0 1/2 2/3 -5/2 -1 -3/2 1 1/2 0 1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -5/2 2 -1 -2 2 0 3/2 2/3 -1/2 -1 -1 1 0 0 1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -5/2 2 -1 -2 2 0 3/2 2/3 1/2 -1 1 1 0 0 -1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -3/2 2 1/2 -2 3/2 0 1/2 2/3 5/2 -1 3/2 1 -1/2 0 -1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 2 2 1 -2 0 0 0 2/3 2 -1 1 1 0 0 0 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 5/2 2 3/2 -2 -1/2 0 -1/2 2/3 -3/2 -1 1/2 1 3/2 0 1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 1/2 2 1 -2 0 0 -1/2 2/3 -5/2 -1 -1 1 2 0 3/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -1/2 2 -1 -2 0 0 1/2 2/3 -5/2 -1 -1 1 2 0 3/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -5/2 2 -3/2 -2 1/2 0 1/2 2/3 -3/2 -1 1/2 1 3/2 0 1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 3/2 2 -1/2 -2 -3/2 0 -1/2 2/3 5/2 -1 3/2 1 -1/2 0 -1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 5/2 2 1 -2 -2 0 -3/2 2/3 1/2 -1 1 1 0 0 -1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 5/2 2 1 -2 -2 0 -3/2 2/3 -1/2 -1 -1 1 0 0 1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 3/2 2 -1/2 -2 -3/2 0 -1/2 2/3 -5/2 -1 -3/2 1 1/2 0 1/2 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 2 -1 1 1 0 0 0 -23/3 -2 35/3 -1 -35/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -23/3 0 35/3 0 -35/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="1 -2 -2 -1 2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="2 0 -1 0 0 0 -3/2 0 -1/3 0 -1/2 0 1 0 1 0 4/3 0 -4/3 0 4/3 0 0 0"/>
+    <SelectManifestation endSegment="2 0 -1 0 0 0 -3/2 0 -1/3 0 -1/2 0 1 0 1 0 4/3 0 -4/3 0 4/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 8/3 0 -4 0 4 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0"/>
+      <polygonVertex at="-2 0 3 0 -3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+      <polygonVertex at="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="2 0 -3 0 3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 -1/3 0 1 0 -1 0 0 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -1/3 0 1 0 -1 0 0 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+      <polygonVertex at="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -1/3 0 1 0 -1 0 0 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+      <polygonVertex at="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -1/3 0 1 0 -1 0 0 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -1/3 0 1 0 -1 0 0 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 -1/3 0 1 0 -1 0 0 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <RotationTool corrected="true" full="true" name="tool-5" symmetry="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <EndBlock/>
+    <Branch>
+      <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+      <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+      <BeginBlock/>
+      <DeselectAll/>
+      <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <SelectManifestation point="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <EndBlock/>
+      <RotationTool corrected="true" full="true" name="tool-6" symmetry="antiprism20"/>
+    </Branch>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 -11/3 0 17/3 0 -17/3 0 0 0" startSegment="2 0 -3 0 3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0" dir="1" index="10" len="0 2 0 1 0 0 0 0" symm="antiprism20"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0" dir="1" index="32" len="0 2 0 1 0 0 0 0" sense="minus" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 0 1 0 -1 0 0 0 -1/3 0 0 0 0 0 0 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 1 0 -1 0 0 0 -1/3 0 0 0 0 0 0 0 4/3 0 -7/3 0 7/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0" dir="red" index="0" len="2 0 -4 0 4 0 0 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" index="7" len="2 0 -4 0 4 0 0 0" symm="octahedral"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0 0 0 0 0 0 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 4, 8, 3 ], [ -4, -8, 3 ], [ 4, 8, 3 ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 0, 1 ],
+    "color" : "#F0A000"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0 14/3 0 -8 0 8 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0 14/3 0 -8 0 8 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="4/3 0 -8/3 0 8/3 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0 14/3 0 -8 0 8 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0 0 0 0 0 0 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -3, -5, 1 ], [ 1, 2, 1 ], [ 0, -1, 1 ] ], [ [ -4, -8, 3 ], [ 4, 8, 3 ], [ -4, -8, 3 ] ], [ [ -1, -2, 1 ], [ 0, 1, 1 ], [ -3, -5, 1 ] ], [ [ 0, -1, 1 ], [ 3, 5, 1 ], [ -1, -2, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 2,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 3,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 4,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 4, 0 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#F0A000"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 3, 0, 2 ],
+    "color" : "#F7CF7F"
+  } ]
+}
+</ImportColoredMeshJson>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BookmarkTool name="tool-7"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <SelectManifestation point="4/3 0 -8/3 0 8/3 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0 14/3 0 -8 0 8 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0 0 0 0 0 0 0">{
+  "field" : "polygon20",
+  "vertices" : [ [ [ 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 1 ], [ 0, 0, 0, 0, 0, 0, 0, 0, 1 ] ], [ [ 0, -14, 0, -12, 0, 38, 0, -19, 3 ], [ 0, -4, 0, -3, 0, 10, 0, -5, 3 ], [ 0, 10, 0, 9, 0, -28, 0, 14, 3 ] ], [ [ 0, -6, 0, -5, 0, 16, 0, -8, 1 ], [ 0, 2, 0, 2, 0, -6, 0, 3, 1 ], [ 0, 8, 0, 7, 0, -22, 0, 11, 1 ] ], [ [ 0, -8, 0, -7, 0, 22, 0, -11, 1 ], [ 0, -6, 0, -5, 0, 16, 0, -8, 1 ], [ 0, 2, 0, 2, 0, -6, 0, 3, 1 ] ], [ [ 0, -10, 0, -8, 0, 26, 0, -13, 1 ], [ 0, 4, 0, 3, 0, -10, 0, 5, 1 ], [ 0, -2, 0, -1, 0, 4, 0, -2, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 4,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 3,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 2,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 4 ],
+    "color" : "#F0A000"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#FFFFFF"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#008D36"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#008D36"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 3, 0, 2 ],
+    "color" : "#F7CF7F"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0 14/3 0 -8 0 8 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0 14/3 0 -8 0 8 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" dir="4" index="0" len="-5 0 -19/3 0 2 0 14/3 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="3/2 0 -2 0 3/2 0 -1/2 0 -5/6 0 1 0 -1 0 1/2 0 4/3 0 -7/3 0 7/3 0 0 0"/>
+    <SelectManifestation endSegment="3/2 0 -2 0 3/2 0 -1/2 0 -5/6 0 1 0 -1 0 1/2 0 4/3 0 -7/3 0 7/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 -2 -2 -1 2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 -2 2 -1 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 2 -1 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 2 -1/3 1 1/3 0 0 0" startSegment="-1 -2 2 -1 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="-1 -2 2 -1 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 -2 2 -1 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-1 -2 2 -1 -2 0 0 0 2/3 -2 -1 -1 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation endSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation>
+      <polygonVertex at="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+      <polygonVertex at="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11"/>
+    </SelectManifestation>
+    <SelectManifestation point="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11"/>
+    <SelectManifestation endSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation point="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2" startSegment="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <SelectManifestation point="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation endSegment="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation point="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation endSegment="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3" startSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-8"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <SelectManifestation endSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation endSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 4/3 0 -10/3 0 10/3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 4/3 0 -10/3 0 10/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -4/3 0 3 0 -3 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -4/3 0 3 0 -3 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -4/3 0 3 0 -3 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -4/3 0 3 0 -3 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -11/3 2 17/3 1 -17/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -11/3 2 17/3 1 -17/3 0 0 0" startSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 -11/3 0 17/3 0 -17/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-9"/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-9"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 10 2 8 -2 -26 0 13 -2 -4 3 -3 -3 10 0 -5 3 2 -5 1 5 -4 0 2"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <EndBlock/>
+    <TranslationTool name="tool-10"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-10"/>
+    <BookmarkTool name="tool-11"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="antiprism20 rotation.builtin/rotate around red through origin"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation endSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2" startSegment="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 -10 0 -8 0 26 0 -13 4/3 4 -2 3 2 -10 0 5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 0 0 0 0 0 0 0 4/3 0 -2 0 2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2" startSegment="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <SelectManifestation point="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <EndBlock/>
+    <Polygon>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Polygon>
+    <SelectManifestation point="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <NewCentroid/>
+    <BeginBlock/>
+    <SelectManifestation point="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <SelectManifestation point="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation point="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5" startSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5" startSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <SelectManifestation endSegment="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <PanelCentroids/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation point="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 64/15 0 16/5 0 -32/3 0 16/3 -4/3 -64/15 2 -16/5 -2 32/3 0 -16/3 10/3 64/15 -16/3 16/5 16/3 -32/3 0 16/3"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -14/3 2 -11/3 -2 12 0 -6 10/3 2 -16/3 4/3 16/3 -14/3 0 7/3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <PanelCentroids/>
+    <BeginBlock/>
+    <SelectManifestation point="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -14/3 2 -11/3 -2 12 0 -6 10/3 2 -16/3 4/3 16/3 -14/3 0 7/3" startSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -14/3 2 -11/3 -2 12 0 -6 10/3 2 -16/3 4/3 16/3 -14/3 0 7/3" startSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <SelectManifestation endSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <EndBlock/>
+    <StrutIntersection/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -14/3 2 -11/3 -2 12 0 -6 10/3 2 -16/3 4/3 16/3 -14/3 0 7/3" startSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <SelectManifestation endSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation point="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -14/3 2 -11/3 -2 12 0 -6 10/3 2 -16/3 4/3 16/3 -14/3 0 7/3"/>
+    <SelectManifestation point="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-11" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -14/3 2 -11/3 -2 12 0 -6 10/3 2 -16/3 4/3 16/3 -14/3 0 7/3"/>
+    <SelectManifestation point="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1"/>
+    <SelectManifestation endSegment="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12" startSegment="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1"/>
+    <SelectManifestation>
+      <polygonVertex at="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4"/>
+      <polygonVertex at="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1"/>
+      <polygonVertex at="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12"/>
+    </SelectManifestation>
+    <SelectManifestation point="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12"/>
+    <SelectManifestation endSegment="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12" startSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation endSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1" startSegment="-1 28/3 -1 7 0 -70/3 0 35/3 -1 -22/3 -1 -17/3 0 56/3 0 -28/3 0 14/3 0 10/3 0 -34/3 0 17/3"/>
+    <SelectManifestation endSegment="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4" startSegment="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12"/>
+    <SelectManifestation endSegment="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1" startSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation endSegment="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4" startSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation point="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation point="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4"/>
+    <SelectManifestation endSegment="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1" startSegment="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4"/>
+    <SelectManifestation point="-1 28/3 -1 7 0 -70/3 0 35/3 -1 -22/3 -1 -17/3 0 56/3 0 -28/3 0 14/3 0 10/3 0 -34/3 0 17/3"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 -2/3 0 2/3 0 -2/3 0 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0 0 0 0 0 0 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -4, -8, 3 ], [ 4, 8, 3 ], [ -4, -8, 3 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ ],
+  "struts" : [ {
+    "vertices" : [ 1, 0 ],
+    "color" : "#F0A000"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" dir="5" index="20" len="-70/3 0 -94/3 0 14/3 0 18 0" symm="antiprism20"/>
+    <SelectManifestation point="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <StrutCreation anchor="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3" dir="5" index="20" len="-70/3 0 -94/3 0 14/3 0 18 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation point="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation endSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11" startSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+    <SelectManifestation endSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation point="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <SelectManifestation point="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11"/>
+    <SelectManifestation>
+      <polygonVertex at="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+      <polygonVertex at="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3" startSegment="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11"/>
+    <SelectManifestation>
+      <polygonVertex at="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+      <polygonVertex at="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11"/>
+    </SelectManifestation>
+    <SelectManifestation point="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3"/>
+    <SelectManifestation endSegment="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0" startSegment="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale up"/>
+    <BookmarkTool name="tool-12"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="3 -1 -5 0 5 2 0 0 -1 1/3 2 0 -2 -1 0 0 0 -2 -1 0 1 17/3 0 0"/>
+    <SelectManifestation point="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3"/>
+    <EndBlock/>
+    <TranslationTool name="tool-13"/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-13"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3"/>
+    <SelectManifestation point="7/3 -14/3 -11/3 -4 11/3 38/3 0 -19/3 1 -4/3 -4/3 -1 4/3 10/3 0 -5/3 4 10/3 -19/3 3 19/3 -28/3 0 14/3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3" startSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation>
+      <polygonVertex at="1 -8 -2 -7 2 22 0 -11 -2/3 -6 1 -5 -1 16 0 -8 11/3 2 -17/3 2 17/3 -6 0 3"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 -2/3 0 1 0 -1 0 0 0 11/3 0 -17/3 0 17/3 0 0 0"/>
+      <polygonVertex at="1 -6 -2 -5 2 16 0 -8 -2/3 2 1 2 -1 -6 0 3 11/3 8 -17/3 7 17/3 -22 0 11"/>
+    </SelectManifestation>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4/3 -14/3 -8/3 -4 8/3 38/3 0 -19/3 -2 -4/3 8/3 -1 -8/3 10/3 0 -5/3 2 10/3 -10/3 3 10/3 -28/3 0 14/3" startSegment="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3"/>
+    <SelectManifestation point="4/3 -14/3 -8/3 -4 8/3 38/3 0 -19/3 -2 -4/3 8/3 -1 -8/3 10/3 0 -5/3 2 10/3 -10/3 3 10/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="7/3 -14/3 -11/3 -4 11/3 38/3 0 -19/3 1 -4/3 -4/3 -1 4/3 10/3 0 -5/3 4 10/3 -19/3 3 19/3 -28/3 0 14/3" startSegment="4/3 -14/3 -8/3 -4 8/3 38/3 0 -19/3 -2 -4/3 8/3 -1 -8/3 10/3 0 -5/3 2 10/3 -10/3 3 10/3 -28/3 0 14/3"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="4/3 -14/3 -8/3 -4 8/3 38/3 0 -19/3 -2 -4/3 8/3 -1 -8/3 10/3 0 -5/3 2 10/3 -10/3 3 10/3 -28/3 0 14/3" startSegment="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3"/>
+    <SelectManifestation point="4/3 -14/3 -8/3 -4 8/3 38/3 0 -19/3 -2 -4/3 8/3 -1 -8/3 10/3 0 -5/3 2 10/3 -10/3 3 10/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="7/3 -14/3 -11/3 -4 11/3 38/3 0 -19/3 1 -4/3 -4/3 -1 4/3 10/3 0 -5/3 4 10/3 -19/3 3 19/3 -28/3 0 14/3" startSegment="4/3 -14/3 -8/3 -4 8/3 38/3 0 -19/3 -2 -4/3 8/3 -1 -8/3 10/3 0 -5/3 2 10/3 -10/3 3 10/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="4/3 -14/3 -8/3 -4 8/3 38/3 0 -19/3 -2 -4/3 8/3 -1 -8/3 10/3 0 -5/3 2 10/3 -10/3 3 10/3 -28/3 0 14/3" startSegment="-2/3 -14/3 1/3 -4 -1/3 38/3 0 -19/3 -1 -4/3 5/3 -1 -5/3 10/3 0 -5/3 5 10/3 -22/3 3 22/3 -28/3 0 14/3"/>
+    <SelectManifestation point="-2/3 -14/3 1/3 -4 -1/3 38/3 0 -19/3 -1 -4/3 5/3 -1 -5/3 10/3 0 -5/3 5 10/3 -22/3 3 22/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="-2/3 -14/3 1/3 -4 -1/3 38/3 0 -19/3 -1 -4/3 5/3 -1 -5/3 10/3 0 -5/3 5 10/3 -22/3 3 22/3 -28/3 0 14/3" startSegment="7/3 -14/3 -11/3 -4 11/3 38/3 0 -19/3 1 -4/3 -4/3 -1 4/3 10/3 0 -5/3 4 10/3 -19/3 3 19/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3" startSegment="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <SelectManifestation point="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="-2/3 -14/3 1/3 -4 -1/3 38/3 0 -19/3 -1 -4/3 5/3 -1 -5/3 10/3 0 -5/3 5 10/3 -22/3 3 22/3 -28/3 0 14/3" startSegment="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3"/>
+    <SelectManifestation point="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3" startSegment="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <SelectManifestation point="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3" startSegment="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <SelectManifestation point="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3"/>
+    <SelectManifestation point="7/3 -14/3 -11/3 -4 11/3 38/3 0 -19/3 1 -4/3 -4/3 -1 4/3 10/3 0 -5/3 4 10/3 -19/3 3 19/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="7/3 -14/3 -11/3 -4 11/3 38/3 0 -19/3 1 -4/3 -4/3 -1 4/3 10/3 0 -5/3 4 10/3 -19/3 3 19/3 -28/3 0 14/3" startSegment="7/3 -14/3 -14/3 -4 14/3 38/3 0 -19/3 -2 -4/3 11/3 -1 -11/3 10/3 0 -5/3 5 10/3 -25/3 3 25/3 -28/3 0 14/3"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="scaling.builtin/scale down"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2" startSegment="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <SelectManifestation endSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2" startSegment="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-14"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="1 -10 -2 -8 2 26 0 -13 -2/3 4 1 3 -1 -10 0 5 11/3 -2 -17/3 -1 17/3 4 0 -2" startSegment="1 -14/3 -2 -4 2 38/3 0 -19/3 -2/3 -4/3 1 -1 -1 10/3 0 -5/3 11/3 10/3 -17/3 3 17/3 -28/3 0 14/3"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0"/>
+    <SelectManifestation point="5/3 -25/3 -13/3 -8 13/3 70/3 0 -38/3 -3 -3 16/3 -2 -16/3 23/3 0 -10/3 10 26/3 -47/3 6 47/3 -73/3 0 28/3"/>
+    <EndBlock/>
+    <Delete/>
+    <StrutCreation anchor="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" dir="5" index="20" len="-70/3 0 -94/3 0 14/3 0 18 0" symm="antiprism20"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="0 -10 0 -8 0 26 0 -13 4/3 4 -2 3 2 -10 0 5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 -2 0 -1 0 4 0 -2 4/3 10 -2 8 2 -26 0 13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <SelectManifestation point="0 -10 0 -8 0 26 0 -13 4/3 4 -2 3 2 -10 0 5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <SelectManifestation endSegment="0 -10 0 -8 0 26 0 -13 4/3 4 -2 3 2 -10 0 5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 0 0 0 0 0 0 0 4/3 0 -2 0 2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -14/3 2 -11/3 -2 12 0 -6 10/3 2 -16/3 4/3 16/3 -14/3 0 7/3"/>
+    <SelectManifestation>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation>
+      <polygonVertex at="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+      <polygonVertex at="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    </SelectManifestation>
+    <Delete/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <Delete/>
+    <SelectManifestation point="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 10 0 8 0 -26 0 13 -4/3 -4 2 -3 -2 10 0 -5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <Delete/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <Delete/>
+    <SelectManifestation point="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 16/3 0 4 0 -40/3 0 20/3 -4/3 -16/3 2 -4 -2 40/3 0 -20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 4 0 3 0 -10 0 5 -4/3 -4 2 -3 -2 10 0 -5 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5" startSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <Delete/>
+    <SelectManifestation point="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 2 0 1 0 -4 0 2 -4/3 -10 2 -8 -2 26 0 -13 10/3 4 -16/3 3 16/3 -10 0 5" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 4 0 3 0 -10 0 5 -4/3 -2 2 -1 -2 4 0 -2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 4 0 -2 4/3 10 -2 8 2 -26 0 13 10/3 4 -16/3 3 16/3 -10 0 5" startSegment="0 0 0 0 0 0 0 0 4/3 0 -2 0 2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 4/3 0 -2 0 2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -10 0 -8 0 26 0 -13 4/3 4 -2 3 2 -10 0 5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 0 0 0 0 0 0 0 4/3 0 -2 0 2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 4/3 0 -2 0 2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0" startSegment="0 -16/3 0 -4 0 40/3 0 -20/3 4/3 16/3 -2 4 2 -40/3 0 20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -4 0 -3 0 10 0 -5 4/3 2 -2 1 2 -4 0 2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 0 0 0 0 0 0 0 4/3 0 -2 0 2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <Delete/>
+    <SelectManifestation point="0 -2 0 -1 0 4 0 -2 4/3 10 -2 8 2 -26 0 13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <Delete/>
+    <SelectManifestation point="55/3 2/3 -23 1 19 -8/3 -19/3 4/3 14/3 10/3 -6 8/3 5 -26/3 -5/3 13/3 -41/3 -44/3 17 -37/3 -14 118/3 14/3 -59/3"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -2 0 -1 0 4 0 -2 4/3 10 -2 8 2 -26 0 13 10/3 4 -16/3 3 16/3 -10 0 5" startSegment="0 -4 0 -3 0 10 0 -5 4/3 2 -2 1 2 -4 0 2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <Delete/>
+    <SelectManifestation>
+      <polygonVertex at="0 -2 0 -1 0 4 0 -2 4/3 10 -2 8 2 -26 0 13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+      <polygonVertex at="0 -10 0 -8 0 26 0 -13 4/3 4 -2 3 2 -10 0 5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+      <polygonVertex at="0 -4 0 -3 0 10 0 -5 4/3 2 -2 1 2 -4 0 2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    </SelectManifestation>
+    <Delete/>
+    <SelectManifestation endSegment="0 -10 0 -8 0 26 0 -13 4/3 4 -2 3 2 -10 0 5 10/3 2 -16/3 1 16/3 -4 0 2" startSegment="0 -2 0 -1 0 4 0 -2 4/3 10 -2 8 2 -26 0 13 10/3 4 -16/3 3 16/3 -10 0 5"/>
+    <Delete/>
+    <SelectManifestation point="0 -16/3 0 -4 0 40/3 0 -20/3 4/3 16/3 -2 4 2 -40/3 0 20/3 10/3 16/3 -16/3 4 16/3 -40/3 0 20/3"/>
+    <Delete/>
+    <SelectManifestation point="0 -10 0 -8 0 26 0 -13 4/3 4 -2 3 2 -10 0 5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <Delete/>
+    <SelectManifestation endSegment="0 -4 0 -3 0 10 0 -5 4/3 2 -2 1 2 -4 0 2 10/3 10 -16/3 8 16/3 -26 0 13" startSegment="0 -10 0 -8 0 26 0 -13 4/3 4 -2 3 2 -10 0 5 10/3 2 -16/3 1 16/3 -4 0 2"/>
+    <Delete/>
+    <SelectManifestation endSegment="55/3 2/3 -23 1 19 -8/3 -19/3 4/3 14/3 10/3 -6 8/3 5 -26/3 -5/3 13/3 -41/3 -44/3 17 -37/3 -14 118/3 14/3 -59/3" startSegment="55/3 -28/3 -23 -7 19 70/3 -19/3 -35/3 14/3 22/3 -6 17/3 5 -56/3 -5/3 28/3 -41/3 -50/3 17 -40/3 -14 130/3 14/3 -65/3"/>
+    <ShowVertices/>
+    <SelectManifestation endSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" startSegment="0 0 0 0 0 0 0 0 -4/3 0 2 0 -2 0 0 0 10/3 0 -16/3 0 16/3 0 0 0"/>
+    <ShowVertices/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation endSegment="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1" startSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation endSegment="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12" startSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation endSegment="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12" startSegment="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1"/>
+    <DeselectAll/>
+    <SelectManifestation point="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation endSegment="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12" startSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation endSegment="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1" startSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation endSegment="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4" startSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1"/>
+    <SelectManifestation endSegment="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4" startSegment="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12"/>
+    <SelectManifestation point="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12"/>
+    <SelectManifestation endSegment="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12" startSegment="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4"/>
+    <SelectManifestation endSegment="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1" startSegment="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4"/>
+    <SelectManifestation endSegment="-1 4 -1 3 0 -10 0 5 -1 -2 -1 -5/3 0 16/3 0 -8/3 0 -2/3 0 -2/3 0 2 0 -1" startSegment="-1 28/3 -1 7 0 -70/3 0 35/3 -1 -22/3 -1 -17/3 0 56/3 0 -28/3 0 14/3 0 10/3 0 -34/3 0 17/3"/>
+    <SelectManifestation point="-1 28/3 -1 7 0 -70/3 0 35/3 -1 -22/3 -1 -17/3 0 56/3 0 -28/3 0 14/3 0 10/3 0 -34/3 0 17/3"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectManifestation point="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1"/>
+    <Delete/>
+    <SelectManifestation>
+      <polygonVertex at="-1 6 -1 4 0 -14 0 7 -1 -12 -1 -29/3 0 94/3 0 -47/3 0 10/3 0 7/3 0 -8 0 4"/>
+      <polygonVertex at="-1 14 -1 11 0 -36 0 18 -1 -6 -1 -14/3 0 46/3 0 -23/3 0 4/3 0 1/3 0 -2 0 1"/>
+      <polygonVertex at="-1 8 -1 6 0 -20 0 10 -1 -4 -1 -8/3 0 28/3 0 -14/3 0 28/3 0 22/3 0 -24 0 12"/>
+    </SelectManifestation>
+    <Delete/>
+    <SelectManifestation point="0 -4 0 -3 0 10 0 -5 4/3 2 -2 1 2 -4 0 2 10/3 10 -16/3 8 16/3 -26 0 13"/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="55/3 -4 -23 -3 19 10 -19/3 -5 14/3 2 -6 5/3 5 -16/3 -5/3 8/3 -41/3 -34/3 17 -28/3 -14 30 14/3 -15"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-15"/>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-15"/>
+    <BookmarkTool name="tool-16"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-17"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <EndBlock/>
+    <StrutCreation anchor="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15" dir="5" index="33" len="-70/3 0 -94/3 0 14/3 0 18 0" symm="antiprism20"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <BookmarkTool name="tool-18"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectAll originLast="true"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <DeselectAll/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 8/3 0 -4 0 4 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0"/>
+      <polygonVertex at="-2 0 3 0 -3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+      <polygonVertex at="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="2 0 -3 0 3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 8/3 0 -4 0 4 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0"/>
+      <polygonVertex at="-2 0 3 0 -3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+      <polygonVertex at="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="2 0 -3 0 3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 8/3 0 -4 0 4 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0"/>
+      <polygonVertex at="-2 0 3 0 -3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+      <polygonVertex at="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="2 0 -3 0 3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 0 0 0 0 0 0 0 8/3 0 -4 0 4 0 0 0 -8/3 0 14/3 0 -14/3 0 0 0"/>
+      <polygonVertex at="-2 0 3 0 -3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+      <polygonVertex at="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="1 0 -2 0 2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0"/>
+      <polygonVertex at="2 0 -3 0 3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <SelectManifestation point="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-2 0 3 0 -3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-2 0 3 0 -3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+    <SelectManifestation endSegment="-1 0 2 0 -2 0 0 0 2/3 0 -1 0 1 0 0 0 1/3 0 -1/3 0 1/3 0 0 0" startSegment="-2 0 3 0 -3 0 0 0 5/3 0 -3 0 3 0 0 0 -5/3 0 8/3 0 -8/3 0 0 0"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <SelectManifestation endSegment="-55/3 4 71/3 3 -61/3 -10 17/3 5 -22/3 -2 28/3 -5/3 -23/3 16/3 7/3 -8/3 15 34/3 -59/3 28/3 50/3 -30 -14/3 15" startSegment="-55/3 4 23 3 -19 -10 19/3 5 -14/3 -2 6 -5/3 -5 16/3 5/3 -8/3 41/3 34/3 -17 28/3 14 -30 -14/3 15"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation endSegment="4/3 0 -8/3 0 8/3 0 0 0 -4/3 0 8/3 0 -8/3 0 0 0 4/3 0 -8/3 0 8/3 0 0 0" startSegment="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="0"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="113.1686782836914" far="226.33709716796875" near="0.2829216718673706" parallel="true" stereoAngle="0.0" width="50.92588424682617">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.31757181882858276" y="-0.4774533808231354" z="0.8192598223686218"/>
+      <LookDirection x="0.5153481364250183" y="0.8121513724327087" z="0.27354466915130615"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="antiprism20" renderingStyle="octahedral">
+    <Direction color="255,255,255" name="7" orbit="[[0,0,0,0,0,0,0,0,1],[1,0,0,0,0,0,0,0,1]]" prototype="1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0 0 0"/>
+    <Direction color="255,255,255" name="8" orbit="[[27,0,153,0,-11,0,-73,0,41],[74,0,64,0,-18,0,-30,0,41]]" prototype="14 0 -18 0 15 0 -5 0 23/3 0 -29/3 0 8 0 -8/3 0 3 0 -11/3 0 3 0 -1 0"/>
+    <Direction color="255,255,255" name="9" orbit="[[0,0,0,0,0,0,0,0,1],[2,0,1,0,-1,0,0,0,1]]" prototype="0 0 0 0 0 0 0 0 46/3 0 -58/3 0 16 0 -16/3 0 6 0 -22/3 0 6 0 -2 0"/>
+    <Direction color="240,160,0" name="yellow" orbit="[[1,0,-3,0,3,0,-1,0,1],[-8,0,8,0,-6,0,2,0,1]]"/>
+    <Direction color="255,255,255" name="3" orbit="[[0,0,0,0,0,0,0,0,1],[-1,0,-1,0,1,0,0,0,1]]" prototype="0 0 0 0 0 0 0 0 20332 0 -25620 0 21122 0 -7278 0 12566 0 -15834 0 13054 0 -4498 0"/>
+    <Direction color="255,255,255" name="4" orbit="[[0,0,0,0,0,0,0,0,1],[1,0,-1,0,1,0,0,0,1]]" prototype="0 0 0 0 0 0 0 0 -7766 0 9786 0 -8068 0 2780 0 20332 0 -25620 0 21122 0 -7278 0"/>
+    <Direction color="255,255,255" name="5" orbit="[[1,0,-3,0,3,0,-1,0,1],[2,0,-2,0,1,0,0,0,1]]" prototype="12566 0 -15834 0 13054 0 -4498 0 12566 0 -15834 0 13054 0 -4498 0 -12566 0 15834 0 -13054 0 4498 0"/>
+    <Direction color="255,255,255" name="6" orbit="[[-23,0,11,0,-13,0,9,0,19],[0,0,0,0,0,0,0,0,1]]" prototype="20332 0 -25620 0 21122 0 -7278 0 -12566 0 15834 0 -13054 0 4498 0 0 0 0 0 0 0 0 0"/>
+    <Direction color="0,141,54" name="green" orbit="[[1,0,-3,0,3,0,-1,0,1],[0,0,0,0,0,0,0,0,1]]"/>
+    <Direction color="255,255,255" name="16" orbit="[[1,0,-49,0,13,0,15,0,59],[0,0,0,0,0,0,0,0,1]]" prototype="0 41268 0 35104 0 -108040 0 56800 0 108040 0 91904 0 -282852 0 148704 0 0 0 0 0 0 0 0"/>
+    <Direction color="0,118,149" name="blue" orbit="[[0,0,0,0,0,0,0,0,1],[0,0,0,0,0,0,0,0,1]]"/>
+    <Direction color="255,255,255" name="17" orbit="[[-1,0,-15,0,15,0,0,0,239],[226,0,-195,0,195,0,0,0,239]]" prototype="14/15 0 -6/5 0 1 0 -1/3 0 -149/15 0 61/5 0 -10 0 10/3 0 -331/15 0 139/5 0 -23 0 23/3 0"/>
+    <Direction color="255,255,255" name="18" orbit="[[-14,0,-15,0,15,0,0,0,239],[421,0,195,0,-195,0,0,0,239]]" prototype="-331/15 0 139/5 0 -23 0 23/3 0 -14/15 0 6/5 0 -1 0 1/3 0 149/15 0 -61/5 0 10 0 -10/3 0"/>
+    <Direction color="255,255,255" name="12" orbit="[[5,0,3,0,-3,0,0,0,1],[2,0,1,0,-1,0,0,0,1]]" prototype="0 15 0 12 0 -38 0 20 0 -99 0 -84 0 259 0 -136 0 38 0 32 0 -99 0 52"/>
+    <Direction color="255,255,255" name="0" orbit="[[1,0,-49,0,13,0,15,0,59],[16,0,42,0,-28,0,4,0,59]]" prototype="0 61 0 52 0 -160 0 84 0 23 0 20 0 -61 0 32 0 -38 0 -32 0 99 0 -52"/>
+    <Direction color="255,255,255" name="13" orbit="[[1,0,-49,0,13,0,15,0,59],[-108,0,-18,0,12,0,32,0,59]]" prototype="0 -61 0 -52 0 160 0 -84 0 23 0 20 0 -61 0 32 0 84 0 72 0 -221 0 116"/>
+    <Direction color="255,255,255" name="1" orbit="[[-23,0,11,0,-13,0,9,0,19],[22,0,-32,0,24,0,-2,0,19]]" prototype="0 -23 0 -20 0 61 0 -32 0 38 0 32 0 -99 0 52 0 -61 0 -52 0 160 0 -84"/>
+    <Direction color="255,255,255" name="14" orbit="[[-127,0,-177,0,17,0,99,0,1],[28,0,40,0,-4,0,-22,0,1]]" prototype="0 -23 0 -20 0 61 0 -32 0 -84 0 -72 0 221 0 -116 0 -61 0 -52 0 160 0 -84"/>
+    <Direction color="175,0,0" name="red" orbit="red"/>
+    <Direction color="255,255,255" name="2" orbit="[[-23,0,11,0,-13,0,9,0,19],[2,0,4,0,16,0,-14,0,19]]" prototype="0 38 0 32 0 -99 0 52 0 61 0 52 0 -160 0 84 0 23 0 20 0 -61 0 32"/>
+    <Direction color="255,255,255" name="15" orbit="[[-57,0,-3,0,41,0,-21,0,5],[-38,0,-12,0,34,0,-14,0,5]]" prototype="0 84 0 72 0 -221 0 116 0 61 0 52 0 -160 0 84 0 -23 0 -20 0 61 0 -32"/>
+    <Direction color="255,255,255" name="10" orbit="[[1,0,-49,0,13,0,15,0,59],[-140,0,-102,0,68,0,24,0,59]]" prototype="0 99 0 84 0 -259 0 136 0 -38 0 -32 0 99 0 -52 0 15 0 12 0 -38 0 20"/>
+    <Direction color="255,255,255" name="11" orbit="[[1,0,-49,0,13,0,15,0,59],[-76,0,66,0,-44,0,40,0,59]]" prototype="0 38 0 32 0 -99 0 52 0 -15 0 -12 0 38 0 -20 0 99 0 84 0 -259 0 136"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+      <Direction color="0,118,149" name="blue" orbit="[[0,0,0,0,0,0,0,0,1],[0,0,0,0,0,0,0,0,1]]"/>
+      <Direction color="255,255,255" name="0" orbit="[[0,0,2,0,0,0,-1,0,2],[2,0,-1,0,-2,0,2,0,2]]" prototype="0 -41 0 -35 0 215/2 0 -113/2 0 -33/2 0 -29/2 0 44 0 -23 0 -61 0 -52 0 160 0 -84"/>
+      <Direction color="0,141,54" name="green" orbit="[[0,0,0,0,0,0,0,0,1],[-1,0,0,0,0,0,0,0,1]]"/>
+      <Direction color="240,160,0" name="yellow" orbit="[[1,0,0,0,0,0,0,0,1],[-1,0,0,0,0,0,0,0,1]]"/>
+      <Direction color="255,255,255" name="2" orbit="[[-1,0,-1,0,1,0,0,0,1],[2,0,1,0,-1,0,0,0,1]]" prototype="0 38 0 32 0 -99 0 52 0 61 0 52 0 -160 0 84 0 23 0 20 0 -61 0 32"/>
+      <Direction color="255,255,255" name="1" orbit="[[0,0,0,0,0,0,0,0,1],[2,0,1,0,-1,0,0,0,1]]" prototype="0 0 0 0 0 0 0 0 0 122/3 0 104/3 0 -320/3 0 56 0 -320/3 0 -272/3 0 838/3 0 -440/3"/>
+      <Direction color="255,255,255" name="4" orbit="[[0,0,0,0,0,0,0,0,1],[-1,0,-1,0,1,0,0,0,1]]" prototype="0 0 0 0 0 0 0 0 20332 0 -25620 0 21122 0 -7278 0 12566 0 -15834 0 13054 0 -4498 0"/>
+      <Direction color="255,255,255" name="3" orbit="[[-1,0,-1,0,1,0,0,0,3],[0,0,-1,0,1,0,0,0,3]]" prototype="-14 0 18 0 -15 0 5 0 23/3 0 -29/3 0 8 0 -8/3 0 3 0 -11/3 0 3 0 -1 0"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="false" deleteInputs="false" id="tool-0" label="mirror 0" selectInputs="true"/>
+    <Tool copyColors="false" deleteInputs="false" id="tool-1" label="mirror 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-10" label="translation 10" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-11" label="bookmark 11" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-12" label="bookmark 12" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-13" label="translation 13" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-14" label="Tetra rotated" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-15" label="translation 15" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-16" label="Moved Tetra" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-17" label="Moved Tetra" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-18" label="Moved Tetra" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-2" label="axial symmetry 2" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-3" label="rotation 3" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-4" label="translation 4" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-5" label="axial symmetry 5" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="axial symmetry 6" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="bookmark 7" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-8" label="bookmark 8" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-9" label="translation 9" selectInputs="false"/>
+  </Tools>
+</vzome:vZome>

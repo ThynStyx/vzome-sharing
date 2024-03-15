@@ -8,6 +8,7 @@ layout: design
 ---
 
   <vzome-viewer style="width: 100%; height: 60vh"
+  show-perspective="false"
        src="https://ThynStyx.github.io/vzome-sharing/2024/03/15/17-24-09-Cluster_Tile_1_1_-orientation/Cluster_Tile_1_1_-orientation.vZome" >
     <img  style="width: 100%"
        src="https://ThynStyx.github.io/vzome-sharing/2024/03/15/17-24-09-Cluster_Tile_1_1_-orientation/Cluster_Tile_1_1_-orientation.png" >

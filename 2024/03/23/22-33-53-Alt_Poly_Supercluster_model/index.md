@@ -1,0 +1,16 @@
+---
+title: ''
+subtitle: Alt_Poly_Supercluster_model
+share-title: Alt_Poly_Supercluster_model
+share-description: An interactive 3D view, shared from vZome
+image: https://ThynStyx.github.io/vzome-sharing/2024/03/23/22-33-53-Alt_Poly_Supercluster_model/Alt_Poly_Supercluster_model.png
+layout: design
+---
+
+  <vzome-viewer style="width: 100%; height: 60vh"
+       src="https://ThynStyx.github.io/vzome-sharing/2024/03/23/22-33-53-Alt_Poly_Supercluster_model/Alt_Poly_Supercluster_model.vZome" >
+    <img  style="width: 100%"
+       src="https://ThynStyx.github.io/vzome-sharing/2024/03/23/22-33-53-Alt_Poly_Supercluster_model/Alt_Poly_Supercluster_model.png" >
+  </vzome-viewer>
+
+[Source folder](<https://github.com/ThynStyx/vzome-sharing/tree/main/2024/03/23/22-33-53-Alt_Poly_Supercluster_model/>)

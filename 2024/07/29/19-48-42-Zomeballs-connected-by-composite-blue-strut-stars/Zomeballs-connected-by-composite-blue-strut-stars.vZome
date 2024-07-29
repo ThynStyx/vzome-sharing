@@ -1,0 +1,558 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="71" field="golden" version="7.1">
+  <EditHistory editNumber="427" lastStickyEdit="427">
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ -2, -3, 1 ], [ 1, 1, 1 ], [ 1, 2, 1 ] ], [ [ -1, -2, 1 ], [ 2, 3, 1 ], [ -1, -1, 1 ] ], [ [ -1, -1, 1 ], [ -1, -2, 1 ], [ 2, 3, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 1, 1, 1 ], [ 1, 2, 1 ], [ -2, -3, 1 ] ], [ [ 1, 2, 1 ], [ -2, -3, 1 ], [ 1, 1, 1 ] ], [ [ 2, 3, 1 ], [ -1, -1, 1 ], [ -1, -2, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 5,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 6,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 2,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 4,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 0,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 1,
+    "color" : "#FFFFFF"
+  }, {
+    "vertex" : 3,
+    "color" : "#000000"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 5, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 2, 0, 1, 4, 6 ],
+    "color" : "#FFD98C"
+  } ]
+}
+</ImportColoredMeshJson>
+    <ApplyTool copyColors="true" name="icosahedral.builtin/icosahedral around origin" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-2 -3 1 1 -1 -2" startSegment="-1 -1 -1 -2 -2 -3"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <SelectAll originLast="true"/>
+    <ConvexHull3d mode="onlyPanels"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 2 4"/>
+    <SelectManifestation point="1 1 -1 -2 2 3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 -1 -2 2 3"/>
+    <SelectManifestation point="2 3 -1 -1 1 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 1 1 1 2"/>
+    <SelectManifestation point="2 3 -1 -1 1 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 1 1 1 2"/>
+    <SelectManifestation point="1 1 1 2 2 3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 1 2 2 3"/>
+    <SelectManifestation point="0 0 0 0 2 4"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <SelectManifestation point="0 0 0 0 2 4"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 2 4"/>
+    <SelectManifestation point="-1 -1 -1 -2 2 3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 -1 -2 2 3"/>
+    <SelectManifestation point="-1 -1 -1 -2 2 3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 -1 -2 2 3"/>
+    <SelectManifestation point="1 2 -2 -3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 -2 -3 1 1"/>
+    <SelectManifestation point="0 0 -2 -4 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -2 -4 0 0"/>
+    <SelectManifestation point="-1 -2 -2 -3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -1 -1 -2 2 3"/>
+    <SelectManifestation point="-1 -2 -2 -3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 -1 -1 1 2"/>
+    <SelectManifestation point="-1 -1 -1 -2 2 3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <SelectManifestation point="-2 -3 1 1 1 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 1 1 1 2"/>
+    <SelectManifestation point="-2 -3 -1 -1 1 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 -1 -1 1 2"/>
+    <SelectManifestation point="-1 -2 -2 -3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 -1 -1 1 2"/>
+    <SelectManifestation point="-2 -4 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 -2 -3 1 1"/>
+    <SelectManifestation point="-1 -2 -2 -3 -1 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -2 -4 0 0"/>
+    <SelectManifestation point="-1 -2 -2 -3 -1 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 -2 -3 -1 -1"/>
+    <SelectManifestation point="-2 -3 -1 -1 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -4 0 0 0 0"/>
+    <SelectManifestation point="-2 -3 -1 -1 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 1 1 -1 -2"/>
+    <SelectManifestation point="-2 -3 -1 -1 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 -1 -1 -1 -2"/>
+    <SelectManifestation point="-1 -1 -1 -2 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 -2 -3 -1 -1"/>
+    <SelectManifestation point="-1 -1 -1 -2 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -1 -1 -2 -2 -3"/>
+    <SelectManifestation point="1 1 -1 -2 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 -2 -3 -1 -1"/>
+    <SelectManifestation point="1 1 -1 -2 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 -2 -4 0 0"/>
+    <SelectManifestation point="1 2 -2 -3 -1 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -2 -4"/>
+    <SelectManifestation point="-1 -1 -1 -2 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -1 1 2 -2 -3"/>
+    <SelectManifestation point="0 0 0 0 -2 -4"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 1 1 -1 -2"/>
+    <SelectManifestation point="-1 -1 1 2 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 -2 -4"/>
+    <SelectManifestation point="1 1 -1 -2 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 -1 -2 -2 -3"/>
+    <SelectManifestation point="2 3 -1 -1 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 1 1 -1 -2"/>
+    <SelectManifestation point="2 3 -1 -1 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 1 2 -2 -3"/>
+    <SelectManifestation point="0 0 0 0 -2 -4"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -1 1 2 -2 -3"/>
+    <SelectManifestation point="1 1 1 2 -2 -3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -1 1 2 -2 -3"/>
+    <SelectManifestation point="-1 -2 2 3 -1 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 1 1 -1 -2"/>
+    <SelectManifestation point="-1 -2 2 3 -1 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 2 3 -1 -1"/>
+    <SelectManifestation point="0 0 2 4 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 2 3 -1 -1"/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -3 1 1 1 2"/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation point="0 0 2 4 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -4 0 0 0 0"/>
+    <SelectManifestation point="-2 -3 1 1 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-2 -4 0 0 0 0"/>
+    <SelectManifestation point="-2 -3 1 1 1 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 2 3 -1 -1"/>
+    <SelectManifestation point="0 0 2 4 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 2 4 0 0"/>
+    <SelectManifestation point="1 2 2 3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 2 3 -1 -1"/>
+    <SelectManifestation point="1 2 2 3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 2 3 1 1"/>
+    <SelectManifestation point="2 3 1 1 1 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 2 3 1 1"/>
+    <SelectManifestation point="1 1 1 2 2 3"/>
+    <DeselectAll/>
+    <SelectManifestation point="1 2 2 3 -1 -1"/>
+    <SelectManifestation point="2 3 1 1 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="2 4 0 0 0 0"/>
+    <SelectManifestation point="2 3 1 1 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 1 1 1 2"/>
+    <SelectManifestation point="2 4 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 2 3 1 1"/>
+    <SelectManifestation point="1 1 1 2 2 3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <SelectManifestation point="1 1 1 2 2 3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-1 -2 2 3 1 1"/>
+    <SelectManifestation point="-1 -1 1 2 2 3"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 -1 -1 -1 -2"/>
+    <SelectManifestation point="2 4 0 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 4 0 0 0 0"/>
+    <SelectManifestation point="2 3 -1 -1 1 2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 -1 -1 1 2"/>
+    <SelectManifestation point="1 2 -2 -3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 2 -2 -3 -1 -1"/>
+    <SelectManifestation point="1 2 -2 -3 1 1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="2 3 -1 -1 -1 -2"/>
+    <SelectManifestation point="1 2 -2 -3 -1 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="1 1 1 2 -2 -3"/>
+    <SelectManifestation point="1 2 2 3 -1 -1"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="1 1 1 2 -2 -3"/>
+    <SelectManifestation point="2 3 1 1 -1 -2"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-2 -3 1 1 1 2" startSegment="0 0 0 0 2 4"/>
+    <SelectManifestation endSegment="-2 -3 1 1 1 2" startSegment="-1 -1 -1 -2 2 3"/>
+    <SelectManifestation endSegment="-2 -3 -1 -1 1 2" startSegment="-1 -1 1 2 2 3"/>
+    <SelectManifestation endSegment="-1 -1 1 2 2 3" startSegment="-1 -1 -1 -2 2 3"/>
+    <SelectManifestation endSegment="0 0 0 0 2 4" startSegment="-2 -3 -1 -1 1 2"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -2 2 3 1 1" startSegment="1 2 2 3 1 1"/>
+    <SelectManifestation endSegment="-1 -1 1 2 2 3" startSegment="0 0 2 4 0 0"/>
+    <SelectManifestation endSegment="1 1 1 2 2 3" startSegment="-1 -2 2 3 1 1"/>
+    <SelectManifestation endSegment="1 2 2 3 1 1" startSegment="-1 -1 1 2 2 3"/>
+    <SelectManifestation endSegment="0 0 2 4 0 0" startSegment="1 1 1 2 2 3"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 1 -1 -2 2 3" startSegment="1 1 1 2 2 3"/>
+    <SelectManifestation endSegment="0 0 0 0 2 4" startSegment="2 3 1 1 1 2"/>
+    <SelectManifestation endSegment="2 3 -1 -1 1 2" startSegment="0 0 0 0 2 4"/>
+    <SelectManifestation endSegment="2 3 1 1 1 2" startSegment="1 1 -1 -2 2 3"/>
+    <SelectManifestation endSegment="1 1 1 2 2 3" startSegment="2 3 -1 -1 1 2"/>
+    <EndBlock/>
+    <setItemColor blue="204" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -1 -1 -2 2 3" startSegment="1 2 -2 -3 1 1"/>
+    <SelectManifestation endSegment="0 0 -2 -4 0 0" startSegment="-1 -1 -1 -2 2 3"/>
+    <SelectManifestation endSegment="-1 -2 -2 -3 1 1" startSegment="1 1 -1 -2 2 3"/>
+    <SelectManifestation endSegment="1 2 -2 -3 1 1" startSegment="-1 -2 -2 -3 1 1"/>
+    <SelectManifestation endSegment="1 1 -1 -2 2 3" startSegment="0 0 -2 -4 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="204" red="51"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 -3 -1 -1 -1 -2" startSegment="-2 -3 -1 -1 1 2"/>
+    <SelectManifestation endSegment="-2 -4 0 0 0 0" startSegment="-1 -2 -2 -3 1 1"/>
+    <SelectManifestation endSegment="-1 -2 -2 -3 -1 -1" startSegment="-2 -4 0 0 0 0"/>
+    <SelectManifestation endSegment="-2 -3 -1 -1 1 2" startSegment="-1 -2 -2 -3 -1 -1"/>
+    <SelectManifestation endSegment="-1 -2 -2 -3 1 1" startSegment="-2 -3 -1 -1 -1 -2"/>
+    <EndBlock/>
+    <setItemColor blue="204" green="102" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 2 -2 -3 -1 -1" startSegment="2 3 -1 -1 1 2"/>
+    <SelectManifestation endSegment="1 2 -2 -3 1 1" startSegment="2 4 0 0 0 0"/>
+    <SelectManifestation endSegment="2 3 -1 -1 -1 -2" startSegment="1 2 -2 -3 1 1"/>
+    <SelectManifestation endSegment="2 3 -1 -1 1 2" startSegment="2 3 -1 -1 -1 -2"/>
+    <SelectManifestation endSegment="2 4 0 0 0 0" startSegment="1 2 -2 -3 -1 -1"/>
+    <EndBlock/>
+    <setItemColor blue="102" green="102" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-1 -1 -1 -2 -2 -3" startSegment="0 0 -2 -4 0 0"/>
+    <SelectManifestation endSegment="0 0 -2 -4 0 0" startSegment="1 1 -1 -2 -2 -3"/>
+    <SelectManifestation endSegment="-1 -2 -2 -3 -1 -1" startSegment="1 2 -2 -3 -1 -1"/>
+    <SelectManifestation endSegment="1 1 -1 -2 -2 -3" startSegment="-1 -2 -2 -3 -1 -1"/>
+    <SelectManifestation endSegment="1 2 -2 -3 -1 -1" startSegment="-1 -1 -1 -2 -2 -3"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="255" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="2 3 1 1 1 2" startSegment="1 2 2 3 -1 -1"/>
+    <SelectManifestation endSegment="2 4 0 0 0 0" startSegment="1 2 2 3 1 1"/>
+    <SelectManifestation endSegment="2 3 1 1 -1 -2" startSegment="2 3 1 1 1 2"/>
+    <SelectManifestation endSegment="1 2 2 3 1 1" startSegment="2 3 1 1 -1 -2"/>
+    <SelectManifestation endSegment="1 2 2 3 -1 -1" startSegment="2 4 0 0 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="153" green="153" red="255"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="1 1 1 2 -2 -3" startSegment="2 3 -1 -1 -1 -2"/>
+    <SelectManifestation endSegment="0 0 0 0 -2 -4" startSegment="2 3 -1 -1 -1 -2"/>
+    <SelectManifestation endSegment="1 1 -1 -2 -2 -3" startSegment="2 3 1 1 -1 -2"/>
+    <SelectManifestation endSegment="1 1 1 2 -2 -3" startSegment="1 1 -1 -2 -2 -3"/>
+    <SelectManifestation endSegment="2 3 1 1 -1 -2" startSegment="0 0 0 0 -2 -4"/>
+    <EndBlock/>
+    <setItemColor blue="102" green="255" red="102"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-2 -3 1 1 -1 -2" startSegment="-1 -2 2 3 1 1"/>
+    <SelectManifestation endSegment="-2 -4 0 0 0 0" startSegment="-1 -2 2 3 -1 -1"/>
+    <SelectManifestation endSegment="-1 -2 2 3 -1 -1" startSegment="-2 -3 1 1 1 2"/>
+    <SelectManifestation endSegment="-1 -2 2 3 1 1" startSegment="-2 -4 0 0 0 0"/>
+    <SelectManifestation endSegment="-2 -3 1 1 1 2" startSegment="-2 -3 1 1 -1 -2"/>
+    <EndBlock/>
+    <setItemColor blue="255" green="255" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="0 0 0 0 -2 -4" startSegment="-2 -3 1 1 -1 -2"/>
+    <SelectManifestation endSegment="-2 -3 -1 -1 -1 -2" startSegment="0 0 0 0 -2 -4"/>
+    <SelectManifestation endSegment="-1 -1 -1 -2 -2 -3" startSegment="-1 -1 1 2 -2 -3"/>
+    <SelectManifestation endSegment="-2 -3 1 1 -1 -2" startSegment="-1 -1 -1 -2 -2 -3"/>
+    <SelectManifestation endSegment="-1 -1 1 2 -2 -3" startSegment="-2 -3 -1 -1 -1 -2"/>
+    <EndBlock/>
+    <setItemColor blue="102" green="102" red="255"/>
+    <AdjustSelectionByOrbitLength length="2 4" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <Hide/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByOrbitLength length="2 2" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <EndBlock/>
+    <Hide/>
+    <ShowHidden/>
+    <DeselectAll/>
+    <Snapshot id="0"/>
+    <AdjustSelectionByOrbitLength length="2 2" orbit="blue" panels="IGNORE" struts="SELECT" symmetry="icosahedral"/>
+    <Hide/>
+    <Snapshot id="1"/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <Hide/>
+    <Snapshot id="2"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title="B1 Stars and B0 Struts">
+      <ViewModel distance="90.81999206542969" far="181.63990783691406" near="0.2270500659942627" parallel="true" stereoAngle="0.0" width="40.868988037109375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="B1 stars only">
+      <ViewModel distance="90.81999206542969" far="181.63990783691406" near="0.2270500659942627" parallel="true" stereoAngle="0.0" width="40.868988037109375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve">Using standard zomeballs and Stars made from 5 B1 struts 3D printed
+</content>
+    </page>
+    <page snapshot="2" title="Panel free Icosidodecahedron">
+      <ViewModel distance="90.81999206542969" far="181.63990783691406" near="0.2270500659942627" parallel="true" stereoAngle="0.0" width="40.868988037109375">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve">Constructed from 30 balls and 12 stars made from 5 composite B1 struts each.</content>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="90.81999206542969" far="181.63990783691406" near="0.2270500659942627" parallel="true" stereoAngle="0.0" width="40.868988037109375">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="printable">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>

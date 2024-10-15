@@ -1,0 +1,1502 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="75" field="rootThree" version="7.1">
+  <EditHistory editNumber="411" lastStickyEdit="411">
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -54, -27, 2 ], [ -27, 0, 2 ], [ 0, 0, 1 ] ], [ [ -54, -27, 2 ], [ 27, 0, 2 ], [ 0, 0, 1 ] ], [ [ -27, -27, 2 ], [ -27, -27, 2 ], [ 0, 0, 1 ] ], [ [ -27, -27, 2 ], [ 27, 27, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 2 ], [ -54, -27, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 2 ], [ 54, 27, 2 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 2 ], [ -54, -27, 2 ], [ 0, 0, 1 ] ], [ [ 27, 0, 2 ], [ 54, 27, 2 ], [ 0, 0, 1 ] ], [ [ 0, 27, 2 ], [ -27, 0, 2 ], [ 0, 0, 1 ] ], [ [ 27, 27, 2 ], [ -27, -27, 2 ], [ 0, 0, 1 ] ], [ [ 27, 27, 2 ], [ 27, 27, 2 ], [ 0, 0, 1 ] ], [ [ 54, 27, 2 ], [ -27, 0, 2 ], [ 0, 0, 1 ] ], [ [ 54, 27, 2 ], [ 27, 0, 2 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 6,
+    "color" : "#000000"
+  }, {
+    "vertex" : 11,
+    "color" : "#000000"
+  }, {
+    "vertex" : 4,
+    "color" : "#000000"
+  }, {
+    "vertex" : 7,
+    "color" : "#000000"
+  }, {
+    "vertex" : 14,
+    "color" : "#000000"
+  }, {
+    "vertex" : 12,
+    "color" : "#000000"
+  }, {
+    "vertex" : 0,
+    "color" : "#660066"
+  }, {
+    "vertex" : 3,
+    "color" : "#000000"
+  }, {
+    "vertex" : 10,
+    "color" : "#000000"
+  }, {
+    "vertex" : 15,
+    "color" : "#000000"
+  }, {
+    "vertex" : 9,
+    "color" : "#000000"
+  }, {
+    "vertex" : 1,
+    "color" : "#000000"
+  }, {
+    "vertex" : 2,
+    "color" : "#000000"
+  }, {
+    "vertex" : 13,
+    "color" : "#000000"
+  }, {
+    "vertex" : 5,
+    "color" : "#000000"
+  }, {
+    "vertex" : 8,
+    "color" : "#000000"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 6, 8 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 8, 11 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 8, 4 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 7, 6 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 11, 14 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 11, 12 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 10, 7 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 7, 14 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 12, 14 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 14, 15 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 9, 12 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 0, 12 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 13, 10 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 15, 13 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 5, 9 ],
+    "color" : "#000000"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#000000"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 2, 0, 12, 9 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 0, 12, 11, 8, 4 ],
+    "color" : "#00CC00"
+  }, {
+    "vertices" : [ 3, 7, 6, 8, 4, 0, 1 ],
+    "color" : "#660066"
+  }, {
+    "vertices" : [ 11, 14, 12 ],
+    "color" : "#009999"
+  }, {
+    "vertices" : [ 7, 6, 8, 11, 14 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 7, 10, 13, 15, 14 ],
+    "color" : "#990099"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="27/2 27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <BeginBlock/>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <DeselectAll/>
+    <ShowHidden/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <AdjustSelectionByClass balls="IGNORE" originLast="true" panels="SELECT" struts="IGNORE"/>
+    <EndBlock/>
+    <Branch>
+      <Hide>
+        <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+      </Hide>
+      <BeginBlock/>
+      <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+      <DeselectAll/>
+      <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+      <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+      <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+      <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="27/2 27/2 -27/2 -27/2 0 0"/>
+      <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+      <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+      <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+      <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+      <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+      <DeselectAll/>
+      <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+      <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+      <EndBlock/>
+      <TranslationTool name="tool-0"/>
+      <Branch>
+        <BeginBlock/>
+        <DeselectAll/>
+        <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+        <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+        <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+        <DeselectAll/>
+        <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+        <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+        <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+        <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+        <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+        <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="27/2 27/2 -27/2 -27/2 0 0"/>
+        <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+        <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+        <EndBlock/>
+        <ApplyTool copyColors="true" name="tool-0"/>
+        <DeselectAll/>
+        <ShowHidden/>
+        <BeginBlock/>
+        <DeselectAll/>
+        <SelectManifestation>
+          <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+        </SelectManifestation>
+        <SelectManifestation>
+          <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+        </SelectManifestation>
+        <SelectManifestation>
+          <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+        </SelectManifestation>
+        <DeselectAll/>
+        <SelectManifestation>
+          <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+        </SelectManifestation>
+        <DeselectAll/>
+        <SelectManifestation>
+          <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+        </SelectManifestation>
+        <EndBlock/>
+        <ApplyTool copyColors="true" name="tool-0"/>
+        <BeginBlock/>
+        <SelectManifestation>
+          <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+        </SelectManifestation>
+        <DeselectAll/>
+        <SelectManifestation>
+          <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+        </SelectManifestation>
+        <EndBlock/>
+        <Delete/>
+        <Branch>
+          <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="27/2 27/2 -27/2 -27/2 0 0"/>
+          <Delete/>
+          <BeginBlock/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="27/2 27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="27 27/2 27/2 0 0 0"/>
+            <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation endSegment="-27/2 0 27 27/2 0 0" startSegment="27/2 0 27 27/2 0 0"/>
+          <SelectManifestation point="27/2 0 27 27/2 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation endSegment="-27/2 0 27 27/2 0 0" startSegment="27/2 0 27 27/2 0 0"/>
+          <SelectManifestation point="27/2 0 27 27/2 0 0"/>
+          <SelectManifestation endSegment="27/2 0 27 27/2 0 0" startSegment="27/2 27/2 27/2 27/2 0 0"/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="27/2 27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="27 27/2 27/2 0 0 0"/>
+            <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation endSegment="27/2 27/2 27/2 27/2 0 0" startSegment="27 27/2 27/2 0 0 0"/>
+          <SelectManifestation point="27/2 27/2 27/2 27/2 0 0"/>
+          <SelectManifestation point="27 27/2 27/2 0 0 0"/>
+          <SelectManifestation endSegment="27 27/2 27/2 0 0 0" startSegment="27 27/2 -27/2 0 0 0"/>
+          <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+          <EndBlock/>
+          <BookmarkTool name="tool-1"/>
+          <BeginBlock/>
+          <SelectManifestation point="27/2 27/2 27/2 27/2 0 0"/>
+          <SelectManifestation point="27/2 27/2 27/2 27/2 0 0"/>
+          <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation point="27/2 27/2 27/2 27/2 0 0"/>
+          <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+          <EndBlock/>
+          <TranslationTool name="tool-2"/>
+          <ApplyTool copyColors="true" name="tool-1" selectInputs="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-2"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <BookmarkTool name="tool-3"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+          <SelectManifestation>
+            <polygonVertex at="-27 -27 27 27 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 27 0 0"/>
+            <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27/2 -27/2 -27/2 27/2 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <DeselectAll/>
+          <SelectManifestation>
+            <polygonVertex at="-27 -27 27 27 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 27 0 0"/>
+            <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27/2 -27/2 -27/2 27/2 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation endSegment="-27 -27/2 27/2 0 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+          <EndBlock/>
+          <ShowVertices/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+          <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+          <EndBlock/>
+          <TranslationTool name="tool-4"/>
+          <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-4"/>
+          <DeselectAll/>
+          <Snapshot id="0"/>
+          <BeginBlock/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="-27 0 0 0 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+          </SelectManifestation>
+          <DeselectAll/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="-27 0 0 0 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+          </SelectManifestation>
+          <DeselectAll/>
+          <SelectManifestation endSegment="-27/2 0 0 27/2 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+          <SelectManifestation point="-27/2 0 0 27/2 0 0"/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation endSegment="0 0 0 0 0 0" startSegment="-27/2 0 0 27/2 0 0"/>
+          <SelectManifestation point="0 0 0 0 0 0"/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="-27 0 0 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="-27 0 0 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation endSegment="0 27/2 -27/2 0 0 0" startSegment="0 0 0 0 0 0"/>
+          <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+          <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+          <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+          <EndBlock/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <BeginBlock/>
+          <SelectManifestation point="-27 0 0 0 0 0"/>
+          <SelectManifestation point="-27 0 0 0 0 0"/>
+          <SelectManifestation point="-81/2 -27/2 27/2 27/2 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation point="-27 0 0 0 0 0"/>
+          <SelectManifestation point="-81/2 -27/2 27/2 27/2 0 0"/>
+          <EndBlock/>
+          <TranslationTool name="tool-5"/>
+          <DeselectAll/>
+          <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <BookmarkTool name="tool-6"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="-27/2 27/2 27/2 27/2 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation point="-81/2 -27/2 27/2 27/2 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation point="-27/2 27/2 27/2 27/2 0 0"/>
+          <SelectManifestation point="-81/2 -27/2 27/2 27/2 0 0"/>
+          <EndBlock/>
+          <TranslationTool name="tool-7"/>
+          <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-7"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+          </SelectManifestation>
+          <EndBlock/>
+          <Delete/>
+          <BeginBlock/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="-27 0 0 0 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+          </SelectManifestation>
+          <DeselectAll/>
+          <SelectManifestation endSegment="0 27/2 27/2 0 0 0" startSegment="0 0 0 0 0 0"/>
+          <SelectManifestation point="0 27/2 27/2 0 0 0"/>
+          <SelectManifestation endSegment="27/2 27/2 27/2 27/2 0 0" startSegment="0 27/2 27/2 0 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation endSegment="0 27/2 27/2 0 0 0" startSegment="0 0 0 0 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation endSegment="0 27/2 27/2 0 0 0" startSegment="0 0 0 0 0 0"/>
+          <SelectManifestation point="0 27/2 27/2 0 0 0"/>
+          <SelectManifestation endSegment="27/2 27/2 27/2 27/2 0 0" startSegment="0 27/2 27/2 0 0 0"/>
+          <SelectManifestation endSegment="27/2 27/2 27/2 27/2 0 0" startSegment="-27 -27/2 27/2 0 0 0"/>
+          <EndBlock/>
+          <Delete/>
+          <SelectManifestation>
+            <polygonVertex at="0 0 27 27 0 0"/>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+          </SelectManifestation>
+          <setItemColor blue="0" green="255" red="255"/>
+          <Snapshot id="1"/>
+          <BeginBlock/>
+          <SelectManifestation point="0 0 0 0 0 0"/>
+          <SelectManifestation endSegment="-27 0 0 0 0 0" startSegment="0 0 0 0 0 0"/>
+          <SelectManifestation point="-27 0 0 0 0 0"/>
+          <SelectManifestation endSegment="-27 -27/2 -27/2 0 0 0" startSegment="-27 0 0 0 0 0"/>
+          <SelectManifestation>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+            <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="-27 0 0 0 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation>
+            <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+            <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation>
+            <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+            <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+          <EndBlock/>
+          <BookmarkTool name="tool-8"/>
+          <ShowVertices/>
+          <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+          <BookmarkTool name="tool-9"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <BookmarkTool name="tool-10"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="0 0 0 0 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="-27 0 0 0 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+          </SelectManifestation>
+          <EndBlock/>
+          <ShowVertices/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="0 0 0 0 0 0"/>
+          <SelectManifestation point="-27/2 0 0 27/2 0 0"/>
+          <EndBlock/>
+          <TranslationTool name="tool-11"/>
+          <ApplyTool copyColors="true" name="tool-10" selectInputs="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-11"/>
+          <DeselectAll/>
+          <Snapshot id="2"/>
+          <BeginBlock/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+            <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+            <polygonVertex at="0 0 0 0 0 0"/>
+            <polygonVertex at="-27 0 0 0 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+          </SelectManifestation>
+          <DeselectAll/>
+          <SelectManifestation endSegment="-27 0 0 0 0 0" startSegment="-27 -27/2 27/2 0 0 0"/>
+          <EndBlock/>
+          <Delete/>
+          <BeginBlock/>
+          <SelectManifestation point="-27 -27/2 -27/2 0 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 -27 -27/2 0 0"/>
+            <polygonVertex at="-27/2 -27/2 -27/2 -27/2 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+            <polygonVertex at="27/2 0 -27 -27/2 0 0"/>
+          </SelectManifestation>
+          <EndBlock/>
+          <PanelPerimeters/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation>
+            <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+            <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation>
+            <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+            <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+            <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation point="-27 -27/2 -27/2 0 0 0"/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 -27 -27/2 0 0"/>
+            <polygonVertex at="-27/2 -27/2 -27/2 -27/2 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+            <polygonVertex at="27/2 0 -27 -27/2 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation point="-27/2 -27/2 -27/2 -27/2 0 0"/>
+          <DeselectAll/>
+          <SelectManifestation point="27/2 0 -27 -27/2 0 0"/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectNeighbors/>
+          <SelectManifestation endSegment="-27/2 -27/2 -27/2 -27/2 0 0" startSegment="-27 -27/2 -27/2 0 0 0"/>
+          <SelectManifestation point="-27/2 -27/2 -27/2 -27/2 0 0"/>
+          <SelectManifestation endSegment="-27/2 0 -27 -27/2 0 0" startSegment="-27/2 -27/2 -27/2 -27/2 0 0"/>
+          <SelectManifestation>
+            <polygonVertex at="-27/2 0 -27 -27/2 0 0"/>
+            <polygonVertex at="-27/2 -27/2 -27/2 -27/2 0 0"/>
+            <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+            <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+            <polygonVertex at="27/2 0 -27 -27/2 0 0"/>
+          </SelectManifestation>
+          <SelectManifestation endSegment="-27/2 0 -27 -27/2 0 0" startSegment="-27/2 -27/2 -27/2 -27/2 0 0"/>
+          <EndBlock/>
+          <BookmarkTool name="tool-12"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+          <BookmarkTool name="tool-13"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+          <SelectManifestation point="-27 0 0 0 0 0"/>
+          <EndBlock/>
+          <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+          <DeselectAll/>
+          <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+          <BeginBlock/>
+          <DeselectAll/>
+          <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+          <SelectManifestation point="-27 0 0 0 0 0"/>
+          <EndBlock/>
+          <TranslationTool name="tool-14"/>
+          <ApplyTool copyColors="true" name="tool-13" selectInputs="true"/>
+          <ApplyTool copyColors="true" deleteInputs="true" name="tool-14"/>
+          <DeselectAll/>
+          <Snapshot id="3"/>
+        </Branch>
+        <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="27/2 27/2 -27/2 -27/2 0 0"/>
+        <Delete/>
+        <Snapshot id="4"/>
+      </Branch>
+    </Branch>
+    <DeselectAll/>
+    <Snapshot id="5"/>
+    <Snapshot id="6"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="27/2 27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="27/2 27/2 -27/2 -27/2 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <Snapshot id="7"/>
+    <BeginBlock/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation endSegment="-27/2 0 27 27/2 0 0" startSegment="27/2 0 27 27/2 0 0"/>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="27/2 27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="27 27/2 27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation endSegment="-27/2 0 27 27/2 0 0" startSegment="27/2 0 27 27/2 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="27/2 27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="27 27/2 27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation point="27/2 0 27 27/2 0 0"/>
+    <SelectManifestation endSegment="27/2 0 27 27/2 0 0" startSegment="27/2 27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="27/2 27/2 27/2 27/2 0 0"/>
+    <SelectManifestation endSegment="27/2 27/2 27/2 27/2 0 0" startSegment="27 27/2 27/2 0 0 0"/>
+    <SelectManifestation point="27 27/2 27/2 0 0 0"/>
+    <SelectManifestation endSegment="27 27/2 27/2 0 0 0" startSegment="27 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <BookmarkTool name="tool-15"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="27/2 27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-81/2 -27/2 27/2 27/2 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-16"/>
+    <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-16"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-27 -27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="-27/2 0 27 27/2 0 0" startSegment="-27/2 -27/2 27/2 27/2 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation endSegment="-27/2 0 27 27/2 0 0" startSegment="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <Snapshot id="8"/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 -27 -27/2 0 0"/>
+      <polygonVertex at="-27/2 -27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="27/2 0 -27 -27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="-27/2 -27/2 -27/2 -27/2 0 0" startSegment="-27 -27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="-27/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation endSegment="-27/2 0 -27 -27/2 0 0" startSegment="-27/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation point="-27/2 0 -27 -27/2 0 0"/>
+    <SelectManifestation endSegment="27/2 0 -27 -27/2 0 0" startSegment="-27/2 0 -27 -27/2 0 0"/>
+    <SelectManifestation point="27/2 0 -27 -27/2 0 0"/>
+    <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="27/2 0 -27 -27/2 0 0"/>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="-27 -27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 -27 -27/2 0 0"/>
+      <polygonVertex at="-27/2 -27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="27/2 0 -27 -27/2 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 -27 -27/2 0 0"/>
+      <polygonVertex at="-27/2 -27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="27/2 0 -27 -27/2 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="255"/>
+    <Snapshot id="9"/>
+    <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <BookmarkTool name="tool-17"/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="-81/2 -27/2 27/2 27/2 0 0" startSegment="-81/2 -27 -27 -27/2 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="-81/2 -27 -27 -27/2 0 0"/>
+      <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="-27 -27/2 -27/2 0 0 0" startSegment="-81/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation point="-81/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation endSegment="-81/2 -27/2 -27/2 -27/2 0 0" startSegment="-81/2 -27 -27 -27/2 0 0"/>
+    <SelectManifestation point="-81/2 -27 -27 -27/2 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="27/2 27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-81/2 -27/2 27/2 27/2 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-18"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-18"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-81/2 -27 27 27/2 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-81/2 -27 27 27/2 0 0"/>
+    <SelectManifestation endSegment="-81/2 -27 27 27/2 0 0" startSegment="-81/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation point="-81/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation endSegment="-27 -27/2 -27/2 0 0 0" startSegment="-81/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation point="-27 -27/2 -27/2 0 0 0"/>
+    <SelectManifestation endSegment="-27 -27/2 27/2 0 0 0" startSegment="-27 -27/2 -27/2 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="-27 -27/2 27/2 0 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+    <SelectManifestation point="-81/2 -27/2 27/2 27/2 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+      <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+    </SelectManifestation>
+    <setItemColor blue="153" green="0" red="153"/>
+    <Snapshot id="10"/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <Delete/>
+    <SelectManifestation endSegment="-27/2 0 0 27/2 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation point="-27/2 0 0 27/2 0 0"/>
+    <SelectManifestation point="-27/2 0 0 27/2 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="dodecagonal rotation.builtin/rotate around red through origin"/>
+    <BookmarkTool name="tool-19"/>
+    <BeginBlock/>
+    <SelectManifestation point="-27/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation point="-27/2 -27/2 -27/2 -27/2 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-27/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation point="-81/2 -27 27 27/2 0 0"/>
+    <EndBlock/>
+    <TranslationTool name="tool-20"/>
+    <ApplyTool copyColors="true" name="tool-19" selectInputs="true"/>
+    <ApplyTool copyColors="true" deleteInputs="true" name="tool-20"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-81/2 -27 27 27/2 0 0"/>
+    <SelectManifestation endSegment="-81/2 -27 27 27/2 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+      <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="-81/2 -27 27 27/2 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-81/2 -27 27 27/2 0 0"/>
+    <SelectManifestation endSegment="-81/2 -27 27 27/2 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-81/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation endSegment="-27/2 -27/2 27/2 27/2 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation endSegment="-27/2 0 27 27/2 0 0" startSegment="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation endSegment="0 0 27 27 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation point="0 0 27 27 0 0"/>
+    <SelectManifestation endSegment="0 0 27 27 0 0" startSegment="-81/2 -27 27 27/2 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-27 -27/2 27/2 0 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+    <EndBlock/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+    <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <SelectManifestation endSegment="-27 -27/2 -27/2 0 0 0" startSegment="-27 0 0 0 0 0"/>
+    <ShowVertices/>
+    <JoinPoints closedLoop="false"/>
+    <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+    <ShowVertices/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-27 -27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-81/2 -27 27 27/2 0 0"/>
+    <SelectManifestation endSegment="0 0 27 27 0 0" startSegment="-81/2 -27 27 27/2 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+      <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 27/2 0 0 0"/>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+      <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="-81/2 -27 27 27/2 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-81/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation endSegment="-27/2 -27/2 27/2 27/2 0 0" startSegment="-81/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation endSegment="-27/2 0 27 27/2 0 0" startSegment="-27/2 -27/2 27/2 27/2 0 0"/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation endSegment="0 0 27 27 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation point="0 0 27 27 0 0"/>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="-27 -27/2 -27/2 0 0 0"/>
+    <SelectManifestation endSegment="-27 -27/2 -27/2 0 0 0" startSegment="-27 -27/2 27/2 0 0 0"/>
+    <SelectManifestation endSegment="-27 -27/2 -27/2 0 0 0" startSegment="-27 -27/2 27/2 0 0 0"/>
+    <SelectManifestation endSegment="-27 -27/2 -27/2 0 0 0" startSegment="-27 -27/2 27/2 0 0 0"/>
+    <SelectManifestation point="-27 -27/2 27/2 0 0 0"/>
+    <SelectManifestation point="-27 -27/2 -27/2 0 0 0"/>
+    <SelectManifestation endSegment="-27 -27/2 27/2 0 0 0" startSegment="-27/2 -27/2 27/2 27/2 0 0"/>
+    <EndBlock/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-81/2 -27/2 27/2 27/2 0 0"/>
+      <polygonVertex at="-81/2 -27 27 27/2 0 0"/>
+      <polygonVertex at="0 0 27 27 0 0"/>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+    </SelectManifestation>
+    <setItemColor blue="0" green="0" red="255"/>
+    <Snapshot id="11"/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="-27 -27/2 -27/2 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27/2 27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation endSegment="27/2 27/2 -27/2 -27/2 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="27/2 27/2 -27/2 -27/2 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="-81/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-27 -27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="-81/2 -27/2 -27/2 -27/2 0 0"/>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="-27 0 0 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <Branch>
+      <BeginBlock/>
+      <SelectManifestation>
+        <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+        <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+        <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+        <polygonVertex at="0 0 0 0 0 0"/>
+        <polygonVertex at="-27 0 0 0 0 0"/>
+      </SelectManifestation>
+      <SelectManifestation>
+        <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+        <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+        <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+        <polygonVertex at="0 0 0 0 0 0"/>
+        <polygonVertex at="-27 0 0 0 0 0"/>
+      </SelectManifestation>
+      <EndBlock/>
+      <Branch>
+        <setItemColor blue="0" green="204" red="0"/>
+        <Snapshot id="12"/>
+      </Branch>
+    </Branch>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-27 -27/2 -27/2 0 0 0"/>
+      <polygonVertex at="-81/2 -27/2 -27/2 -27/2 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="-27 0 0 0 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <setItemColor blue="0" green="204" red="0"/>
+    <BeginBlock/>
+    <SelectManifestation>
+      <polygonVertex at="-27/2 0 27 27/2 0 0"/>
+      <polygonVertex at="-27/2 0 0 27/2 0 0"/>
+      <polygonVertex at="0 0 0 0 0 0"/>
+      <polygonVertex at="0 27/2 -27/2 0 0 0"/>
+      <polygonVertex at="27 27/2 -27/2 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="-27/2 0 27 27/2 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="27 27/2 -27/2 0 0 0"/>
+    <SelectManifestation endSegment="27 27/2 -27/2 0 0 0" startSegment="0 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 27 27 0 0"/>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <JoinPoints closedLoop="false"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 27 27 0 0"/>
+    <SelectManifestation point="-27/2 0 27 27/2 0 0"/>
+    <SelectManifestation point="-27/2 0 0 27/2 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 27/2 -27/2 0 0 0"/>
+    <EndBlock/>
+    <Polygon/>
+    <setItemColor blue="0" green="255" red="255"/>
+    <SelectManifestation endSegment="0 27/2 -27/2 0 0 0" startSegment="0 0 27 27 0 0"/>
+    <setItemColor blue="0" green="0" red="0"/>
+    <Snapshot id="13"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="6" title="Dodecahedron start">
+      <ViewModel distance="583.4036254882812" far="1166.806640625" near="1.4585093259811401" parallel="false" stereoAngle="0.0" width="262.53173828125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="7" title="Triangle moved">
+      <ViewModel distance="583.4036254882812" far="1166.806640625" near="1.4585093259811401" parallel="false" stereoAngle="0.0" width="262.53173828125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="10" title="Second piece moved">
+      <ViewModel distance="583.4036254882812" far="1166.806640625" near="1.4585093259811401" parallel="false" stereoAngle="0.0" width="262.53173828125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="11" title="Third piece moved">
+      <ViewModel distance="583.4036254882812" far="1166.806640625" near="1.4585093259811401" parallel="false" stereoAngle="0.0" width="262.53173828125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="12" title="Fourth piece moved">
+      <ViewModel distance="583.4036254882812" far="1166.806640625" near="1.4585093259811401" parallel="false" stereoAngle="0.0" width="262.53173828125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="13" title="Fifth piece moved">
+      <ViewModel distance="583.4036254882812" far="1166.806640625" near="1.4585093259811401" parallel="false" stereoAngle="0.0" width="262.53173828125">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.0" y="1.0" z="0.0"/>
+        <LookDirection x="0.0" y="0.0" z="-1.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="583.4036254882812" far="1166.806640625" near="1.4585093259811401" parallel="false" stereoAngle="0.0" width="262.53173828125">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="dodecagonal" renderingStyle="prisms">
+    <Direction color="217,18,24" name="red" orbit="red"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="small octahedra">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[2,-1,1],[0,0,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-0" label="translation 0" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-1" label="Triangle 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-10" label="bookmark 10" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" hidden="true" id="tool-11" label="translation 11" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-12" label="6th piece" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-13" label="bookmark 13" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" hidden="true" id="tool-14" label="translation 14" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-15" label="bookmark 15" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" hidden="true" id="tool-16" label="translation 16" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-17" label="bookmark 17" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" hidden="true" id="tool-18" label="translation 18" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-19" label="bookmark 19" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" id="tool-2" label="translation 2" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" hidden="true" id="tool-20" label="translation 20" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-3" label="bookmark 3" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" hidden="true" id="tool-4" label="translation 4" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="true" hidden="true" id="tool-5" label="translation 5" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-6" label="bookmark 6" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="true" hidden="true" id="tool-7" label="translation 7" selectInputs="false"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-8" label="bookmark 8" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-9" label="4th piece" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

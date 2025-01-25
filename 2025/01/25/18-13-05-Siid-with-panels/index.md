@@ -1,6 +1,6 @@
 ---
 title: Siid with panels
-share-description: A 3D design created in vZome.  Use your mouse or touch to interact.
+share-description: A 3D design created in vZome from an original post by undeterminstic.  Use your mouse or touch to interact.
 image: https://ThynStyx.github.io/vzome-sharing/2025/01/25/18-13-05-Siid-with-panels/Siid-with-panels.png
 layout: design
 ---

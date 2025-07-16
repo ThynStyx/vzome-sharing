@@ -1,0 +1,2620 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="111" field="rootThree" version="7.1">
+  <EditHistory editNumber="127" lastStickyEdit="13">
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 81, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 81, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ ],
+  "struts" : [ ],
+  "panels" : [ {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <PanelPerimeters/>
+    <BeginBlock/>
+    <SelectManifestation point="-81 0 0 0 0 0"/>
+    <SelectManifestation point="-81 0 0 0 0 0"/>
+    <SelectAll originLast="true"/>
+    <EndBlock/>
+    <BookmarkTool name="tool-0"/>
+    <BeginBlock/>
+    <SelectManifestation point="-81 0 0 0 0 0"/>
+    <SelectManifestation point="-81 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="81 0 0 0 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ 0, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 81, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 108, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 108, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 243, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ 243, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ 243, 0, 2 ], [ 0, 81, 2 ], [ 0, 0, 1 ] ], [ [ 135, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 162, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 162, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 162, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  } ]
+}
+</ImportColoredMeshJson>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="81 0 0 0 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="27 0 0 -27 0 0"/>
+      <polygonVertex at="81/2 0 0 -81/2 0 0"/>
+      <polygonVertex at="81 0 0 -27 0 0"/>
+      <polygonVertex at="81 0 0 0 0 0"/>
+      <polygonVertex at="54 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="27 0 0 -27 0 0"/>
+      <polygonVertex at="81/2 0 0 -81/2 0 0"/>
+      <polygonVertex at="81 0 0 -27 0 0"/>
+      <polygonVertex at="81 0 0 0 0 0"/>
+      <polygonVertex at="54 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation point="81 0 0 0 0 0"/>
+    <SelectManifestation point="81 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-81 0 0 0 0 0"/>
+      <polygonVertex at="-81 0 0 -27 0 0"/>
+      <polygonVertex at="-81/2 0 0 -81/2 0 0"/>
+      <polygonVertex at="-27 0 0 -27 0 0"/>
+      <polygonVertex at="-54 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-81 0 0 0 0 0"/>
+      <polygonVertex at="-81 0 0 -27 0 0"/>
+      <polygonVertex at="-81/2 0 0 -81/2 0 0"/>
+      <polygonVertex at="-27 0 0 -27 0 0"/>
+      <polygonVertex at="-54 0 0 0 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation point="-81 0 0 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="81 0 0 0 0 0"/>
+    <SelectManifestation point="81 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-81 0 0 0 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -162, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -162, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -162, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -135, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -243, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ -243, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -243, 0, 2 ], [ 0, 81, 2 ], [ 0, 0, 1 ] ], [ [ -108, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -108, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 81, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -54 0 0"/>
+    <SelectManifestation point="0 0 0 -54 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -54 0 0"/>
+    <SelectManifestation point="0 0 0 -54 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -54 0 0"/>
+    <SelectManifestation point="0 0 0 -54 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-81 0 0 27 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 108, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="81 0 0 27 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 108, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 54 0 0"/>
+    <SelectManifestation point="0 0 0 54 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-81 0 0 -27 0 0" startSegment="-243/2 0 0 -81/2 0 0"/>
+    <SelectManifestation endSegment="-81 0 0 -27 0 0" startSegment="-243/2 0 0 -81/2 0 0"/>
+    <SelectManifestation point="-81 0 0 -27 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -189, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -27, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -108, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -189, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -27, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="81 0 0 -27 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -189, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -27, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -108, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -189, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -27, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="243 0 0 -27 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -189, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -27, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -108, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -189, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -27, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <SelectManifestation point="-243 0 0 -27 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-243 0 0 -27 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -189, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, -27, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -108, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -189, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -81, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, -27, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, -27, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -54 0 0"/>
+    <SelectManifestation>
+      <polygonVertex at="-27 0 0 -27 0 0"/>
+      <polygonVertex at="-81/2 0 0 -81/2 0 0"/>
+      <polygonVertex at="0 0 0 -54 0 0"/>
+      <polygonVertex at="81/2 0 0 -81/2 0 0"/>
+      <polygonVertex at="27 0 0 -27 0 0"/>
+    </SelectManifestation>
+    <SelectManifestation>
+      <polygonVertex at="-27 0 0 -27 0 0"/>
+      <polygonVertex at="-81/2 0 0 -81/2 0 0"/>
+      <polygonVertex at="0 0 0 -54 0 0"/>
+      <polygonVertex at="81/2 0 0 -81/2 0 0"/>
+      <polygonVertex at="27 0 0 -27 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <EndBlock/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 -54 0 0"/>
+    <SelectManifestation point="0 0 0 -54 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="-243 0 0 27 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 108, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="243 0 0 27 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 108, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="324 0 0 -54 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 108, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-324 0 0 -54 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "rootThree",
+  "vertices" : [ [ [ -81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ -54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ -81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ -27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 0, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 0, 0, 1 ], [ 0, 108, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 27, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 27, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 135, 2 ], [ 0, 0, 1 ] ], [ [ 81, 0, 2 ], [ 0, 189, 2 ], [ 0, 0, 1 ] ], [ [ 54, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 27, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 54, 1 ], [ 0, 0, 1 ] ], [ [ 81, 0, 1 ], [ 0, 81, 1 ], [ 0, 0, 1 ] ] ],
+  "balls" : [ {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 9, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 9 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 19, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 15, 19 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 15 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 13, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 10, 13 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 10 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 16, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 11, 16 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 11 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 21, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 20, 21 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 18, 20 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 18 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 12, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 17, 12 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 14, 17 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 8, 14 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#008EC2"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 3, 7, 10, 11 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 1, 0, 4, 7, 3 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 7, 4, 9, 15, 13 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 13, 15, 19, 20, 18 ],
+    "color" : "#FFC0CB"
+  }, {
+    "vertices" : [ 16, 11, 10, 13, 18 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 8, 5, 11, 16, 14 ],
+    "color" : "#800080"
+  }, {
+    "vertices" : [ 17, 14, 18, 20, 21 ],
+    "color" : "#A52A2A"
+  }, {
+    "vertices" : [ 3, 1, 2, 6, 8 ],
+    "color" : "#008000"
+  }, {
+    "vertices" : [ 6, 8, 14, 17, 12 ],
+    "color" : "#FFC0CB"
+  } ]
+}
+</ImportColoredMeshJson>
+    <DeselectAll/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="1378.6767578125" far="2757.351806640625" near="3.446692943572998" parallel="false" stereoAngle="0.0" width="620.4049072265625">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="dodecagonal" renderingStyle="prisms">
+    <Direction color="217,18,24" name="red" orbit="red"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="small octahedra">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[2,-1,1],[0,0,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="false" id="tool-0" label="bookmark 0" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

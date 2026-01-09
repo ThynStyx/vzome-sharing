@@ -1,0 +1,3262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="115" field="golden" version="7.1">
+  <EditHistory editNumber="242" lastStickyEdit="242">
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-52", "-81", "10" ], [ "-81", "-128", "10" ], [ "0", "0", "1" ] ], [ [ "-52", "-81", "10" ], [ "-61", "-98", "10" ], [ "-1", "-2", "1" ] ], [ [ "-52", "-81", "10" ], [ "-61", "-98", "10" ], [ "1", "2", "1" ] ], [ [ "-52", "-81", "10" ], [ "-41", "-68", "10" ], [ "0", "0", "1" ] ], [ [ "-32", "-51", "10" ], [ "-91", "-148", "10" ], [ "0", "0", "1" ] ], [ [ "-32", "-51", "10" ], [ "-71", "-118", "10" ], [ "-1", "-2", "1" ] ], [ [ "-32", "-51", "10" ], [ "-71", "-118", "10" ], [ "1", "2", "1" ] ], [ [ "-32", "-51", "10" ], [ "-51", "-88", "10" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 0, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 0, 2, 3, 1 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 4, 0, 1 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 5, 1, 3, 7 ],
+    "color" : "#90E690"
+  }, {
+    "vertices" : [ 5, 7, 6, 4 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 3, 2, 6 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 0, 4, 6, 2 ],
+    "color" : "#90EE90"
+  } ]
+}
+</ImportColoredMeshJson>
+    <DeselectAll/>
+    <Snapshot id="0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-3", "-5", "1" ], [ "0", "0", "1" ], [ "-1", "-2", "1" ] ], [ [ "-3", "-5", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "-3", "-5", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "-2", "-3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ], [ [ "-2", "-3", "1" ], [ "-2", "-3", "1" ], [ "2", "3", "1" ] ], [ [ "-2", "-3", "1" ], [ "0", "0", "1" ], [ "-3", "-5", "1" ] ], [ [ "-2", "-3", "1" ], [ "0", "0", "1" ], [ "3", "5", "1" ] ], [ [ "-2", "-3", "1" ], [ "2", "3", "1" ], [ "-2", "-3", "1" ] ], [ [ "-2", "-3", "1" ], [ "2", "3", "1" ], [ "2", "3", "1" ] ], [ [ "-1", "-2", "1" ], [ "-3", "-5", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-1", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "-1", "-2", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "1", "2", "1" ] ], [ [ "-1", "-2", "1" ], [ "3", "5", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "-3", "-5", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "-3", "-5", "1" ], [ "2", "3", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-2", "1" ], [ "-3", "-5", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-2", "1" ], [ "3", "5", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "2", "3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "-3", "-5", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "-1", "-1", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "3", "5", "1" ] ], [ [ "0", "0", "1" ], [ "3", "5", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "3", "5", "1" ], [ "2", "3", "1" ] ], [ [ "1", "1", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "1", "1", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "1", "2", "1" ], [ "-3", "-5", "1" ], [ "0", "0", "1" ] ], [ [ "1", "2", "1" ], [ "3", "5", "1" ], [ "0", "0", "1" ] ], [ [ "2", "3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ], [ [ "2", "3", "1" ], [ "-2", "-3", "1" ], [ "2", "3", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-3", "-5", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-1", "-1", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "3", "5", "1" ] ], [ [ "2", "3", "1" ], [ "2", "3", "1" ], [ "-2", "-3", "1" ] ], [ [ "2", "3", "1" ], [ "2", "3", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "3", "5", "1" ], [ "0", "0", "1" ], [ "-1", "-2", "1" ] ], [ [ "3", "5", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "3", "5", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 31,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 26,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 25,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 42,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 14,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 9,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 24,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 38,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 37,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 23,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 22,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 41,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 40,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 13,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 29,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 12,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 20,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 36,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 34,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 35,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 19,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 39,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 11,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 28,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 18,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 33,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 32,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 17,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 30,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 27,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 16,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 15,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 10,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 21,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 26, 31 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 25 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 31, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 26, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 26 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 24, 26 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 26, 38 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 25, 37 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 23, 25 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 14, 25 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 25, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 25, 22 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 37 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 38, 42 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 41 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 42, 40 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 13, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 29, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 14 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 9, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 9 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 13, 24 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 24, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 20, 24 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 24, 36 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 29, 38 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 38 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 29, 37 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 37, 34 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 35, 37 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 23, 13 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 19, 23 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 23, 35 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 22, 34 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 19, 22 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 22 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 22, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 35, 41 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 41 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 41, 39 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 40, 34 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 40, 39 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 13, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 13, 11 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 13 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 29 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 12 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 12, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 18 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 20 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 20, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 20, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 36 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 18, 36 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 36, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 32, 34 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 34, 17 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 35, 28 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 35, 32 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 19 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 19, 32 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 19, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 17 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 39, 32 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 39, 30 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 33, 39 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 11, 27 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 28, 27 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 18, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 27, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 16, 33 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 27, 32 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 32 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 17, 15 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 15, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 30, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 30, 15 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 10 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 27 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 16 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 10, 15 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-0"/>
+    <BookmarkTool name="tool-1"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-2"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-2" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "-3", "-5", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "-1", "-1", "1" ] ], [ [ "0", "0", "1" ], [ "3", "5", "1" ], [ "-2", "-3", "1" ] ], [ [ "2", "3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-3", "-5", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-1", "-1", "1" ] ], [ [ "2", "3", "1" ], [ "2", "3", "1" ], [ "-2", "-3", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 0, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 0, 3, 4, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 6, 2, 0, 5 ],
+    "color" : "#7FC6E0"
+  }, {
+    "vertices" : [ 6, 2, 4, 8 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 8, 6, 5, 7 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 8, 4, 3, 7 ],
+    "color" : "#7FC6E0"
+  }, {
+    "vertices" : [ 0, 5, 7, 3 ],
+    "color" : "#90EE90"
+  } ]
+}
+</ImportColoredMeshJson>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <BookmarkTool name="tool-3"/>
+    <DeselectAll/>
+    <Snapshot id="1"/>
+    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "4", "7", "5" ], [ "54", "87", "10" ], [ "-7", "-12", "2" ] ], [ [ "9", "17", "5" ], [ "54", "87", "10" ], [ "-11", "-18", "2" ] ], [ [ "14", "22", "5" ], [ "44", "67", "10" ], [ "-7", "-12", "2" ] ], [ [ "14", "22", "5" ], [ "64", "107", "10" ], [ "-7", "-12", "2" ] ], [ [ "19", "32", "5" ], [ "44", "67", "10" ], [ "-11", "-18", "2" ] ], [ [ "19", "32", "5" ], [ "64", "107", "10" ], [ "-11", "-18", "2" ] ], [ [ "24", "37", "5" ], [ "54", "87", "10" ], [ "-7", "-12", "2" ] ], [ [ "29", "47", "5" ], [ "54", "87", "10" ], [ "-11", "-18", "2" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 2, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 6, 8, 5, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 6, 4, 7, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 2, 1, 4 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 4, 1, 3, 7 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 3, 5, 8 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 2, 5, 3, 1 ],
+    "color" : "#FF0000"
+  } ]
+}
+</ImportColoredMeshJson>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <BookmarkTool name="tool-4"/>
+    <DeselectAll/>
+    <Snapshot id="2"/>
+    <BeginBlock/>
+    <SelectAll originLast="true"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-2", "-3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ], [ [ "-1", "-2", "1" ], [ "-3", "-5", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-1", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "-3", "-5", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "2", "3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 1, 4, 8, 5 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 3, 7, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 3, 0, 1, 5 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 3, 7, 2, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 8, 4, 2 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 1, 4, 2, 0 ],
+    "color" : "#FF0000"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Delete/>
+    <Snapshot id="3"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-29", "-47", "5" ], [ "-54", "-87", "10" ], [ "-11", "-18", "2" ] ], [ [ "-24", "-37", "5" ], [ "-54", "-87", "10" ], [ "-7", "-12", "2" ] ], [ [ "-19", "-32", "5" ], [ "-64", "-107", "10" ], [ "-11", "-18", "2" ] ], [ [ "-19", "-32", "5" ], [ "-44", "-67", "10" ], [ "-11", "-18", "2" ] ], [ [ "-14", "-22", "5" ], [ "-64", "-107", "10" ], [ "-7", "-12", "2" ] ], [ [ "-14", "-22", "5" ], [ "-44", "-67", "10" ], [ "-7", "-12", "2" ] ], [ [ "-9", "-17", "5" ], [ "-54", "-87", "10" ], [ "-11", "-18", "2" ] ], [ [ "-4", "-7", "5" ], [ "-54", "-87", "10" ], [ "-7", "-12", "2" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 5, 1, 4, 7 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 2, 6, 7, 4 ],
+    "color" : "#90E690"
+  }, {
+    "vertices" : [ 2, 4, 1, 0 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 3, 0, 1, 5 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 3, 5, 7, 6 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 3, 6, 2, 0 ],
+    "color" : "#0000FF"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-5"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <EndBlock/>
+    <Snapshot id="4"/>
+    <ApplyTool copyColors="true" name="tool-5" selectInputs="true"/>
+    <BeginBlock/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <EndBlock/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-2", "-3", "1" ], [ "-2", "-3", "1" ], [ "2", "3", "1" ] ], [ [ "-1", "-2", "1" ], [ "-3", "-5", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-1", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "-3", "-5", "1" ], [ "2", "3", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "2", "3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "2", "3", "1" ], [ "-2", "-3", "1" ], [ "2", "3", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 7 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 1, 5, 8, 4 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 8, 7, 2, 4 ],
+    "color" : "#90E690"
+  }, {
+    "vertices" : [ 2, 4, 1, 0 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 3, 0, 1, 5 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 3, 5, 8, 7 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 3, 7, 2, 0 ],
+    "color" : "#0000FF"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-6"/>
+    <DeselectAll/>
+    <Snapshot id="5"/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-27", "-46", "10" ], [ "-13", "-19", "5" ], [ "-14", "-23", "2" ] ], [ [ "-27", "-46", "10" ], [ "-3", "-4", "5" ], [ "-12", "-19", "2" ] ], [ [ "-17", "-26", "10" ], [ "-13", "-19", "5" ], [ "-18", "-29", "2" ] ], [ [ "-17", "-26", "10" ], [ "-3", "-4", "5" ], [ "-16", "-25", "2" ] ], [ [ "-7", "-16", "10" ], [ "-18", "-29", "5" ], [ "-14", "-23", "2" ] ], [ [ "-7", "-16", "10" ], [ "-8", "-14", "5" ], [ "-12", "-19", "2" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "3", "4", "10" ], [ "-18", "-29", "5" ], [ "-18", "-29", "2" ] ], [ [ "3", "4", "10" ], [ "-8", "-14", "5" ], [ "-16", "-25", "2" ] ] ],
+  "balls" : [ {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 0, 4, 5, 1 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 0, 2, 7, 4 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 0, 1, 3, 2 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 3, 1, 5, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 7, 2, 3, 8 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 7, 8, 5, 4 ],
+    "color" : "#FFFF00"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-7"/>
+    <DeselectAll/>
+    <Snapshot id="6"/>
+    <ApplyTool copyColors="true" name="tool-7" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-1", "-2", "1" ], [ "-1", "-1", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "1", "2", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "-1", "-1", "1" ] ], [ [ "1", "1", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "2", "3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-1", "-1", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 6, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 7 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 0, 5, 6, 1 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 2, 0, 5, 7 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 0, 1, 4, 2 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 8, 6, 1 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 2, 7, 8, 4 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 8, 7, 5, 6 ],
+    "color" : "#FFFF00"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-8"/>
+    <DeselectAll/>
+    <Snapshot id="7"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-2", "-3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ], [ [ "-1", "-2", "1" ], [ "-3", "-5", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-1", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "-3", "-5", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "2", "3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 1, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 1, 4, 8, 5 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 3, 7, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 3, 0, 1, 5 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 3, 7, 2, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 8, 4, 2 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 1, 4, 2, 0 ],
+    "color" : "#FF0000"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-9"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="tool-3" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-6" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-8" selectInputs="true"/>
+    <ApplyTool copyColors="true" name="tool-9" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-4", "10" ], [ "8", "14", "5" ], [ "-16", "-25", "2" ] ], [ [ "-3", "-4", "10" ], [ "18", "29", "5" ], [ "-18", "-29", "2" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "7", "16", "10" ], [ "8", "14", "5" ], [ "-12", "-19", "2" ] ], [ [ "7", "16", "10" ], [ "18", "29", "5" ], [ "-14", "-23", "2" ] ], [ [ "17", "26", "10" ], [ "3", "4", "5" ], [ "-16", "-25", "2" ] ], [ [ "17", "26", "10" ], [ "13", "19", "5" ], [ "-18", "-29", "2" ] ], [ [ "27", "46", "10" ], [ "3", "4", "5" ], [ "-12", "-19", "2" ] ], [ [ "27", "46", "10" ], [ "13", "19", "5" ], [ "-14", "-23", "2" ] ] ],
+  "balls" : [ {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 0, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 1 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 7, 3, 0, 5 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 6, 8, 7, 5 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 5, 0, 1 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 4, 1, 0, 3 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 4, 3, 7, 8 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 4, 8, 6, 1 ],
+    "color" : "#FFFF00"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-10"/>
+    <DeselectAll/>
+    <Snapshot id="8"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "1", "2", "1" ] ], [ [ "-1", "-2", "1" ], [ "3", "5", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "3", "5", "1" ] ], [ [ "0", "0", "1" ], [ "3", "5", "1" ], [ "2", "3", "1" ] ], [ [ "1", "1", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "1", "1", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "3", "5", "1" ] ], [ [ "2", "3", "1" ], [ "2", "3", "1" ], [ "2", "3", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 6, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 3 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 4, 1, 6, 8 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 3, 7, 8 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 1, 4, 3, 0 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 5, 0, 1 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 6, 5, 7, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 7, 3, 0, 5 ],
+    "color" : "#FFFF00"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-11"/>
+    <DeselectAll/>
+    <Snapshot id="9"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-48", "-79", "10" ], [ "-69", "-112", "10" ], [ "6", "10", "1" ] ], [ [ "-48", "-79", "10" ], [ "-49", "-82", "10" ], [ "5", "8", "1" ] ], [ [ "-38", "-59", "10" ], [ "-69", "-112", "10" ], [ "4", "7", "1" ] ], [ [ "-38", "-59", "10" ], [ "-49", "-82", "10" ], [ "3", "5", "1" ] ], [ [ "-28", "-49", "10" ], [ "-59", "-92", "10" ], [ "6", "10", "1" ] ], [ [ "-28", "-49", "10" ], [ "-39", "-62", "10" ], [ "5", "8", "1" ] ], [ [ "-18", "-29", "10" ], [ "-59", "-92", "10" ], [ "4", "7", "1" ] ], [ [ "-18", "-29", "10" ], [ "-39", "-62", "10" ], [ "3", "5", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 4, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 2 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 4, 6, 7, 5 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 7, 3, 1, 5 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 7, 6, 2, 3 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 5, 1, 0 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 0, 2, 6 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 1, 3, 2, 0 ],
+    "color" : "#90EE90"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-12"/>
+    <DeselectAll/>
+    <Snapshot id="10"/>
+    <ApplyTool copyColors="true" name="tool-12" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-3", "-5", "1" ], [ "0", "0", "1" ], [ "-1", "-2", "1" ] ], [ [ "-2", "-3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ], [ [ "-2", "-3", "1" ], [ "0", "0", "1" ], [ "-3", "-5", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-1", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "-1", "-2", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "-3", "-5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 6 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 1, 3, 2, 0 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 4, 0, 2, 6 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 5, 4, 0, 1 ],
+    "color" : "#FFCC00"
+  }, {
+    "vertices" : [ 3, 2, 6, 8 ],
+    "color" : "#7FC6E0"
+  }, {
+    "vertices" : [ 1, 3, 8, 5 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 4, 6, 8, 5 ],
+    "color" : "#90EE90"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-13"/>
+    <DeselectAll/>
+    <Snapshot id="11"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-22", "-41", "10" ], [ "-31", "-48", "10" ], [ "8", "13", "1" ] ], [ [ "-22", "-41", "10" ], [ "-11", "-18", "10" ], [ "7", "11", "1" ] ], [ [ "-12", "-21", "10" ], [ "-31", "-48", "10" ], [ "6", "10", "1" ] ], [ [ "-12", "-21", "10" ], [ "-31", "-48", "10" ], [ "10", "16", "1" ] ], [ [ "-12", "-21", "10" ], [ "-11", "-18", "10" ], [ "5", "8", "1" ] ], [ [ "-12", "-21", "10" ], [ "-11", "-18", "10" ], [ "9", "14", "1" ] ], [ [ "-2", "-1", "10" ], [ "-31", "-48", "10" ], [ "8", "13", "1" ] ], [ [ "-2", "-1", "10" ], [ "-11", "-18", "10" ], [ "7", "11", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 6, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 2 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 2, 6, 3, 0 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 2, 4, 7, 6 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 5, 3, 6, 7 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 1, 0, 3, 5 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 1, 5, 7, 4 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 1, 4, 2, 0 ],
+    "color" : "#90EE90"
+  } ]
+}
+</ImportColoredMeshJson>
+    <DeselectAll/>
+    <Snapshot id="12"/>
+    <SelectAll originLast="true"/>
+    <BookmarkTool name="tool-14"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-14" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "1", "1", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-1", "-1", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "3", "5", "1" ] ], [ [ "2", "3", "1" ], [ "2", "3", "1" ], [ "-2", "-3", "1" ] ], [ [ "2", "3", "1" ], [ "2", "3", "1" ], [ "2", "3", "1" ] ], [ [ "3", "5", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "3", "5", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 3, 1, 4, 7 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 8, 5, 3, 7 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 4, 7, 8 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 2, 1, 4, 6 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 5, 8, 6, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 2, 5, 3, 1 ],
+    "color" : "#90EE90"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-15"/>
+    <DeselectAll/>
+    <Snapshot id="13"/>
+    <ApplyTool copyColors="true" name="tool-15" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "2", "1", "10" ], [ "11", "18", "10" ], [ "7", "11", "1" ] ], [ [ "2", "1", "10" ], [ "31", "48", "10" ], [ "8", "13", "1" ] ], [ [ "12", "21", "10" ], [ "11", "18", "10" ], [ "5", "8", "1" ] ], [ [ "12", "21", "10" ], [ "11", "18", "10" ], [ "9", "14", "1" ] ], [ [ "12", "21", "10" ], [ "31", "48", "10" ], [ "6", "10", "1" ] ], [ [ "12", "21", "10" ], [ "31", "48", "10" ], [ "10", "16", "1" ] ], [ [ "22", "41", "10" ], [ "11", "18", "10" ], [ "7", "11", "1" ] ], [ [ "22", "41", "10" ], [ "31", "48", "10" ], [ "8", "13", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 4, 6, 2, 1 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 5, 2, 6, 8 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 3, 1, 2 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 7, 3, 5, 8 ],
+    "color" : "#FF6CB4"
+  }, {
+    "vertices" : [ 7, 8, 6, 4 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 7, 4, 1, 3 ],
+    "color" : "#0000FF"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-16"/>
+    <DeselectAll/>
+    <Snapshot id="14"/>
+    <ApplyTool copyColors="true" name="tool-16" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "1", "1", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "2", "3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ], [ [ "2", "3", "1" ], [ "-2", "-3", "1" ], [ "2", "3", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-1", "-1", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "3", "5", "1" ] ], [ [ "3", "5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "3", "5", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 4, 6, 2, 1 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 5, 2, 6, 8 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 3, 1, 2 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 7, 8, 5, 3 ],
+    "color" : "#FF6CB4"
+  }, {
+    "vertices" : [ 7, 8, 6, 4 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 7, 3, 1 ],
+    "color" : "#0000FF"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-17"/>
+    <DeselectAll/>
+    <Snapshot id="15"/>
+    <ApplyTool copyColors="true" name="tool-17" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "18", "29", "10" ], [ "39", "62", "10" ], [ "3", "5", "1" ] ], [ [ "18", "29", "10" ], [ "59", "92", "10" ], [ "4", "7", "1" ] ], [ [ "28", "49", "10" ], [ "39", "62", "10" ], [ "5", "8", "1" ] ], [ [ "28", "49", "10" ], [ "59", "92", "10" ], [ "6", "10", "1" ] ], [ [ "38", "59", "10" ], [ "49", "82", "10" ], [ "3", "5", "1" ] ], [ [ "38", "59", "10" ], [ "69", "112", "10" ], [ "4", "7", "1" ] ], [ [ "48", "79", "10" ], [ "49", "82", "10" ], [ "5", "8", "1" ] ], [ [ "48", "79", "10" ], [ "69", "112", "10" ], [ "6", "10", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 6, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 7, 5, 6, 8 ],
+    "color" : "#FF6CB4"
+  }, {
+    "vertices" : [ 4, 3, 7, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 4, 8, 6, 2 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 1, 2, 6, 5 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 1, 5, 7, 3 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 1, 3, 4, 2 ],
+    "color" : "#FF69B4"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-18"/>
+    <DeselectAll/>
+    <Snapshot id="16"/>
+    <ApplyTool copyColors="true" name="tool-18" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-3", "-5", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "-2", "-3", "1" ], [ "-2", "-3", "1" ], [ "2", "3", "1" ] ], [ [ "-2", "-3", "1" ], [ "0", "0", "1" ], [ "3", "5", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-1", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "1", "2", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "2", "3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "3", "5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 4 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 4, 5, 1, 0 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 0, 2, 3, 1 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 4, 0, 2, 6 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 8, 3, 1, 5 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 3, 8, 6, 2 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 4, 5, 8 ],
+    "color" : "#FF6CB4"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-19"/>
+    <DeselectAll/>
+    <Snapshot id="17"/>
+    <ApplyTool copyColors="true" name="tool-19" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "32", "51", "10" ], [ "41", "68", "10" ], [ "0", "0", "1" ] ], [ [ "32", "51", "10" ], [ "61", "98", "10" ], [ "-1", "-2", "1" ] ], [ [ "32", "51", "10" ], [ "61", "98", "10" ], [ "1", "2", "1" ] ], [ [ "32", "51", "10" ], [ "81", "128", "10" ], [ "0", "0", "1" ] ], [ [ "52", "81", "10" ], [ "51", "88", "10" ], [ "0", "0", "1" ] ], [ [ "52", "81", "10" ], [ "71", "118", "10" ], [ "-1", "-2", "1" ] ], [ [ "52", "81", "10" ], [ "71", "118", "10" ], [ "1", "2", "1" ] ], [ [ "52", "81", "10" ], [ "91", "148", "10" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 1 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 6, 2, 4, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 7, 8, 4, 3 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 2, 1, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 6, 8, 7, 5 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 7, 3, 1 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 5, 1, 2 ],
+    "color" : "#7FC6E0"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-20"/>
+    <DeselectAll/>
+    <Snapshot id="18"/>
+    <ApplyTool copyColors="true" name="tool-20" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-3", "-5", "1" ], [ "0", "0", "1" ], [ "-1", "-2", "1" ] ], [ [ "-3", "-5", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "-3", "-5", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-1", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "-1", "-2", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "1", "2", "1" ] ], [ [ "-1", "-2", "1" ], [ "3", "5", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 6, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 1, 5, 7, 3 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 7, 6, 2, 3 ],
+    "color" : "#FFCC00"
+  }, {
+    "vertices" : [ 3, 1, 0, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 7, 6, 4 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 4, 6, 2, 0 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 5, 4, 0, 1 ],
+    "color" : "#FFCC00"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-21"/>
+    <DeselectAll/>
+    <Snapshot id="19"/>
+    <ApplyTool copyColors="true" name="tool-21" selectInputs="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ShowHidden/>
+    <DeselectAll/>
+    <Snapshot id="20"/>
+    <SelectAll originLast="true"/>
+    <Hide>
+      <Boolean attrName="org.vorthmann.zome.editor.Command.LOADING_FROM_FILE" value="true"/>
+    </Hide>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "4", "7", "5" ], [ "54", "87", "10" ], [ "-7", "-12", "2" ] ], [ [ "9", "17", "5" ], [ "54", "87", "10" ], [ "-11", "-18", "2" ] ], [ [ "14", "22", "5" ], [ "44", "67", "10" ], [ "-7", "-12", "2" ] ], [ [ "14", "22", "5" ], [ "64", "107", "10" ], [ "-7", "-12", "2" ] ], [ [ "19", "32", "5" ], [ "44", "67", "10" ], [ "-11", "-18", "2" ] ], [ [ "19", "32", "5" ], [ "64", "107", "10" ], [ "-11", "-18", "2" ] ], [ [ "24", "37", "5" ], [ "54", "87", "10" ], [ "-7", "-12", "2" ] ], [ [ "29", "47", "5" ], [ "54", "87", "10" ], [ "-11", "-18", "2" ] ] ],
+  "balls" : [ {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 2, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 6, 8, 5, 2 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 6, 4, 7, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 2, 1, 4 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 4, 1, 3, 7 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 7, 3, 5, 8 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 2, 5, 3, 1 ],
+    "color" : "#FF0000"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-22"/>
+    <DeselectAll/>
+    <Snapshot id="21"/>
+    <ShowHidden/>
+    <DeselectAll/>
+    <Snapshot id="22"/>
+    <StrutCreation anchor="-14/5 -22/5 -22/5 -67/10 -7/2 -6" index="9" len="2 4"/>
+    <BeginBlock/>
+    <SelectManifestation point="-9/5 -12/5 -12/5 -37/10 -5/2 -5"/>
+    <SelectManifestation endSegment="-9/5 -12/5 -12/5 -37/10 -5/2 -5" startSegment="-14/5 -22/5 -22/5 -67/10 -7/2 -6"/>
+    <EndBlock/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-3", "-5", "1" ], [ "-2", "-3", "1" ], [ "0", "0", "1" ] ], [ [ "-3", "-5", "1" ], [ "0", "0", "1" ], [ "-1", "-2", "1" ] ], [ [ "-2", "-3", "1" ], [ "-2", "-3", "1" ], [ "-2", "-3", "1" ] ], [ [ "-2", "-3", "1" ], [ "0", "0", "1" ], [ "-3", "-5", "1" ] ], [ [ "-1", "-2", "1" ], [ "-1", "-1", "1" ], [ "0", "0", "1" ] ], [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "-1", "-2", "1" ] ], [ [ "0", "0", "1" ], [ "-1", "-1", "1" ], [ "-2", "-3", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "-3", "-5", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 4, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 8, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 2 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 4, 6, 8, 5 ],
+    "color" : "#90EE90"
+  }, {
+    "vertices" : [ 1, 3, 8, 5 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 3, 2, 6, 8 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 5, 4, 0, 1 ],
+    "color" : "#FFCC00"
+  }, {
+    "vertices" : [ 4, 0, 2, 6 ],
+    "color" : "#FF69B4"
+  }, {
+    "vertices" : [ 1, 3, 2, 0 ],
+    "color" : "#90EE90"
+  } ]
+}
+</ImportColoredMeshJson>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <Branch>
+      <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "-1", "-2", "1" ], [ "1", "2", "1" ], [ "1", "2", "1" ] ], [ [ "-1", "-2", "1" ], [ "3", "5", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "0", "0", "1" ], [ "1", "2", "1" ], [ "-1", "-1", "1" ] ], [ [ "0", "0", "1" ], [ "3", "5", "1" ], [ "-2", "-3", "1" ] ], [ [ "1", "1", "1" ], [ "0", "0", "1" ], [ "1", "2", "1" ] ], [ [ "1", "1", "1" ], [ "2", "3", "1" ], [ "0", "0", "1" ] ], [ [ "2", "3", "1" ], [ "0", "0", "1" ], [ "-1", "-1", "1" ] ], [ [ "2", "3", "1" ], [ "2", "3", "1" ], [ "-2", "-3", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 6, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 0, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 1, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 0 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 7, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 3, 0, 1, 4 ],
+    "color" : "#90E68E"
+  }, {
+    "vertices" : [ 8, 6, 1, 4 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 5, 0, 1 ],
+    "color" : "#FF69E6"
+  }, {
+    "vertices" : [ 8, 4, 3, 7 ],
+    "color" : "#FF69E6"
+  }, {
+    "vertices" : [ 3, 7, 5, 0 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 8, 7, 5 ],
+    "color" : "#7FC6E0"
+  } ]
+}
+</ImportColoredMeshJson>
+      <BookmarkTool name="tool-23"/>
+    </Branch>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-0" selectInputs="true"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="tool-20" selectInputs="true"/>
+    <Delete/>
+    <ApplyTool copyColors="true" name="bookmark.builtin/ball at origin" selectInputs="true"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "32", "51", "10" ], [ "41", "68", "10" ], [ "0", "0", "1" ] ], [ [ "32", "51", "10" ], [ "61", "98", "10" ], [ "-1", "-2", "1" ] ], [ [ "32", "51", "10" ], [ "61", "98", "10" ], [ "1", "2", "1" ] ], [ [ "32", "51", "10" ], [ "81", "128", "10" ], [ "0", "0", "1" ] ], [ [ "52", "81", "10" ], [ "51", "88", "10" ], [ "0", "0", "1" ] ], [ [ "52", "81", "10" ], [ "71", "118", "10" ], [ "-1", "-2", "1" ] ], [ [ "52", "81", "10" ], [ "71", "118", "10" ], [ "1", "2", "1" ] ], [ [ "52", "81", "10" ], [ "91", "148", "10" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 1 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 6, 2, 4, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 7, 8, 4, 3 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 2, 1, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 6, 8, 7, 5 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 7, 3, 1 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 5, 1, 2 ],
+    "color" : "#FFFF00"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-24"/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-21" selectInputs="true"/>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-3 -5 0 0 -1 -2"/>
+      <polygonVertex at="-2 -3 0 0 -3 -5"/>
+      <polygonVertex at="-2 -3 -2 -3 -2 -3"/>
+      <polygonVertex at="-3 -5 -2 -3 0 0"/>
+    </SelectManifestation>
+    <EndBlock/>
+    <Hide/>
+    <ShowHidden/>
+    <DeselectAll/>
+    <ApplyTool copyColors="true" name="tool-24" selectInputs="true"/>
+    <InvertSelection/>
+    <Hide/>
+    <SelectManifestation point="0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0">{
+  "field" : "golden",
+  "vertices" : [ [ [ "0", "0", "1" ], [ "0", "0", "1" ], [ "0", "0", "1" ] ], [ [ "32", "51", "10" ], [ "41", "68", "10" ], [ "0", "0", "1" ] ], [ [ "32", "51", "10" ], [ "61", "98", "10" ], [ "-1", "-2", "1" ] ], [ [ "32", "51", "10" ], [ "61", "98", "10" ], [ "1", "2", "1" ] ], [ [ "32", "51", "10" ], [ "81", "128", "10" ], [ "0", "0", "1" ] ], [ [ "52", "81", "10" ], [ "51", "88", "10" ], [ "0", "0", "1" ] ], [ [ "52", "81", "10" ], [ "71", "118", "10" ], [ "-1", "-2", "1" ] ], [ [ "52", "81", "10" ], [ "71", "118", "10" ], [ "1", "2", "1" ] ], [ [ "52", "81", "10" ], [ "91", "148", "10" ], [ "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 8,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 7, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 8 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 6, 5 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 6 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 2 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 4, 3 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 5, 1 ],
+    "color" : "#D91218"
+  }, {
+    "vertices" : [ 2, 1 ],
+    "color" : "#D91218"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 6, 2, 4, 8 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 7, 8, 4, 3 ],
+    "color" : "#FFFF00"
+  }, {
+    "vertices" : [ 4, 2, 1, 3 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 6, 8, 7, 5 ],
+    "color" : "#0000FF"
+  }, {
+    "vertices" : [ 5, 7, 3, 1 ],
+    "color" : "#FF0000"
+  }, {
+    "vertices" : [ 6, 5, 1, 2 ],
+    "color" : "#FFFF00"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BookmarkTool name="tool-25"/>
+    <DeselectAll/>
+    <Snapshot id="23"/>
+    <ShowHidden/>
+    <DeselectAll/>
+    <Snapshot id="24"/>
+  </EditHistory>
+  <notes>
+    <page snapshot="0" title="F out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="1" title="F in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="2" title="J out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="3" title="J in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="4" title="G out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="5" title="G in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="6" title="H out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="7" title="H in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="8" title="I out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="9" title="I in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="10" title="E out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="11" title="E in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="12" title="D out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="13" title="D in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="14" title="C out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="15" title="C in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="16" title="B out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="17" title="B in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="23" title="A out">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="19" title="A in">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+    <page snapshot="24" title="LLL1 ins and outs">
+      <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+        <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+        <UpDirection x="0.525731086730957" y="0.8506507873535156" z="0.0"/>
+        <LookDirection x="0.8506507873535156" y="-0.525731086730957" z="0.0"/>
+      </ViewModel>
+      <content xml:space="preserve"/>
+    </page>
+  </notes>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="301.5329895019531" far="603.0657958984375" near="0.7538324594497681" parallel="true" stereoAngle="0.0" width="135.68984985351562">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.4574999213218689" y="0.7255011200904846" z="0.5141412019729614"/>
+      <LookDirection x="0.8572717308998108" y="-0.513434886932373" z="-0.03832407668232918"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="icosahedral" renderingStyle="lifelike">
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+    <Direction color="0,153,63" name="green" orbit="[[2,-1,1],[5,-3,1]]"/>
+    <Direction color="154,117,74" name="sand" orbit="[[-8,5,1],[5,-3,1]]"/>
+    <Direction color="18,73,48" name="spruce" orbit="[[-5,4,11],[-5,4,11]]"/>
+    <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+    <Direction color="255,126,106" name="coral" orbit="[[-3,2,2],[-1,1,2]]"/>
+    <Direction color="50,50,50" name="black" orbit="[[-2,3,11],[-7,5,11]]"/>
+    <Direction color="117,0,50" name="maroon" orbit="[[5,-3,1],[0,0,1]]"/>
+    <Direction color="255,179,26" name="yellow" orbit="[[0,0,1],[2,-1,1]]"/>
+    <Direction color="239,245,61" name="sulfur" orbit="[[-1,1,3],[0,0,1]]"/>
+    <Direction color="255,51,143" name="rose" orbit="[[0,0,1],[-4,3,5]]"/>
+    <Direction color="0,179,161" name="turquoise" orbit="[[2,-1,2],[-3,2,2]]"/>
+    <Direction color="116,195,0" name="apple" orbit="[[2,-1,3],[-1,1,3]]"/>
+    <Direction color="136,37,0" name="cinnamon" orbit="[[5,-3,2],[2,-1,2]]"/>
+    <Direction color="125,54,211" name="purple" orbit="[[2,-1,1],[0,0,1]]"/>
+    <Direction color="235,82,0" name="orange" orbit="[[-4,3,5],[3,-1,5]]"/>
+    <Direction color="0,0,153" name="navy" orbit="[[-1,1,2],[2,-1,2]]"/>
+    <Direction color="107,53,26" name="brown" orbit="[[2,-1,3],[5,-3,3]]"/>
+    <Direction color="175,135,255" name="lavender" orbit="[[-3,2,1],[-3,2,1]]"/>
+    <Direction color="100,113,0" name="olive" orbit="[[3,-1,5],[0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="trapezoids">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,1],[0,0,1]]"/>
+      <Direction color="175,135,255" name="lavender" orbit="[[1,2,1],[-1,0,1]]"/>
+      <Direction color="0,179,161" name="turquoise" orbit="[[-1,2,1],[1,-2,1]]"/>
+      <Direction color="50,50,50" name="black" orbit="[[0,1,1],[1,-1,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,1],[-1,0,1]]"/>
+      <Direction color="100,113,0" name="olive" orbit="[[1,0,1],[3,-2,1]]"/>
+      <Direction color="117,0,50" name="maroon" orbit="[[-1,2,1],[1,0,1]]"/>
+      <Direction color="107,53,26" name="brown" orbit="[[1,0,1],[-2,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,1],[-1,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="[[-1,1,1],[0,0,1]]"/>
+      <Direction color="125,54,211" name="purple" orbit="[[0,0,1],[2,-1,1]]"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools>
+    <Tool copyColors="true" deleteInputs="false" id="tool-0" label="Core" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-1" label="bookmark 1" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-10" label="I out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-11" label="I in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-12" label="E out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-13" label="E in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-14" label="D out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-15" label="D in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-16" label="C out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-17" label="C in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-18" label="B out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-19" label="B in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-2" label="F out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-20" label="A out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-21" label="A in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-22" label="J out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-23" label="7 in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" hidden="true" id="tool-24" label="A out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-25" label="A out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-3" label="F in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-4" label="J out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-5" label="G out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-6" label="G in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-7" label="H out" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-8" label="H in" selectInputs="true"/>
+    <Tool copyColors="true" deleteInputs="false" id="tool-9" label="j in" selectInputs="true"/>
+  </Tools>
+</vzome:vZome>

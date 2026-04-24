@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<vzome:vZome xmlns:vzome="http://xml.vzome.com/vZome/4.0.0/" buildNumber="117" field="heptagon" version="7.1">
+  <EditHistory editNumber="14" lastStickyEdit="-1">
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <ImportColoredMeshJson scale="1 0 0">{
+  "field" : "heptagon",
+  "vertices" : [ [ [ "2", "-18", "-8", "7" ], [ "-5", "10", "-1", "7" ], [ "0", "0", "0", "1" ] ], [ [ "-5", "-4", "-8", "7" ], [ "-5", "-4", "-8", "7" ], [ "0", "0", "0", "1" ] ], [ [ "-5", "-4", "-8", "7" ], [ "9", "3", "13", "7" ], [ "0", "0", "0", "1" ] ], [ [ "0", "0", "0", "1" ], [ "0", "0", "0", "1" ], [ "0", "0", "0", "1" ] ], [ [ "-5", "10", "-1", "7" ], [ "2", "-18", "-8", "7" ], [ "0", "0", "0", "1" ] ], [ [ "-5", "10", "-1", "7" ], [ "9", "3", "13", "7" ], [ "0", "0", "0", "1" ] ], [ [ "9", "3", "13", "7" ], [ "-5", "-4", "-8", "7" ], [ "0", "0", "0", "1" ] ], [ [ "9", "3", "13", "7" ], [ "-5", "10", "-1", "7" ], [ "0", "0", "0", "1" ] ] ],
+  "balls" : [ {
+    "vertex" : 2,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 5,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 7,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 6,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 4,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 1,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 0,
+    "color" : "#F2F2F2"
+  }, {
+    "vertex" : 3,
+    "color" : "#F2F2F2"
+  } ],
+  "struts" : [ {
+    "vertices" : [ 0, 2 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 2, 5 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 5, 7 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 7, 6 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 6, 4 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 4, 1 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 1, 0 ],
+    "color" : "#008EC2"
+  }, {
+    "vertices" : [ 3, 2 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 5 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 7 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 6 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 4 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 1 ],
+    "color" : "#00993F"
+  }, {
+    "vertices" : [ 3, 0 ],
+    "color" : "#00993F"
+  } ],
+  "panels" : [ {
+    "vertices" : [ 2, 0, 1, 4, 6, 7, 5 ],
+    "color" : "#EC888B"
+  } ]
+}
+</ImportColoredMeshJson>
+    <BeginBlock/>
+    <DeselectAll/>
+    <SelectManifestation point="-5/7 10/7 -1/7 9/7 3/7 13/7 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation>
+      <polygonVertex at="-5/7 -4/7 -8/7 9/7 3/7 13/7 0 0 0"/>
+      <polygonVertex at="2/7 -18/7 -8/7 -5/7 10/7 -1/7 0 0 0"/>
+      <polygonVertex at="-5/7 -4/7 -8/7 -5/7 -4/7 -8/7 0 0 0"/>
+      <polygonVertex at="-5/7 10/7 -1/7 2/7 -18/7 -8/7 0 0 0"/>
+      <polygonVertex at="9/7 3/7 13/7 -5/7 -4/7 -8/7 0 0 0"/>
+      <polygonVertex at="9/7 3/7 13/7 -5/7 10/7 -1/7 0 0 0"/>
+      <polygonVertex at="-5/7 10/7 -1/7 9/7 3/7 13/7 0 0 0"/>
+    </SelectManifestation>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-5/7 10/7 -1/7 9/7 3/7 13/7 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <DeselectAll/>
+    <SelectManifestation endSegment="-5/7 -4/7 -8/7 9/7 3/7 13/7 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+    <SelectManifestation point="0 0 0 0 0 0 0 0 0"/>
+    <EndBlock/>
+    <SelectManifestation endSegment="-5/7 -4/7 -8/7 9/7 3/7 13/7 0 0 0" startSegment="0 0 0 0 0 0 0 0 0"/>
+  </EditHistory>
+  <notes/>
+  <sceneModel ambientLight="41,41,41" background="175,200,220">
+    <directionalLight color="235,235,228" x="1.0" y="-1.0" z="-1.0"/>
+    <directionalLight color="228,228,235" x="-1.0" y="0.0" z="0.0"/>
+    <directionalLight color="30,30,30" x="0.0" y="0.0" z="-1.0"/>
+  </sceneModel>
+  <Viewing>
+    <ViewModel distance="108.73126983642578" far="217.46253967285156" near="0.27182817459106445" parallel="false" stereoAngle="0.0" width="48.92906951904297">
+      <LookAtPoint x="0.0" y="0.0" z="0.0"/>
+      <UpDirection x="0.0" y="1.0" z="0.0"/>
+      <LookDirection x="0.0" y="0.0" z="-1.0"/>
+    </ViewModel>
+  </Viewing>
+  <SymmetrySystem name="heptagonal antiprism corrected" renderingStyle="heptagonal antiprism">
+    <Direction color="217,18,24" name="red" orbit="red"/>
+    <Direction color="0,153,63" name="green" orbit="[[-2,0,1,1],[0,0,0,1]]"/>
+    <Direction color="0,142,194" name="blue" orbit="[[0,0,0,1],[0,0,0,1]]"/>
+  </SymmetrySystem>
+  <OtherSymmetries>
+    <SymmetrySystem name="octahedral" renderingStyle="octahedra">
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,0,1],[0,0,0,1]]"/>
+      <Direction color="0,153,63" name="green" orbit="[[0,0,0,1],[-1,0,0,1]]"/>
+      <Direction color="255,179,26" name="yellow" orbit="[[1,0,0,1],[-1,0,0,1]]"/>
+    </SymmetrySystem>
+    <SymmetrySystem name="heptagonal antiprism" renderingStyle="heptagonal antiprism">
+      <Direction color="0,153,63" name="green" orbit="[[-2,0,1,1],[0,0,0,1]]"/>
+      <Direction color="0,142,194" name="blue" orbit="[[0,0,0,1],[0,0,0,1]]"/>
+      <Direction color="217,18,24" name="red" orbit="red"/>
+    </SymmetrySystem>
+  </OtherSymmetries>
+  <Tools/>
+</vzome:vZome>
